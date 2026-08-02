@@ -1,0 +1,80 @@
+Oddity_config_section =
+{
+   version = 1.00
+   midi =
+   {
+      // Bind param with cc_, rpn_ or nrpn_ as prefix + CC/(N)RPN #.
+      control_map =
+      {
+         id_0 = cc_77	// VCO1 PWM Src
+         id_1 = cc_80	// VCO2 PWM Src
+         id_2 = cc_70	// VCO1 PWM Lvl
+         id_3 = cc_74	// VCO2 PWM Lvl
+         id_4 = cc_75	// VCO1 FM1 Src
+         id_5 = cc_78	// VCO2 FM1 Src
+         id_6 = cc_76	// VCO1 FM2 Src
+         id_7 = cc_79	// VCO2 FM2 Src
+         id_8 = cc_61	// VCO1 FM1 Lvl
+         id_9 = cc_71	// VCO2 FM1 Lvl
+         id_10 = cc_62	// VCO1 FM2 Lvl
+         id_11 = cc_72	// VCO2 FM2 Lvl
+         id_12 = cc_57	// Portamento
+         id_13 = cc_28	// VCF Mod1 Src
+         id_14 = cc_29	// VCF Mod2 Src
+         id_15 = cc_30	// VCF Mod3 Src
+         id_16 = cc_18	// VCF Mod1 Lvl
+         id_17 = cc_19	// VCF Mod2 Lvl
+         id_18 = cc_22	// VCF Mod3 Lvl
+         id_19 = cc_108	// S/H Trig
+         id_20 = cc_47	// Osc Mode
+         id_21 = cc_24	// ADSR Atk Time
+         id_22 = cc_25	// ADSR Dcy Time
+         id_23 = cc_26	// ADSR Sus Lvl
+         id_24 = cc_27	// ADSR Rel Time
+         id_25 = cc_35	// ADSR LFO Rep
+         id_26 = cc_41	// ADSR Auto-Rep
+         id_27 = cc_14	// AR Atk Time
+         id_28 = cc_15	// AR Rel Time
+         id_29 = cc_46	// AR LFO Re
+         id_30 = cc_95	// LFO Freq
+         id_31 = cc_109	// LFO Tempo Sync
+         id_32 = cc_110	// LFO Key Trig
+         id_33 = cc_52	// VCO1 TuneC
+         id_34 = cc_54	// VCO2 TuneC
+         id_35 = cc_53	// VCO1 TuneF
+         id_36 = cc_55	// VCO2 TuneF
+         id_37 = cc_63	// VCO1 PW
+         id_38 = cc_73	// VCO2 PW
+         id_39 = cc_81	// VCO1 Src
+         id_40 = cc_82	// VCO2 Sync
+         id_41 = cc_85	// Noise Type
+         id_42 = cc_94	// S/H Lag
+         id_43 = cc_106	// S/H Mix1 Src
+         id_44 = cc_92	// S/H Mix1 Lvl
+         id_45 = cc_107	// S/H Mix2 Src
+         id_46 = cc_93	// S/H Mix2 Lvl
+         id_47 = cc_111	// Mix Src1
+         id_48 = cc_112	// Mix Src2
+         id_49 = cc_113	// Mix Src3
+         id_50 = cc_58	// Mix1Lvl
+         id_51 = cc_59	// Mix2Lvl
+         id_52 = cc_60	// Mix3Lvl
+         id_53 = cc_20	// VCF Freq
+         id_54 = cc_21	// VCF Reso
+         id_55 = cc_3	// HPF Freq
+         id_56 = cc_9	// VCA Gain
+         id_57 = cc_31	// VCA Env
+         id_58 = cc_23	// VCA Env Lvl
+         id_59 = cc_16	// Velo-VCA Sens
+         id_60 = cc_17	// Velo-VCF Sens
+      }
+      port_in =
+      {
+         name = "VST MIDI In interface"
+      }
+      port_out =
+      {
+         name = "VST MIDI Out interface"
+      }
+   }
+}

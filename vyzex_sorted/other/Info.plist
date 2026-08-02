@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleBuild</key>
+	<string>1</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleDocumentTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeExtensions</key>
+			<array>
+				<string>sqc</string>
+				<string>sqd</string>
+			</array>
+			<key>CFBundleTypeIconFile</key>
+			<string>SQDB.icns</string>
+			<key>CFBundleTypeName</key>
+			<string>Midi Quest Collection</string>
+			<key>CFBundleTypeOSTypes</key>
+			<array>
+				<string>SQDB</string>
+			</array>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>LSIsAppleDefaultForType</key>
+			<string>Yes</string>
+		</dict>
+		<dict>
+			<key>CFBundleTypeExtensions</key>
+			<array>
+				<string>sqs</string>
+				<string>sqg</string>
+			</array>
+			<key>CFBundleTypeIconFile</key>
+			<string>SQST.icns</string>
+			<key>CFBundleTypeName</key>
+			<string>Midi Quest Set</string>
+			<key>CFBundleTypeOSTypes</key>
+			<array>
+				<string>SQST</string>
+			</array>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>LSIsAppleDefaultForType</key>
+			<string>Yes</string>
+		</dict>
+		<dict>
+			<key>CFBundleTypeExtensions</key>
+			<array>
+				<string>sq9</string>
+			</array>
+			<key>CFBundleTypeIconFile</key>
+			<string>SQDL.icns</string>
+			<key>CFBundleTypeName</key>
+			<string>Midi Quest Studio</string>
+			<key>CFBundleTypeOSTypes</key>
+			<array>
+				<string>SQDL</string>
+			</array>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>LSIsAppleDefaultForType</key>
+			<string>Yes</string>
+		</dict>
+		<dict>
+			<key>CFBundleTypeName</key>
+			<string>Midi Quest Compressed File</string>
+			<key>CFBundleTypeOSTypes</key>
+			<string></string>
+			<key>LSIsAppleDefaultForType</key>
+			<array>
+				<string>SQZ </string>
+			</array>
+		</dict>
+	</array>
+	<key>CFBundleExecutable</key>
+	<string>MiniQuest</string>
+	<key>CFBundleGetInfoHTML</key>
+	<string>www.psicraft.com</string>
+	<key>CFBundleGetInfoString</key>
+	<string>Vyzex MPK88/61, version 1.00 copyright Psicraft Designs, Inc. 2009. MiniQuest, version 10.0 copyright 1989-2008 Sound Quest Inc.</string>
+	<key>CFBundleHelpBookFolder</key>
+	<string>HTMLHelp</string>
+	<key>CFBundleHelpBookName</key>
+	<string>Vyzex MPK88-61 Help</string>
+	<key>CFBundleIconFile</key>
+	<string>MQ.icns</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.psicraft.vyzex.mpk88-61</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Vyzex MPK88-61</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.00</string>
+	<key>CFBundleSignature</key>
+	<string>PSM5</string>
+	<key>CFBundleVersion</key>
+	<string>1.00</string>
+	<key>LSPrefersCarbon</key>
+	<true/>
+</dict>
+</plist>

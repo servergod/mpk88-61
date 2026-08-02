@@ -1,0 +1,116 @@
+{
+ "0x800421a": {
+  "new_label": "main_loop_scheduler",
+  "confidence": "confirmed",
+  "evidence": "cooperative round-robin task scheduler: reads per-slot next-fire-time from array at 0x800458c, checks via task_timer_expired_check, calls handler if due, reschedules via get_current_tick_count + fixed interval",
+  "pool": "core_pipeline"
+ },
+ "0x8013d7e": {
+  "new_label": "task_timer_expired_check",
+  "confidence": "confirmed",
+  "evidence": "called uniformly before every scheduled task handler in the main loop with that tasks stored next-fire-time -- timer/tick comparison primitive",
+  "pool": "core_pipeline"
+ },
+ "0x8013d6a": {
+  "new_label": "get_current_tick_count",
+  "confidence": "confirmed",
+  "evidence": "called uniformly after every scheduled task handler runs, result + fixed interval stored back as the tasks next-fire-time -- system tick reader",
+  "pool": "core_pipeline"
+ },
+ "0x8010c8c": {
+  "new_label": "scheduled_task_2tick",
+  "confidence": "inferred",
+  "evidence": "main-loop task, 2-tick interval (fastest scheduled task found)",
+  "pool": "keybed_matrix"
+ },
+ "0x8010ab2": {
+  "new_label": "scheduled_task_10tick",
+  "confidence": "inferred",
+  "evidence": "main-loop task, 10-tick interval",
+  "pool": "keybed_matrix"
+ },
+ "0x801704a": {
+  "new_label": "scheduled_task_100tick_a",
+  "confidence": "inferred",
+  "evidence": "main-loop task, 100-tick interval",
+  "pool": "core_pipeline"
+ },
+ "0x8013c24": {
+  "new_label": "scheduled_task_100tick_b",
+  "confidence": "inferred",
+  "evidence": "main-loop task, 100-tick interval",
+  "pool": "core_pipeline"
+ },
+ "0x80139e6": {
+  "new_label": "scheduled_task_100tick_c",
+  "confidence": "inferred",
+  "evidence": "main-loop task, 100-tick interval",
+  "pool": "core_pipeline"
+ },
+ "0x8013c74": {
+  "new_label": "scheduled_task_unconditional_a",
+  "confidence": "inferred",
+  "evidence": "runs every main-loop pass, not timer-gated (needs low latency, like the event dispatcher)",
+  "pool": "core_pipeline"
+ },
+ "0x8013b8c": {
+  "new_label": "scheduled_task_100tick_d",
+  "confidence": "inferred",
+  "evidence": "main-loop task, 100-tick interval",
+  "pool": "core_pipeline"
+ },
+ "0x8006878": {
+  "new_label": "scheduled_task_200tick_a",
+  "confidence": "inferred",
+  "evidence": "main-loop task, 200-tick interval",
+  "pool": "core_pipeline"
+ },
+ "0x80101e4": {
+  "new_label": "scheduled_task_500tick",
+  "confidence": "inferred",
+  "evidence": "main-loop task, 500-tick interval",
+  "pool": "param_storage"
+ },
+ "0x8015476": {
+  "new_label": "scheduled_task_2500tick",
+  "confidence": "inferred",
+  "evidence": "main-loop task, 2500-tick interval (slowest scheduled task found so far)",
+  "pool": "core_pipeline"
+ },
+ "0x80171f6": {
+  "new_label": "scheduled_task_unconditional_b",
+  "confidence": "inferred",
+  "evidence": "runs every main-loop pass, not timer-gated",
+  "pool": "core_pipeline"
+ },
+ "0x8013a24": {
+  "new_label": "scheduled_task_unconditional_c",
+  "confidence": "inferred",
+  "evidence": "runs every main-loop pass, not timer-gated",
+  "pool": "core_pipeline"
+ },
+ "0x80074ca": {
+  "new_label": "scheduled_task_unconditional_d",
+  "confidence": "inferred",
+  "evidence": "runs every main-loop pass, not timer-gated (large, 496 instr, 38 callees -- likely a major subsystem update)",
+  "pool": "core_pipeline"
+ },
+ "0x8017806": {
+  "new_label": "scheduled_task_unconditional_e",
+  "confidence": "inferred",
+  "evidence": "runs every main-loop pass, not timer-gated",
+  "pool": "core_pipeline"
+ },
+ "0x8017250": {
+  "new_label": "system_init_orchestrator_confirmed",
+  "confidence": "confirmed",
+  "evidence": "runs every main-loop pass, not timer-gated -- matches existing system_init pool label",
+  "pool": "system_init"
+ },
+ "0x8017abe": {
+  "new_label": "scheduled_task_unconditional_f",
+  "confidence": "inferred",
+  "evidence": "runs every main-loop pass, not timer-gated",
+  "pool": "core_pipeline"
+ }
+}

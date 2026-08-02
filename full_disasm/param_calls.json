@@ -1,0 +1,3285 @@
+{
+ "set_param_calls": [
+  {
+   "call_site": "0x8004972",
+   "in_function": "FUN_0800496a",
+   "func_start": "0x800496a",
+   "param_id": 11,
+   "value": null
+  },
+  {
+   "call_site": "0x800497a",
+   "in_function": "FUN_0800496a",
+   "func_start": "0x800496a",
+   "param_id": 9,
+   "value": null
+  },
+  {
+   "call_site": "0x8004982",
+   "in_function": "FUN_0800496a",
+   "func_start": "0x800496a",
+   "param_id": 37,
+   "value": null
+  },
+  {
+   "call_site": "0x800498a",
+   "in_function": "FUN_0800496a",
+   "func_start": "0x800496a",
+   "param_id": 1,
+   "value": null
+  },
+  {
+   "call_site": "0x8004992",
+   "in_function": "FUN_0800496a",
+   "func_start": "0x800496a",
+   "param_id": 2,
+   "value": null
+  },
+  {
+   "call_site": "0x800499a",
+   "in_function": "FUN_0800496a",
+   "func_start": "0x800496a",
+   "param_id": 3,
+   "value": null
+  },
+  {
+   "call_site": "0x80049a2",
+   "in_function": "FUN_0800496a",
+   "func_start": "0x800496a",
+   "param_id": 4,
+   "value": null
+  },
+  {
+   "call_site": "0x80049aa",
+   "in_function": "FUN_0800496a",
+   "func_start": "0x800496a",
+   "param_id": 6,
+   "value": null
+  },
+  {
+   "call_site": "0x80049b2",
+   "in_function": "FUN_0800496a",
+   "func_start": "0x800496a",
+   "param_id": 28,
+   "value": null
+  },
+  {
+   "call_site": "0x80049ba",
+   "in_function": "FUN_0800496a",
+   "func_start": "0x800496a",
+   "param_id": 5,
+   "value": null
+  },
+  {
+   "call_site": "0x80049c2",
+   "in_function": "FUN_0800496a",
+   "func_start": "0x800496a",
+   "param_id": 19,
+   "value": null
+  },
+  {
+   "call_site": "0x80049ca",
+   "in_function": "FUN_0800496a",
+   "func_start": "0x800496a",
+   "param_id": 7,
+   "value": null
+  },
+  {
+   "call_site": "0x80049d2",
+   "in_function": "FUN_0800496a",
+   "func_start": "0x800496a",
+   "param_id": 63,
+   "value": null
+  },
+  {
+   "call_site": "0x8005ad8",
+   "in_function": "FUN_08005ab0",
+   "func_start": "0x8005ab0",
+   "param_id": 193,
+   "value": null
+  },
+  {
+   "call_site": "0x8005ae8",
+   "in_function": "FUN_08005ab0",
+   "func_start": "0x8005ab0",
+   "param_id": 201,
+   "value": null
+  },
+  {
+   "call_site": "0x8005af0",
+   "in_function": "FUN_08005ab0",
+   "func_start": "0x8005ab0",
+   "param_id": 202,
+   "value": null
+  },
+  {
+   "call_site": "0x8005af8",
+   "in_function": "FUN_08005ab0",
+   "func_start": "0x8005ab0",
+   "param_id": 203,
+   "value": null
+  },
+  {
+   "call_site": "0x8005b00",
+   "in_function": "FUN_08005ab0",
+   "func_start": "0x8005ab0",
+   "param_id": 206,
+   "value": null
+  },
+  {
+   "call_site": "0x8005b08",
+   "in_function": "FUN_08005ab0",
+   "func_start": "0x8005ab0",
+   "param_id": 207,
+   "value": null
+  },
+  {
+   "call_site": "0x8005b10",
+   "in_function": "FUN_08005ab0",
+   "func_start": "0x8005ab0",
+   "param_id": 208,
+   "value": null
+  },
+  {
+   "call_site": "0x8005b18",
+   "in_function": "FUN_08005ab0",
+   "func_start": "0x8005ab0",
+   "param_id": 209,
+   "value": null
+  },
+  {
+   "call_site": "0x8005b20",
+   "in_function": "FUN_08005ab0",
+   "func_start": "0x8005ab0",
+   "param_id": 210,
+   "value": null
+  },
+  {
+   "call_site": "0x8005b28",
+   "in_function": "FUN_08005ab0",
+   "func_start": "0x8005ab0",
+   "param_id": 211,
+   "value": null
+  },
+  {
+   "call_site": "0x8005b30",
+   "in_function": "FUN_08005ab0",
+   "func_start": "0x8005ab0",
+   "param_id": 212,
+   "value": null
+  },
+  {
+   "call_site": "0x8005b38",
+   "in_function": "FUN_08005ab0",
+   "func_start": "0x8005ab0",
+   "param_id": 213,
+   "value": null
+  },
+  {
+   "call_site": "0x8005b40",
+   "in_function": "FUN_08005ab0",
+   "func_start": "0x8005ab0",
+   "param_id": 214,
+   "value": null
+  },
+  {
+   "call_site": "0x8005b48",
+   "in_function": "FUN_08005ab0",
+   "func_start": "0x8005ab0",
+   "param_id": 215,
+   "value": null
+  },
+  {
+   "call_site": "0x8005b50",
+   "in_function": "FUN_08005ab0",
+   "func_start": "0x8005ab0",
+   "param_id": 216,
+   "value": null
+  },
+  {
+   "call_site": "0x8005b58",
+   "in_function": "FUN_08005ab0",
+   "func_start": "0x8005ab0",
+   "param_id": 217,
+   "value": null
+  },
+  {
+   "call_site": "0x8005b60",
+   "in_function": "FUN_08005ab0",
+   "func_start": "0x8005ab0",
+   "param_id": 218,
+   "value": null
+  },
+  {
+   "call_site": "0x8005b68",
+   "in_function": "FUN_08005ab0",
+   "func_start": "0x8005ab0",
+   "param_id": 219,
+   "value": null
+  },
+  {
+   "call_site": "0x8005b72",
+   "in_function": "FUN_08005ab0",
+   "func_start": "0x8005ab0",
+   "param_id": 220,
+   "value": null
+  },
+  {
+   "call_site": "0x8005b7c",
+   "in_function": "FUN_08005ab0",
+   "func_start": "0x8005ab0",
+   "param_id": 221,
+   "value": null
+  },
+  {
+   "call_site": "0x8005b84",
+   "in_function": "FUN_08005ab0",
+   "func_start": "0x8005ab0",
+   "param_id": 222,
+   "value": null
+  },
+  {
+   "call_site": "0x8005b8e",
+   "in_function": "FUN_08005ab0",
+   "func_start": "0x8005ab0",
+   "param_id": 223,
+   "value": null
+  },
+  {
+   "call_site": "0x8005b96",
+   "in_function": "FUN_08005ab0",
+   "func_start": "0x8005ab0",
+   "param_id": 224,
+   "value": null
+  },
+  {
+   "call_site": "0x8005ba0",
+   "in_function": "FUN_08005ab0",
+   "func_start": "0x8005ab0",
+   "param_id": 225,
+   "value": null
+  },
+  {
+   "call_site": "0x8005ba8",
+   "in_function": "FUN_08005ab0",
+   "func_start": "0x8005ab0",
+   "param_id": 226,
+   "value": null
+  },
+  {
+   "call_site": "0x8005bb2",
+   "in_function": "FUN_08005ab0",
+   "func_start": "0x8005ab0",
+   "param_id": 227,
+   "value": null
+  },
+  {
+   "call_site": "0x8005bba",
+   "in_function": "FUN_08005ab0",
+   "func_start": "0x8005ab0",
+   "param_id": 228,
+   "value": null
+  },
+  {
+   "call_site": "0x8005bc8",
+   "in_function": "FUN_08005ab0",
+   "func_start": "0x8005ab0",
+   "param_id": 229,
+   "value": null
+  },
+  {
+   "call_site": "0x8005bd0",
+   "in_function": "FUN_08005ab0",
+   "func_start": "0x8005ab0",
+   "param_id": 230,
+   "value": null
+  },
+  {
+   "call_site": "0x8005bda",
+   "in_function": "FUN_08005ab0",
+   "func_start": "0x8005ab0",
+   "param_id": 231,
+   "value": null
+  },
+  {
+   "call_site": "0x8005be2",
+   "in_function": "FUN_08005ab0",
+   "func_start": "0x8005ab0",
+   "param_id": 232,
+   "value": null
+  },
+  {
+   "call_site": "0x8005bec",
+   "in_function": "FUN_08005ab0",
+   "func_start": "0x8005ab0",
+   "param_id": 233,
+   "value": null
+  },
+  {
+   "call_site": "0x8005bf4",
+   "in_function": "FUN_08005ab0",
+   "func_start": "0x8005ab0",
+   "param_id": 235,
+   "value": null
+  },
+  {
+   "call_site": "0x8005bfe",
+   "in_function": "FUN_08005ab0",
+   "func_start": "0x8005ab0",
+   "param_id": 236,
+   "value": null
+  },
+  {
+   "call_site": "0x8005c08",
+   "in_function": "FUN_08005ab0",
+   "func_start": "0x8005ab0",
+   "param_id": 234,
+   "value": null
+  },
+  {
+   "call_site": "0x8005f94",
+   "in_function": "FUN_08005ab0",
+   "func_start": "0x8005ab0",
+   "param_id": 240,
+   "value": null
+  },
+  {
+   "call_site": "0x8005fa0",
+   "in_function": "FUN_08005ab0",
+   "func_start": "0x8005ab0",
+   "param_id": 241,
+   "value": null
+  },
+  {
+   "call_site": "0x8005fac",
+   "in_function": "FUN_08005ab0",
+   "func_start": "0x8005ab0",
+   "param_id": 242,
+   "value": null
+  },
+  {
+   "call_site": "0x8005fb8",
+   "in_function": "FUN_08005ab0",
+   "func_start": "0x8005ab0",
+   "param_id": 243,
+   "value": null
+  },
+  {
+   "call_site": "0x8005fc2",
+   "in_function": "FUN_08005ab0",
+   "func_start": "0x8005ab0",
+   "param_id": 250,
+   "value": null
+  },
+  {
+   "call_site": "0x8005fce",
+   "in_function": "FUN_08005ab0",
+   "func_start": "0x8005ab0",
+   "param_id": 258,
+   "value": null
+  },
+  {
+   "call_site": "0x8005fdc",
+   "in_function": "FUN_08005ab0",
+   "func_start": "0x8005ab0",
+   "param_id": null,
+   "value": null
+  },
+  {
+   "call_site": "0x8005fea",
+   "in_function": "FUN_08005ab0",
+   "func_start": "0x8005ab0",
+   "param_id": 260,
+   "value": null
+  },
+  {
+   "call_site": "0x8005ff8",
+   "in_function": "FUN_08005ab0",
+   "func_start": "0x8005ab0",
+   "param_id": null,
+   "value": null
+  },
+  {
+   "call_site": "0x8006006",
+   "in_function": "FUN_08005ab0",
+   "func_start": "0x8005ab0",
+   "param_id": 262,
+   "value": null
+  },
+  {
+   "call_site": "0x8006012",
+   "in_function": "FUN_08005ab0",
+   "func_start": "0x8005ab0",
+   "param_id": null,
+   "value": null
+  },
+  {
+   "call_site": "0x8006020",
+   "in_function": "FUN_08005ab0",
+   "func_start": "0x8005ab0",
+   "param_id": null,
+   "value": null
+  },
+  {
+   "call_site": "0x800602e",
+   "in_function": "FUN_08005ab0",
+   "func_start": "0x8005ab0",
+   "param_id": null,
+   "value": null
+  },
+  {
+   "call_site": "0x800603c",
+   "in_function": "FUN_08005ab0",
+   "func_start": "0x8005ab0",
+   "param_id": null,
+   "value": null
+  },
+  {
+   "call_site": "0x800604a",
+   "in_function": "FUN_08005ab0",
+   "func_start": "0x8005ab0",
+   "param_id": null,
+   "value": null
+  },
+  {
+   "call_site": "0x8006058",
+   "in_function": "FUN_08005ab0",
+   "func_start": "0x8005ab0",
+   "param_id": 266,
+   "value": null
+  },
+  {
+   "call_site": "0x8006066",
+   "in_function": "FUN_08005ab0",
+   "func_start": "0x8005ab0",
+   "param_id": 268,
+   "value": null
+  },
+  {
+   "call_site": "0x8006074",
+   "in_function": "FUN_08005ab0",
+   "func_start": "0x8005ab0",
+   "param_id": 270,
+   "value": null
+  },
+  {
+   "call_site": "0x8006082",
+   "in_function": "FUN_08005ab0",
+   "func_start": "0x8005ab0",
+   "param_id": 272,
+   "value": null
+  },
+  {
+   "call_site": "0x8006090",
+   "in_function": "FUN_08005ab0",
+   "func_start": "0x8005ab0",
+   "param_id": 274,
+   "value": null
+  },
+  {
+   "call_site": "0x80067aa",
+   "in_function": "FUN_0800677c",
+   "func_start": "0x800677c",
+   "param_id": null,
+   "value": null
+  },
+  {
+   "call_site": "0x80067d4",
+   "in_function": "FUN_0800677c",
+   "func_start": "0x800677c",
+   "param_id": null,
+   "value": null
+  },
+  {
+   "call_site": "0x80068f8",
+   "in_function": "FUN_080068c4",
+   "func_start": "0x80068c4",
+   "param_id": 65,
+   "value": 0
+  },
+  {
+   "call_site": "0x8006908",
+   "in_function": "FUN_080068c4",
+   "func_start": "0x80068c4",
+   "param_id": 81,
+   "value": null
+  },
+  {
+   "call_site": "0x80071f8",
+   "in_function": "FUN_080071e2",
+   "func_start": "0x80071e2",
+   "param_id": null,
+   "value": null
+  },
+  {
+   "call_site": "0x8007d14",
+   "in_function": "FUN_08007cf6",
+   "func_start": "0x8007cf6",
+   "param_id": 23,
+   "value": null
+  },
+  {
+   "call_site": "0x8007e5e",
+   "in_function": "FUN_08007e54",
+   "func_start": "0x8007e54",
+   "param_id": 206,
+   "value": 7
+  },
+  {
+   "call_site": "0x8007e78",
+   "in_function": "FUN_08007e6e",
+   "func_start": "0x8007e6e",
+   "param_id": 206,
+   "value": 6
+  },
+  {
+   "call_site": "0x8007e92",
+   "in_function": "FUN_08007e88",
+   "func_start": "0x8007e88",
+   "param_id": 206,
+   "value": 5
+  },
+  {
+   "call_site": "0x8007eac",
+   "in_function": "FUN_08007ea2",
+   "func_start": "0x8007ea2",
+   "param_id": 206,
+   "value": 4
+  },
+  {
+   "call_site": "0x8007ec6",
+   "in_function": "FUN_08007ebc",
+   "func_start": "0x8007ebc",
+   "param_id": 206,
+   "value": 3
+  },
+  {
+   "call_site": "0x8007ee0",
+   "in_function": "FUN_08007ed6",
+   "func_start": "0x8007ed6",
+   "param_id": 206,
+   "value": 2
+  },
+  {
+   "call_site": "0x8007efa",
+   "in_function": "FUN_08007ef0",
+   "func_start": "0x8007ef0",
+   "param_id": 206,
+   "value": 1
+  },
+  {
+   "call_site": "0x8007f14",
+   "in_function": "FUN_08007f0a",
+   "func_start": "0x8007f0a",
+   "param_id": 206,
+   "value": 0
+  },
+  {
+   "call_site": "0x8007fd0",
+   "in_function": "FUN_08007f24",
+   "func_start": "0x8007f24",
+   "param_id": 26,
+   "value": null
+  },
+  {
+   "call_site": "0x8007fe2",
+   "in_function": "menu_switch_write_param21_site",
+   "func_start": "0x8007fe0",
+   "param_id": 21,
+   "value": null
+  },
+  {
+   "call_site": "0x8008014",
+   "in_function": "FUN_08007ff4",
+   "func_start": "0x8007ff4",
+   "param_id": 12,
+   "value": null
+  },
+  {
+   "call_site": "0x8008034",
+   "in_function": "FUN_08008024",
+   "func_start": "0x8008024",
+   "param_id": 18,
+   "value": null
+  },
+  {
+   "call_site": "0x8008062",
+   "in_function": "FUN_0800803e",
+   "func_start": "0x800803e",
+   "param_id": 17,
+   "value": 0
+  },
+  {
+   "call_site": "0x800808a",
+   "in_function": "FUN_08008078",
+   "func_start": "0x8008078",
+   "param_id": 30,
+   "value": 0
+  },
+  {
+   "call_site": "0x80080ba",
+   "in_function": "FUN_080080a0",
+   "func_start": "0x80080a0",
+   "param_id": 16,
+   "value": 0
+  },
+  {
+   "call_site": "0x800810c",
+   "in_function": "FUN_080080d0",
+   "func_start": "0x80080d0",
+   "param_id": 23,
+   "value": null
+  },
+  {
+   "call_site": "0x8008174",
+   "in_function": "FUN_080080d0",
+   "func_start": "0x80080d0",
+   "param_id": null,
+   "value": 0
+  },
+  {
+   "call_site": "0x80082d2",
+   "in_function": "FUN_08008288",
+   "func_start": "0x8008288",
+   "param_id": 17,
+   "value": null
+  },
+  {
+   "call_site": "0x8008580",
+   "in_function": "FUN_08008542",
+   "func_start": "0x8008542",
+   "param_id": 201,
+   "value": null
+  },
+  {
+   "call_site": "0x800858a",
+   "in_function": "FUN_08008542",
+   "func_start": "0x8008542",
+   "param_id": 202,
+   "value": null
+  },
+  {
+   "call_site": "0x80085c8",
+   "in_function": "FUN_0800859c",
+   "func_start": "0x800859c",
+   "param_id": 30,
+   "value": null
+  },
+  {
+   "call_site": "0x8008612",
+   "in_function": "FUN_080085de",
+   "func_start": "0x80085de",
+   "param_id": 16,
+   "value": null
+  },
+  {
+   "call_site": "0x8008666",
+   "in_function": "FUN_0800862a",
+   "func_start": "0x800862a",
+   "param_id": 23,
+   "value": null
+  },
+  {
+   "call_site": "0x80086f6",
+   "in_function": "FUN_0800862a",
+   "func_start": "0x800862a",
+   "param_id": null,
+   "value": null
+  },
+  {
+   "call_site": "0x80087be",
+   "in_function": "FUN_0800862a",
+   "func_start": "0x800862a",
+   "param_id": null,
+   "value": null
+  },
+  {
+   "call_site": "0x80087fa",
+   "in_function": "FUN_0800862a",
+   "func_start": "0x800862a",
+   "param_id": null,
+   "value": null
+  },
+  {
+   "call_site": "0x80088c6",
+   "in_function": "FUN_080088b2",
+   "func_start": "0x80088b2",
+   "param_id": 216,
+   "value": 3
+  },
+  {
+   "call_site": "0x8008932",
+   "in_function": "FUN_08008928",
+   "func_start": "0x8008928",
+   "param_id": 15,
+   "value": 0
+  },
+  {
+   "call_site": "0x800894e",
+   "in_function": "FUN_08008944",
+   "func_start": "0x8008944",
+   "param_id": 15,
+   "value": 1
+  },
+  {
+   "call_site": "0x8008ae6",
+   "in_function": "FUN_08008ac6",
+   "func_start": "0x8008ac6",
+   "param_id": 13,
+   "value": 0
+  },
+  {
+   "call_site": "0x8008afe",
+   "in_function": "FUN_08008ac6",
+   "func_start": "0x8008ac6",
+   "param_id": 14,
+   "value": null
+  },
+  {
+   "call_site": "0x8008b0c",
+   "in_function": "FUN_08008ac6",
+   "func_start": "0x8008ac6",
+   "param_id": 27,
+   "value": null
+  },
+  {
+   "call_site": "0x8008b16",
+   "in_function": "FUN_08008ac6",
+   "func_start": "0x8008ac6",
+   "param_id": 14,
+   "value": 0
+  },
+  {
+   "call_site": "0x8008b36",
+   "in_function": "FUN_08008b2c",
+   "func_start": "0x8008b2c",
+   "param_id": 14,
+   "value": 0
+  },
+  {
+   "call_site": "0x8008b4e",
+   "in_function": "FUN_08008b2c",
+   "func_start": "0x8008b2c",
+   "param_id": 13,
+   "value": null
+  },
+  {
+   "call_site": "0x8008b6e",
+   "in_function": "FUN_08008b64",
+   "func_start": "0x8008b64",
+   "param_id": 20,
+   "value": 3
+  },
+  {
+   "call_site": "0x8008b80",
+   "in_function": "FUN_08008b76",
+   "func_start": "0x8008b76",
+   "param_id": 20,
+   "value": 2
+  },
+  {
+   "call_site": "0x8008b92",
+   "in_function": "FUN_08008b88",
+   "func_start": "0x8008b88",
+   "param_id": 20,
+   "value": 1
+  },
+  {
+   "call_site": "0x8008baa",
+   "in_function": "FUN_08008ba0",
+   "func_start": "0x8008ba0",
+   "param_id": 20,
+   "value": 0
+  },
+  {
+   "call_site": "0x8008bba",
+   "in_function": "FUN_08008ba0",
+   "func_start": "0x8008ba0",
+   "param_id": 37,
+   "value": null
+  },
+  {
+   "call_site": "0x8008bde",
+   "in_function": "FUN_08008bcc",
+   "func_start": "0x8008bcc",
+   "param_id": 11,
+   "value": 3
+  },
+  {
+   "call_site": "0x8008bfe",
+   "in_function": "FUN_08008bec",
+   "func_start": "0x8008bec",
+   "param_id": 11,
+   "value": 2
+  },
+  {
+   "call_site": "0x8008c1e",
+   "in_function": "FUN_08008c0c",
+   "func_start": "0x8008c0c",
+   "param_id": 11,
+   "value": 1
+  },
+  {
+   "call_site": "0x8008c3e",
+   "in_function": "FUN_08008c2c",
+   "func_start": "0x8008c2c",
+   "param_id": 11,
+   "value": 0
+  },
+  {
+   "call_site": "0x8008c74",
+   "in_function": "FUN_08008c4c",
+   "func_start": "0x8008c4c",
+   "param_id": 220,
+   "value": null
+  },
+  {
+   "call_site": "0x8008c7c",
+   "in_function": "FUN_08008c4c",
+   "func_start": "0x8008c4c",
+   "param_id": 62,
+   "value": 0
+  },
+  {
+   "call_site": "0x8008c84",
+   "in_function": "FUN_08008c4c",
+   "func_start": "0x8008c4c",
+   "param_id": 64,
+   "value": 0
+  },
+  {
+   "call_site": "0x8008cce",
+   "in_function": "FUN_08008cbc",
+   "func_start": "0x8008cbc",
+   "param_id": 62,
+   "value": 1
+  },
+  {
+   "call_site": "0x8008cd6",
+   "in_function": "FUN_08008cbc",
+   "func_start": "0x8008cbc",
+   "param_id": 64,
+   "value": 0
+  },
+  {
+   "call_site": "0x800912c",
+   "in_function": "FUN_08009102",
+   "func_start": "0x8009102",
+   "param_id": 258,
+   "value": 1
+  },
+  {
+   "call_site": "0x800913e",
+   "in_function": "FUN_08009102",
+   "func_start": "0x8009102",
+   "param_id": null,
+   "value": null
+  },
+  {
+   "call_site": "0x8009148",
+   "in_function": "FUN_08009102",
+   "func_start": "0x8009102",
+   "param_id": null,
+   "value": null
+  },
+  {
+   "call_site": "0x8009152",
+   "in_function": "FUN_08009102",
+   "func_start": "0x8009102",
+   "param_id": 262,
+   "value": null
+  },
+  {
+   "call_site": "0x8009210",
+   "in_function": "FUN_080091e8",
+   "func_start": "0x80091e8",
+   "param_id": 258,
+   "value": 0
+  },
+  {
+   "call_site": "0x8009222",
+   "in_function": "FUN_080091e8",
+   "func_start": "0x80091e8",
+   "param_id": null,
+   "value": null
+  },
+  {
+   "call_site": "0x8009234",
+   "in_function": "FUN_080091e8",
+   "func_start": "0x80091e8",
+   "param_id": 260,
+   "value": null
+  },
+  {
+   "call_site": "0x800923e",
+   "in_function": "FUN_080091e8",
+   "func_start": "0x80091e8",
+   "param_id": null,
+   "value": null
+  },
+  {
+   "call_site": "0x8009248",
+   "in_function": "FUN_080091e8",
+   "func_start": "0x80091e8",
+   "param_id": 262,
+   "value": null
+  },
+  {
+   "call_site": "0x800926a",
+   "in_function": "FUN_080091e8",
+   "func_start": "0x80091e8",
+   "param_id": 239,
+   "value": 0
+  },
+  {
+   "call_site": "0x800927a",
+   "in_function": "FUN_080091e8",
+   "func_start": "0x80091e8",
+   "param_id": 240,
+   "value": null
+  },
+  {
+   "call_site": "0x800928a",
+   "in_function": "FUN_080091e8",
+   "func_start": "0x80091e8",
+   "param_id": 241,
+   "value": null
+  },
+  {
+   "call_site": "0x8009292",
+   "in_function": "FUN_080091e8",
+   "func_start": "0x80091e8",
+   "param_id": 242,
+   "value": null
+  },
+  {
+   "call_site": "0x800929a",
+   "in_function": "FUN_080091e8",
+   "func_start": "0x80091e8",
+   "param_id": 243,
+   "value": null
+  },
+  {
+   "call_site": "0x8009400",
+   "in_function": "FUN_080093b4",
+   "func_start": "0x80093b4",
+   "param_id": 48,
+   "value": null
+  },
+  {
+   "call_site": "0x8009410",
+   "in_function": "FUN_080093b4",
+   "func_start": "0x80093b4",
+   "param_id": 49,
+   "value": null
+  },
+  {
+   "call_site": "0x8009420",
+   "in_function": "FUN_080093b4",
+   "func_start": "0x80093b4",
+   "param_id": 50,
+   "value": null
+  },
+  {
+   "call_site": "0x8009430",
+   "in_function": "FUN_080093b4",
+   "func_start": "0x80093b4",
+   "param_id": 51,
+   "value": null
+  },
+  {
+   "call_site": "0x8009448",
+   "in_function": "FUN_080093b4",
+   "func_start": "0x80093b4",
+   "param_id": 48,
+   "value": null
+  },
+  {
+   "call_site": "0x800946c",
+   "in_function": "FUN_080093b4",
+   "func_start": "0x80093b4",
+   "param_id": 48,
+   "value": null
+  },
+  {
+   "call_site": "0x800947e",
+   "in_function": "FUN_080093b4",
+   "func_start": "0x80093b4",
+   "param_id": 52,
+   "value": null
+  },
+  {
+   "call_site": "0x8009490",
+   "in_function": "FUN_080093b4",
+   "func_start": "0x80093b4",
+   "param_id": 49,
+   "value": null
+  },
+  {
+   "call_site": "0x80094a2",
+   "in_function": "FUN_080093b4",
+   "func_start": "0x80093b4",
+   "param_id": 50,
+   "value": null
+  },
+  {
+   "call_site": "0x80094b4",
+   "in_function": "FUN_080093b4",
+   "func_start": "0x80093b4",
+   "param_id": 51,
+   "value": null
+  },
+  {
+   "call_site": "0x80094f0",
+   "in_function": "FUN_080093b4",
+   "func_start": "0x80093b4",
+   "param_id": 48,
+   "value": null
+  },
+  {
+   "call_site": "0x8009504",
+   "in_function": "FUN_080093b4",
+   "func_start": "0x80093b4",
+   "param_id": 49,
+   "value": null
+  },
+  {
+   "call_site": "0x8009518",
+   "in_function": "FUN_080093b4",
+   "func_start": "0x80093b4",
+   "param_id": 50,
+   "value": null
+  },
+  {
+   "call_site": "0x800952c",
+   "in_function": "FUN_080093b4",
+   "func_start": "0x80093b4",
+   "param_id": 51,
+   "value": null
+  },
+  {
+   "call_site": "0x8009542",
+   "in_function": "FUN_080093b4",
+   "func_start": "0x80093b4",
+   "param_id": 52,
+   "value": null
+  },
+  {
+   "call_site": "0x8009556",
+   "in_function": "FUN_080093b4",
+   "func_start": "0x80093b4",
+   "param_id": 53,
+   "value": null
+  },
+  {
+   "call_site": "0x800956a",
+   "in_function": "FUN_080093b4",
+   "func_start": "0x80093b4",
+   "param_id": 54,
+   "value": null
+  },
+  {
+   "call_site": "0x8009580",
+   "in_function": "FUN_080093b4",
+   "func_start": "0x80093b4",
+   "param_id": 55,
+   "value": null
+  },
+  {
+   "call_site": "0x8009594",
+   "in_function": "FUN_080093b4",
+   "func_start": "0x80093b4",
+   "param_id": 56,
+   "value": null
+  },
+  {
+   "call_site": "0x80095a8",
+   "in_function": "FUN_080093b4",
+   "func_start": "0x80093b4",
+   "param_id": 57,
+   "value": null
+  },
+  {
+   "call_site": "0x8009604",
+   "in_function": "FUN_080093b4",
+   "func_start": "0x80093b4",
+   "param_id": 44,
+   "value": null
+  },
+  {
+   "call_site": "0x8009618",
+   "in_function": "FUN_080093b4",
+   "func_start": "0x80093b4",
+   "param_id": 45,
+   "value": null
+  },
+  {
+   "call_site": "0x800962c",
+   "in_function": "FUN_080093b4",
+   "func_start": "0x80093b4",
+   "param_id": 46,
+   "value": null
+  },
+  {
+   "call_site": "0x8009640",
+   "in_function": "FUN_080093b4",
+   "func_start": "0x80093b4",
+   "param_id": 47,
+   "value": null
+  },
+  {
+   "call_site": "0x8009656",
+   "in_function": "FUN_080093b4",
+   "func_start": "0x80093b4",
+   "param_id": 58,
+   "value": null
+  },
+  {
+   "call_site": "0x800966a",
+   "in_function": "FUN_080093b4",
+   "func_start": "0x80093b4",
+   "param_id": 59,
+   "value": null
+  },
+  {
+   "call_site": "0x800967e",
+   "in_function": "FUN_080093b4",
+   "func_start": "0x80093b4",
+   "param_id": 60,
+   "value": null
+  },
+  {
+   "call_site": "0x8009692",
+   "in_function": "FUN_080093b4",
+   "func_start": "0x80093b4",
+   "param_id": 61,
+   "value": null
+  },
+  {
+   "call_site": "0x8009768",
+   "in_function": "FUN_080093b4",
+   "func_start": "0x80093b4",
+   "param_id": null,
+   "value": null
+  },
+  {
+   "call_site": "0x80097a4",
+   "in_function": "FUN_080093b4",
+   "func_start": "0x80093b4",
+   "param_id": 34,
+   "value": null
+  },
+  {
+   "call_site": "0x80097b8",
+   "in_function": "FUN_080093b4",
+   "func_start": "0x80093b4",
+   "param_id": 48,
+   "value": null
+  },
+  {
+   "call_site": "0x80097cc",
+   "in_function": "FUN_080093b4",
+   "func_start": "0x80093b4",
+   "param_id": 49,
+   "value": null
+  },
+  {
+   "call_site": "0x80097f4",
+   "in_function": "FUN_080093b4",
+   "func_start": "0x80093b4",
+   "param_id": 58,
+   "value": null
+  },
+  {
+   "call_site": "0x8009808",
+   "in_function": "FUN_080093b4",
+   "func_start": "0x80093b4",
+   "param_id": 59,
+   "value": null
+  },
+  {
+   "call_site": "0x800981c",
+   "in_function": "FUN_080093b4",
+   "func_start": "0x80093b4",
+   "param_id": 60,
+   "value": null
+  },
+  {
+   "call_site": "0x8009830",
+   "in_function": "FUN_080093b4",
+   "func_start": "0x80093b4",
+   "param_id": 61,
+   "value": null
+  },
+  {
+   "call_site": "0x8009866",
+   "in_function": "FUN_08009854",
+   "func_start": "0x8009854",
+   "param_id": 25,
+   "value": null
+  },
+  {
+   "call_site": "0x8009a36",
+   "in_function": "FUN_08009a28",
+   "func_start": "0x8009a28",
+   "param_id": 9,
+   "value": 0
+  },
+  {
+   "call_site": "0x8009a3e",
+   "in_function": "FUN_08009a28",
+   "func_start": "0x8009a28",
+   "param_id": 37,
+   "value": 0
+  },
+  {
+   "call_site": "0x8009a5c",
+   "in_function": "FUN_08009a4c",
+   "func_start": "0x8009a4c",
+   "param_id": 9,
+   "value": null
+  },
+  {
+   "call_site": "0x8009af2",
+   "in_function": "FUN_08009a78",
+   "func_start": "0x8009a78",
+   "param_id": null,
+   "value": null
+  },
+  {
+   "call_site": "0x8009b1c",
+   "in_function": "FUN_08009a78",
+   "func_start": "0x8009a78",
+   "param_id": 9,
+   "value": null
+  },
+  {
+   "call_site": "0x8009b2e",
+   "in_function": "FUN_08009a78",
+   "func_start": "0x8009a78",
+   "param_id": 37,
+   "value": null
+  },
+  {
+   "call_site": "0x800df00",
+   "in_function": "FUN_0800dee0",
+   "func_start": "0x800dee0",
+   "param_id": 23,
+   "value": null
+  },
+  {
+   "call_site": "0x800e122",
+   "in_function": "FUN_0800e0a8",
+   "func_start": "0x800e0a8",
+   "param_id": 23,
+   "value": null
+  },
+  {
+   "call_site": "0x800e312",
+   "in_function": "FUN_0800e236",
+   "func_start": "0x800e236",
+   "param_id": 23,
+   "value": 0
+  },
+  {
+   "call_site": "0x800e350",
+   "in_function": "FUN_0800e236",
+   "func_start": "0x800e236",
+   "param_id": 23,
+   "value": 1
+  },
+  {
+   "call_site": "0x800e568",
+   "in_function": "FUN_0800e52c",
+   "func_start": "0x800e52c",
+   "param_id": null,
+   "value": null
+  },
+  {
+   "call_site": "0x800e6a4",
+   "in_function": "FUN_0800e52c",
+   "func_start": "0x800e52c",
+   "param_id": 256,
+   "value": null
+  },
+  {
+   "call_site": "0x800e7a8",
+   "in_function": "FUN_0800e6c2",
+   "func_start": "0x800e6c2",
+   "param_id": 246,
+   "value": null
+  },
+  {
+   "call_site": "0x800e7b0",
+   "in_function": "FUN_0800e6c2",
+   "func_start": "0x800e6c2",
+   "param_id": 247,
+   "value": null
+  },
+  {
+   "call_site": "0x800e7f4",
+   "in_function": "FUN_0800e7c0",
+   "func_start": "0x800e7c0",
+   "param_id": 238,
+   "value": null
+  },
+  {
+   "call_site": "0x800e8a0",
+   "in_function": "FUN_0800e7c0",
+   "func_start": "0x800e7c0",
+   "param_id": 237,
+   "value": null
+  },
+  {
+   "call_site": "0x800e9bc",
+   "in_function": "FUN_0800e8be",
+   "func_start": "0x800e8be",
+   "param_id": null,
+   "value": null
+  },
+  {
+   "call_site": "0x800ea1c",
+   "in_function": "FUN_0800e9ce",
+   "func_start": "0x800e9ce",
+   "param_id": null,
+   "value": null
+  },
+  {
+   "call_site": "0x800eae4",
+   "in_function": "FUN_0800ea30",
+   "func_start": "0x800ea30",
+   "param_id": null,
+   "value": null
+  },
+  {
+   "call_site": "0x800ebae",
+   "in_function": "FUN_0800eb50",
+   "func_start": "0x800eb50",
+   "param_id": 201,
+   "value": null
+  },
+  {
+   "call_site": "0x800ebb8",
+   "in_function": "FUN_0800eb50",
+   "func_start": "0x800eb50",
+   "param_id": 202,
+   "value": null
+  },
+  {
+   "call_site": "0x801020a",
+   "in_function": "FUN_080101e4",
+   "func_start": "0x80101e4",
+   "param_id": 31,
+   "value": 0
+  },
+  {
+   "call_site": "0x801046a",
+   "in_function": "FUN_0801044e",
+   "func_start": "0x801044e",
+   "param_id": null,
+   "value": null
+  },
+  {
+   "call_site": "0x80104f2",
+   "in_function": "FUN_080104d0",
+   "func_start": "0x80104d0",
+   "param_id": null,
+   "value": null
+  },
+  {
+   "call_site": "0x801056e",
+   "in_function": "FUN_08010552",
+   "func_start": "0x8010552",
+   "param_id": null,
+   "value": null
+  },
+  {
+   "call_site": "0x8010736",
+   "in_function": "gate1_check (calls get_param21_cmp39)",
+   "func_start": "0x8010714",
+   "param_id": 221,
+   "value": null
+  },
+  {
+   "call_site": "0x801073e",
+   "in_function": "gate1_check (calls get_param21_cmp39)",
+   "func_start": "0x8010714",
+   "param_id": 64,
+   "value": 1
+  }
+ ],
+ "get_param_calls": [
+  {
+   "call_site": "0x8006a94",
+   "in_function": "FUN_08006a8c",
+   "func_start": "0x8006a8c",
+   "param_id": null
+  },
+  {
+   "call_site": "0x8006b0e",
+   "in_function": "FUN_08006b06",
+   "func_start": "0x8006b06",
+   "param_id": null
+  },
+  {
+   "call_site": "0x8006be0",
+   "in_function": "switch_style_handler",
+   "func_start": "0x8006bbe",
+   "param_id": null
+  },
+  {
+   "call_site": "0x8006cde",
+   "in_function": "FUN_08006cc4",
+   "func_start": "0x8006cc4",
+   "param_id": null
+  },
+  {
+   "call_site": "0x8006da2",
+   "in_function": "FUN_08006d84",
+   "func_start": "0x8006d84",
+   "param_id": null
+  },
+  {
+   "call_site": "0x8007bd6",
+   "in_function": "FUN_08007bbe",
+   "func_start": "0x8007bbe",
+   "param_id": 0
+  },
+  {
+   "call_site": "0x8007c96",
+   "in_function": "FUN_08007c7a",
+   "func_start": "0x8007c7a",
+   "param_id": null
+  },
+  {
+   "call_site": "0x8007d1c",
+   "in_function": "FUN_08007cf6",
+   "func_start": "0x8007cf6",
+   "param_id": 23
+  },
+  {
+   "call_site": "0x8007da4",
+   "in_function": "FUN_08007cf6",
+   "func_start": "0x8007cf6",
+   "param_id": null
+  },
+  {
+   "call_site": "0x8008044",
+   "in_function": "FUN_0800803e",
+   "func_start": "0x800803e",
+   "param_id": 18
+  },
+  {
+   "call_site": "0x80080a6",
+   "in_function": "FUN_080080a0",
+   "func_start": "0x80080a0",
+   "param_id": 0
+  },
+  {
+   "call_site": "0x800828e",
+   "in_function": "FUN_08008288",
+   "func_start": "0x8008288",
+   "param_id": 0
+  },
+  {
+   "call_site": "0x800854a",
+   "in_function": "FUN_08008542",
+   "func_start": "0x8008542",
+   "param_id": 0
+  },
+  {
+   "call_site": "0x80085e4",
+   "in_function": "FUN_080085de",
+   "func_start": "0x80085de",
+   "param_id": 0
+  },
+  {
+   "call_site": "0x8008c52",
+   "in_function": "FUN_08008c4c",
+   "func_start": "0x8008c4c",
+   "param_id": 0
+  },
+  {
+   "call_site": "0x8008cc2",
+   "in_function": "FUN_08008cbc",
+   "func_start": "0x8008cbc",
+   "param_id": null
+  },
+  {
+   "call_site": "0x8009b54",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x8009b74",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x8009b92",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x8009bba",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x8009be0",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x8009c08",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x8009c30",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x8009c56",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x8009c7e",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x8009ca6",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x8009cce",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x8009cf2",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x8009d0e",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": 1
+  },
+  {
+   "call_site": "0x8009d2c",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x8009d44",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": 1
+  },
+  {
+   "call_site": "0x8009d5e",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": 1
+  },
+  {
+   "call_site": "0x8009d76",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": 1
+  },
+  {
+   "call_site": "0x8009d90",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": 1
+  },
+  {
+   "call_site": "0x8009da8",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": 1
+  },
+  {
+   "call_site": "0x8009dc2",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": 1
+  },
+  {
+   "call_site": "0x8009dda",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": 1
+  },
+  {
+   "call_site": "0x8009df4",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": 1
+  },
+  {
+   "call_site": "0x8009e0c",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": 1
+  },
+  {
+   "call_site": "0x8009e26",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": 1
+  },
+  {
+   "call_site": "0x8009e3e",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": 1
+  },
+  {
+   "call_site": "0x8009e58",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": 1
+  },
+  {
+   "call_site": "0x8009e70",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": 1
+  },
+  {
+   "call_site": "0x8009e8a",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": 1
+  },
+  {
+   "call_site": "0x8009ea8",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": 0
+  },
+  {
+   "call_site": "0x8009ec2",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": 1
+  },
+  {
+   "call_site": "0x8009eda",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": 1
+  },
+  {
+   "call_site": "0x8009ef4",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": 1
+  },
+  {
+   "call_site": "0x8009f0e",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": 1
+  },
+  {
+   "call_site": "0x8009f36",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x8009f5c",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x8009f76",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": 1
+  },
+  {
+   "call_site": "0x8009f94",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x8009fb0",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": 1
+  },
+  {
+   "call_site": "0x8009fd6",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x8009ff6",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800a01c",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800a044",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800a064",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800a08a",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800a0b2",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800a0d2",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800a0f8",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800a120",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800a140",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800a166",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800a18e",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800a1ae",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800a1d4",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800a1fc",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800a21c",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800a242",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800a26a",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800a290",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800a2b8",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800a2d8",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800a2fe",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800a326",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800a346",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800a36c",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800a394",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800a3b4",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800a3da",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800a402",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800a422",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800a448",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800a470",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800a490",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800a4b6",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800a4de",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800a4fe",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800a524",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800a54c",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800a56c",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800a592",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800a5ba",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800a5da",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800a600",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800a628",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800a648",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800a66e",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800a696",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800a6bc",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800a6e4",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800a704",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800a72a",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800a752",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800a772",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800a798",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800a7c0",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800a7e6",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800a80e",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800a82e",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800a854",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800a87c",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800a8a4",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800a8ca",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800a8f2",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800a918",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800a940",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800a968",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800a98e",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800a9b6",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800a9de",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800aa04",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800aa2c",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800aa54",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800aa7a",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800aaa2",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800aaca",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800aaf0",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800ab18",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800ab3e",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800ab66",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800ab8c",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800abb4",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800abda",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800ac02",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800ac28",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800ac50",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800ac76",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800ac9e",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800acc4",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800acea",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800ad12",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800ad32",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800ad58",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800ad80",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800ada0",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800adc6",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800adee",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800ae0e",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800ae34",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800ae5c",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800ae7c",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800aea2",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800aeca",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800aeea",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800af10",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800af38",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800af58",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800af7e",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800afa6",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800afc6",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800afec",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800b014",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800b034",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800b05a",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800b082",
+   "in_function": "FUN_08009b46",
+   "func_start": "0x8009b46",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800cdbc",
+   "in_function": "FUN_0800cdba",
+   "func_start": "0x800cdba",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800ceee",
+   "in_function": "FUN_0800cee8",
+   "func_start": "0x800cee8",
+   "param_id": 84
+  },
+  {
+   "call_site": "0x800cf28",
+   "in_function": "FUN_0800cee8",
+   "func_start": "0x800cee8",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800cf62",
+   "in_function": "FUN_0800cee8",
+   "func_start": "0x800cee8",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800cf9c",
+   "in_function": "FUN_0800cee8",
+   "func_start": "0x800cee8",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800cfd6",
+   "in_function": "FUN_0800cee8",
+   "func_start": "0x800cee8",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800d014",
+   "in_function": "FUN_0800cee8",
+   "func_start": "0x800cee8",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800d052",
+   "in_function": "FUN_0800cee8",
+   "func_start": "0x800cee8",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800d090",
+   "in_function": "FUN_0800cee8",
+   "func_start": "0x800cee8",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800d0ce",
+   "in_function": "FUN_0800cee8",
+   "func_start": "0x800cee8",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800d10c",
+   "in_function": "FUN_0800cee8",
+   "func_start": "0x800cee8",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800d14a",
+   "in_function": "FUN_0800cee8",
+   "func_start": "0x800cee8",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800d188",
+   "in_function": "FUN_0800cee8",
+   "func_start": "0x800cee8",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800d1c6",
+   "in_function": "FUN_0800cee8",
+   "func_start": "0x800cee8",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800d204",
+   "in_function": "FUN_0800cee8",
+   "func_start": "0x800cee8",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800d242",
+   "in_function": "FUN_0800cee8",
+   "func_start": "0x800cee8",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800d280",
+   "in_function": "FUN_0800cee8",
+   "func_start": "0x800cee8",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800d2be",
+   "in_function": "FUN_0800cee8",
+   "func_start": "0x800cee8",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800d420",
+   "in_function": "FUN_0800cee8",
+   "func_start": "0x800cee8",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800d45a",
+   "in_function": "FUN_0800cee8",
+   "func_start": "0x800cee8",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800d494",
+   "in_function": "FUN_0800cee8",
+   "func_start": "0x800cee8",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800d4ce",
+   "in_function": "FUN_0800cee8",
+   "func_start": "0x800cee8",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800d508",
+   "in_function": "FUN_0800cee8",
+   "func_start": "0x800cee8",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800d542",
+   "in_function": "FUN_0800cee8",
+   "func_start": "0x800cee8",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800d57c",
+   "in_function": "FUN_0800cee8",
+   "func_start": "0x800cee8",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800d5b6",
+   "in_function": "FUN_0800cee8",
+   "func_start": "0x800cee8",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800d5f0",
+   "in_function": "FUN_0800cee8",
+   "func_start": "0x800cee8",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800d62a",
+   "in_function": "FUN_0800cee8",
+   "func_start": "0x800cee8",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800d664",
+   "in_function": "FUN_0800cee8",
+   "func_start": "0x800cee8",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800d69e",
+   "in_function": "FUN_0800cee8",
+   "func_start": "0x800cee8",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800d6d8",
+   "in_function": "FUN_0800cee8",
+   "func_start": "0x800cee8",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800d712",
+   "in_function": "FUN_0800cee8",
+   "func_start": "0x800cee8",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800d74c",
+   "in_function": "FUN_0800cee8",
+   "func_start": "0x800cee8",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800d786",
+   "in_function": "FUN_0800cee8",
+   "func_start": "0x800cee8",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800d7c0",
+   "in_function": "FUN_0800cee8",
+   "func_start": "0x800cee8",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800d7fa",
+   "in_function": "FUN_0800cee8",
+   "func_start": "0x800cee8",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800d962",
+   "in_function": "FUN_0800cee8",
+   "func_start": "0x800cee8",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800d99e",
+   "in_function": "FUN_0800cee8",
+   "func_start": "0x800cee8",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800d9da",
+   "in_function": "FUN_0800cee8",
+   "func_start": "0x800cee8",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800da16",
+   "in_function": "FUN_0800cee8",
+   "func_start": "0x800cee8",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800da52",
+   "in_function": "FUN_0800cee8",
+   "func_start": "0x800cee8",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800da8c",
+   "in_function": "FUN_0800cee8",
+   "func_start": "0x800cee8",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800dac6",
+   "in_function": "FUN_0800cee8",
+   "func_start": "0x800cee8",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800db00",
+   "in_function": "FUN_0800cee8",
+   "func_start": "0x800cee8",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800db3a",
+   "in_function": "FUN_0800cee8",
+   "func_start": "0x800cee8",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800db74",
+   "in_function": "FUN_0800cee8",
+   "func_start": "0x800cee8",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800dbae",
+   "in_function": "FUN_0800cee8",
+   "func_start": "0x800cee8",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800dbe8",
+   "in_function": "FUN_0800cee8",
+   "func_start": "0x800cee8",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800dc22",
+   "in_function": "FUN_0800cee8",
+   "func_start": "0x800cee8",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800dc5c",
+   "in_function": "FUN_0800cee8",
+   "func_start": "0x800cee8",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800dc96",
+   "in_function": "FUN_0800cee8",
+   "func_start": "0x800cee8",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800dcd0",
+   "in_function": "FUN_0800cee8",
+   "func_start": "0x800cee8",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800dd0a",
+   "in_function": "FUN_0800cee8",
+   "func_start": "0x800cee8",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800dd44",
+   "in_function": "FUN_0800cee8",
+   "func_start": "0x800cee8",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800dd7e",
+   "in_function": "FUN_0800cee8",
+   "func_start": "0x800cee8",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800e584",
+   "in_function": "FUN_0800e52c",
+   "func_start": "0x800e52c",
+   "param_id": 256
+  },
+  {
+   "call_site": "0x800e730",
+   "in_function": "FUN_0800e6c2",
+   "func_start": "0x800e6c2",
+   "param_id": 247
+  },
+  {
+   "call_site": "0x800e808",
+   "in_function": "FUN_0800e7c0",
+   "func_start": "0x800e7c0",
+   "param_id": 237
+  },
+  {
+   "call_site": "0x800e8e6",
+   "in_function": "FUN_0800e8be",
+   "func_start": "0x800e8be",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800ef02",
+   "in_function": "FUN_0800eee8",
+   "func_start": "0x800eee8",
+   "param_id": 0
+  },
+  {
+   "call_site": "0x800ef1c",
+   "in_function": "FUN_0800eee8",
+   "func_start": "0x800eee8",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800ef34",
+   "in_function": "FUN_0800eee8",
+   "func_start": "0x800eee8",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800ef4c",
+   "in_function": "FUN_0800eee8",
+   "func_start": "0x800eee8",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800ef62",
+   "in_function": "FUN_0800eee8",
+   "func_start": "0x800eee8",
+   "param_id": 4
+  },
+  {
+   "call_site": "0x800ef78",
+   "in_function": "FUN_0800eee8",
+   "func_start": "0x800eee8",
+   "param_id": 24
+  },
+  {
+   "call_site": "0x800ef90",
+   "in_function": "FUN_0800eee8",
+   "func_start": "0x800eee8",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800efa6",
+   "in_function": "FUN_0800eee8",
+   "func_start": "0x800eee8",
+   "param_id": 2
+  },
+  {
+   "call_site": "0x800efbc",
+   "in_function": "FUN_0800eee8",
+   "func_start": "0x800eee8",
+   "param_id": 3
+  },
+  {
+   "call_site": "0x800efd2",
+   "in_function": "FUN_0800eee8",
+   "func_start": "0x800eee8",
+   "param_id": 7
+  },
+  {
+   "call_site": "0x800efe8",
+   "in_function": "FUN_0800eee8",
+   "func_start": "0x800eee8",
+   "param_id": 63
+  },
+  {
+   "call_site": "0x800effe",
+   "in_function": "FUN_0800eee8",
+   "func_start": "0x800eee8",
+   "param_id": 8
+  },
+  {
+   "call_site": "0x800f014",
+   "in_function": "FUN_0800eee8",
+   "func_start": "0x800eee8",
+   "param_id": 19
+  },
+  {
+   "call_site": "0x800f02a",
+   "in_function": "FUN_0800eee8",
+   "func_start": "0x800eee8",
+   "param_id": 5
+  },
+  {
+   "call_site": "0x800f040",
+   "in_function": "FUN_0800eee8",
+   "func_start": "0x800eee8",
+   "param_id": 25
+  },
+  {
+   "call_site": "0x800f056",
+   "in_function": "FUN_0800eee8",
+   "func_start": "0x800eee8",
+   "param_id": 23
+  },
+  {
+   "call_site": "0x800f06e",
+   "in_function": "FUN_0800eee8",
+   "func_start": "0x800eee8",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800f086",
+   "in_function": "FUN_0800eee8",
+   "func_start": "0x800eee8",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800f09e",
+   "in_function": "FUN_0800eee8",
+   "func_start": "0x800eee8",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800f0b6",
+   "in_function": "FUN_0800eee8",
+   "func_start": "0x800eee8",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800f0ce",
+   "in_function": "FUN_0800eee8",
+   "func_start": "0x800eee8",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800f0e6",
+   "in_function": "FUN_0800eee8",
+   "func_start": "0x800eee8",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800f104",
+   "in_function": "FUN_0800eee8",
+   "func_start": "0x800eee8",
+   "param_id": 206
+  },
+  {
+   "call_site": "0x800f124",
+   "in_function": "FUN_0800eee8",
+   "func_start": "0x800eee8",
+   "param_id": 203
+  },
+  {
+   "call_site": "0x800f13a",
+   "in_function": "FUN_0800eee8",
+   "func_start": "0x800eee8",
+   "param_id": 207
+  },
+  {
+   "call_site": "0x800f158",
+   "in_function": "FUN_0800eee8",
+   "func_start": "0x800eee8",
+   "param_id": 208
+  },
+  {
+   "call_site": "0x800f178",
+   "in_function": "FUN_0800eee8",
+   "func_start": "0x800eee8",
+   "param_id": 209
+  },
+  {
+   "call_site": "0x800f196",
+   "in_function": "FUN_0800eee8",
+   "func_start": "0x800eee8",
+   "param_id": 211
+  },
+  {
+   "call_site": "0x800f1b6",
+   "in_function": "FUN_0800eee8",
+   "func_start": "0x800eee8",
+   "param_id": 212
+  },
+  {
+   "call_site": "0x800f1d6",
+   "in_function": "FUN_0800eee8",
+   "func_start": "0x800eee8",
+   "param_id": 210
+  },
+  {
+   "call_site": "0x800f1f4",
+   "in_function": "FUN_0800eee8",
+   "func_start": "0x800eee8",
+   "param_id": 213
+  },
+  {
+   "call_site": "0x800f214",
+   "in_function": "FUN_0800eee8",
+   "func_start": "0x800eee8",
+   "param_id": 214
+  },
+  {
+   "call_site": "0x800f232",
+   "in_function": "FUN_0800eee8",
+   "func_start": "0x800eee8",
+   "param_id": 215
+  },
+  {
+   "call_site": "0x800f252",
+   "in_function": "FUN_0800eee8",
+   "func_start": "0x800eee8",
+   "param_id": 216
+  },
+  {
+   "call_site": "0x800f270",
+   "in_function": "FUN_0800eee8",
+   "func_start": "0x800eee8",
+   "param_id": 215
+  },
+  {
+   "call_site": "0x800f290",
+   "in_function": "FUN_0800eee8",
+   "func_start": "0x800eee8",
+   "param_id": 217
+  },
+  {
+   "call_site": "0x800f2ae",
+   "in_function": "FUN_0800eee8",
+   "func_start": "0x800eee8",
+   "param_id": 215
+  },
+  {
+   "call_site": "0x800f2ce",
+   "in_function": "FUN_0800eee8",
+   "func_start": "0x800eee8",
+   "param_id": 218
+  },
+  {
+   "call_site": "0x800f2e4",
+   "in_function": "FUN_0800eee8",
+   "func_start": "0x800eee8",
+   "param_id": 221
+  },
+  {
+   "call_site": "0x800f302",
+   "in_function": "FUN_0800eee8",
+   "func_start": "0x800eee8",
+   "param_id": 222
+  },
+  {
+   "call_site": "0x800f322",
+   "in_function": "FUN_0800eee8",
+   "func_start": "0x800eee8",
+   "param_id": 223
+  },
+  {
+   "call_site": "0x800f340",
+   "in_function": "FUN_0800eee8",
+   "func_start": "0x800eee8",
+   "param_id": 224
+  },
+  {
+   "call_site": "0x800f360",
+   "in_function": "FUN_0800eee8",
+   "func_start": "0x800eee8",
+   "param_id": 225
+  },
+  {
+   "call_site": "0x800f37e",
+   "in_function": "FUN_0800eee8",
+   "func_start": "0x800eee8",
+   "param_id": 226
+  },
+  {
+   "call_site": "0x800f39e",
+   "in_function": "FUN_0800eee8",
+   "func_start": "0x800eee8",
+   "param_id": 227
+  },
+  {
+   "call_site": "0x800f3bc",
+   "in_function": "FUN_0800eee8",
+   "func_start": "0x800eee8",
+   "param_id": 228
+  },
+  {
+   "call_site": "0x800f3dc",
+   "in_function": "FUN_0800eee8",
+   "func_start": "0x800eee8",
+   "param_id": 229
+  },
+  {
+   "call_site": "0x800f3fa",
+   "in_function": "FUN_0800eee8",
+   "func_start": "0x800eee8",
+   "param_id": 230
+  },
+  {
+   "call_site": "0x800f41a",
+   "in_function": "FUN_0800eee8",
+   "func_start": "0x800eee8",
+   "param_id": 231
+  },
+  {
+   "call_site": "0x800f438",
+   "in_function": "FUN_0800eee8",
+   "func_start": "0x800eee8",
+   "param_id": 232
+  },
+  {
+   "call_site": "0x800f458",
+   "in_function": "FUN_0800eee8",
+   "func_start": "0x800eee8",
+   "param_id": 233
+  },
+  {
+   "call_site": "0x800f46e",
+   "in_function": "FUN_0800eee8",
+   "func_start": "0x800eee8",
+   "param_id": 234
+  },
+  {
+   "call_site": "0x800f48c",
+   "in_function": "FUN_0800eee8",
+   "func_start": "0x800eee8",
+   "param_id": 235
+  },
+  {
+   "call_site": "0x800f4ac",
+   "in_function": "FUN_0800eee8",
+   "func_start": "0x800eee8",
+   "param_id": 236
+  },
+  {
+   "call_site": "0x800f4d6",
+   "in_function": "FUN_0800eee8",
+   "func_start": "0x800eee8",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800f502",
+   "in_function": "FUN_0800eee8",
+   "func_start": "0x800eee8",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800f52e",
+   "in_function": "FUN_0800eee8",
+   "func_start": "0x800eee8",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800f558",
+   "in_function": "FUN_0800eee8",
+   "func_start": "0x800eee8",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800f56e",
+   "in_function": "FUN_0800eee8",
+   "func_start": "0x800eee8",
+   "param_id": 250
+  },
+  {
+   "call_site": "0x800f58c",
+   "in_function": "FUN_0800eee8",
+   "func_start": "0x800eee8",
+   "param_id": 48
+  },
+  {
+   "call_site": "0x800f5ac",
+   "in_function": "FUN_0800eee8",
+   "func_start": "0x800eee8",
+   "param_id": 49
+  },
+  {
+   "call_site": "0x800f5cc",
+   "in_function": "FUN_0800eee8",
+   "func_start": "0x800eee8",
+   "param_id": 34
+  },
+  {
+   "call_site": "0x800f5ea",
+   "in_function": "FUN_0800eee8",
+   "func_start": "0x800eee8",
+   "param_id": 58
+  },
+  {
+   "call_site": "0x800f60a",
+   "in_function": "FUN_0800eee8",
+   "func_start": "0x800eee8",
+   "param_id": 59
+  },
+  {
+   "call_site": "0x800f62a",
+   "in_function": "FUN_0800eee8",
+   "func_start": "0x800eee8",
+   "param_id": 60
+  },
+  {
+   "call_site": "0x800f64a",
+   "in_function": "FUN_0800eee8",
+   "func_start": "0x800eee8",
+   "param_id": 61
+  },
+  {
+   "call_site": "0x800f660",
+   "in_function": "FUN_0800eee8",
+   "func_start": "0x800eee8",
+   "param_id": 219
+  },
+  {
+   "call_site": "0x800f676",
+   "in_function": "FUN_0800eee8",
+   "func_start": "0x800eee8",
+   "param_id": 22
+  },
+  {
+   "call_site": "0x800f68c",
+   "in_function": "FUN_0800eee8",
+   "func_start": "0x800eee8",
+   "param_id": 40
+  },
+  {
+   "call_site": "0x800f6a2",
+   "in_function": "FUN_0800eee8",
+   "func_start": "0x800eee8",
+   "param_id": 41
+  },
+  {
+   "call_site": "0x800f6b8",
+   "in_function": "FUN_0800eee8",
+   "func_start": "0x800eee8",
+   "param_id": 40
+  },
+  {
+   "call_site": "0x800f6ce",
+   "in_function": "FUN_0800eee8",
+   "func_start": "0x800eee8",
+   "param_id": 41
+  },
+  {
+   "call_site": "0x800f6e4",
+   "in_function": "FUN_0800eee8",
+   "func_start": "0x800eee8",
+   "param_id": 42
+  },
+  {
+   "call_site": "0x800f89a",
+   "in_function": "FUN_0800f894",
+   "func_start": "0x800f894",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800f936",
+   "in_function": "FUN_0800f930",
+   "func_start": "0x800f930",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800f9cc",
+   "in_function": "FUN_0800f9c6",
+   "func_start": "0x800f9c6",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800fa00",
+   "in_function": "FUN_0800f9fa",
+   "func_start": "0x800f9fa",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800fac4",
+   "in_function": "FUN_0800fabe",
+   "func_start": "0x800fabe",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800fb16",
+   "in_function": "FUN_0800fb10",
+   "func_start": "0x800fb10",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800fb68",
+   "in_function": "FUN_0800fb62",
+   "func_start": "0x800fb62",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800fbe0",
+   "in_function": "FUN_0800fbc0",
+   "func_start": "0x800fbc0",
+   "param_id": null
+  },
+  {
+   "call_site": "0x800fc1a",
+   "in_function": "FUN_0800fbc0",
+   "func_start": "0x800fbc0",
+   "param_id": 0
+  },
+  {
+   "call_site": "0x800fc36",
+   "in_function": "FUN_0800fbc0",
+   "func_start": "0x800fbc0",
+   "param_id": 0
+  },
+  {
+   "call_site": "0x8010720",
+   "in_function": "gate1_check (calls get_param21_cmp39)",
+   "func_start": "0x8010714",
+   "param_id": null
+  }
+ ]
+}

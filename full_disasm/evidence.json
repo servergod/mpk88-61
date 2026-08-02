@@ -1,0 +1,10278 @@
+{
+ "0x8004174": {
+  "label": "FUN_08004174",
+  "n_instr": 9,
+  "callees": [
+   "0x8010266",
+   "0x8011048"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800418a": {
+  "label": "FUN_0800418a",
+  "n_instr": 33,
+  "callees": [
+   "0x801115a",
+   "0x8013d6a",
+   "0x8013d7e"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80041d4": {
+  "label": "FUN_080041d4",
+  "n_instr": 30,
+  "callees": [
+   "0x8010266",
+   "0x8013d48",
+   "0x8016cc0"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800421a": {
+  "label": "FUN_0800421a",
+  "n_instr": 289,
+  "callees": [
+   "0x8004174",
+   "0x800418a",
+   "0x80041d4",
+   "0x8006878",
+   "0x80074ca",
+   "0x80101e4",
+   "0x8010a3e",
+   "0x8010ab2",
+   "0x8010c8c",
+   "0x8010d78",
+   "0x8010f58",
+   "0x80110f6",
+   "0x8011222",
+   "0x801141e",
+   "0x8011bba",
+   "0x80139e6",
+   "0x8013a24",
+   "0x8013b8c",
+   "0x8013c24",
+   "0x8013c74",
+   "0x8013d6a",
+   "0x8013d7e",
+   "0x8014716",
+   "0x8014c7e",
+   "0x8015066",
+   "0x8015476",
+   "0x80161d2",
+   "0x801704a",
+   "0x80171f6",
+   "0x8017250",
+   "0x8017806",
+   "0x8017abe"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80044d6": {
+  "label": "FUN_080044d6",
+  "n_instr": 59,
+  "callees": [
+   "0x800496a",
+   "0x8004e94",
+   "0x8004ec2",
+   "0x8004f94",
+   "0x8007fd6",
+   "0x8010266",
+   "0x80107cc",
+   "0x8010978",
+   "0x8010a18",
+   "0x8010a60",
+   "0x8010d04",
+   "0x8010dfa",
+   "0x8011052",
+   "0x80110ac",
+   "0x80111c8",
+   "0x80139c0",
+   "0x8013b3c",
+   "0x8013b44",
+   "0x8013b7e",
+   "0x8013d68",
+   "0x8013dfe",
+   "0x8013e04",
+   "0x8013e98",
+   "0x8013f08",
+   "0x8013f0e",
+   "0x8014700",
+   "0x80148c0",
+   "0x8015450",
+   "0x8015570",
+   "0x8015b64",
+   "0x8017044",
+   "0x8017238",
+   "0x8017240",
+   "0x8017c18"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8004596": {
+  "label": "FUN_08004596",
+  "n_instr": 17,
+  "callees": [
+   "0x8011918",
+   "0x8018300"
+  ],
+  "periph": [
+   "GPIOB.CRL",
+   "RCC+0x0",
+   "TIM3.CR1"
+  ],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80045be": {
+  "label": "FUN_080045be",
+  "n_instr": 22,
+  "callees": [
+   "0x800421a",
+   "0x80044d6",
+   "0x8004596",
+   "0x8004d7c",
+   "0x80110ac",
+   "0x8011a10",
+   "0x8011af4",
+   "0x80183d8"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8004600": {
+  "label": "FUN_08004600",
+  "n_instr": 1,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8004602": {
+  "label": "FUN_08004602",
+  "n_instr": 55,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80048c8": {
+  "label": "FUN_080048c8",
+  "n_instr": 12,
+  "callees": [
+   "0x801168a",
+   "0x8011702"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80048e4": {
+  "label": "FUN_080048e4",
+  "n_instr": 45,
+  "callees": [
+   "0x8010266"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8004958": {
+  "label": "FUN_08004958",
+  "n_instr": 7,
+  "callees": [
+   "0x80048c8",
+   "0x80048e4"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800496a": {
+  "label": "FUN_0800496a",
+  "n_instr": 44,
+  "callees": [
+   "0x80060e4",
+   "0x801031c"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   9,
+   11,
+   19,
+   28,
+   37,
+   63
+  ],
+  "params_get": []
+ },
+ "0x80049de": {
+  "label": "FUN_080049de",
+  "n_instr": 21,
+  "callees": [
+   "0x801168a",
+   "0x8011702"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8004a12": {
+  "label": "FUN_08004a12",
+  "n_instr": 13,
+  "callees": [
+   "0x80117e0"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8004a32": {
+  "label": "FUN_08004a32",
+  "n_instr": 9,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8004a4a": {
+  "label": "FUN_08004a4a",
+  "n_instr": 3,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8004a58": {
+  "label": "FUN_08004a58",
+  "n_instr": 4,
+  "callees": [],
+  "periph": [
+   "FLASH_IF+0x0"
+  ],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8004a60": {
+  "label": "FUN_08004a60",
+  "n_instr": 123,
+  "callees": [],
+  "periph": [
+   "IWDG+0x4",
+   "PWR+0x0",
+   "RCC+0x0"
+  ],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8004b8e": {
+  "label": "FUN_08004b8e",
+  "n_instr": 57,
+  "callees": [],
+  "periph": [
+   "RCC+0x0",
+   "TIM3.ARR"
+  ],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8004c10": {
+  "label": "FUN_08004c10",
+  "n_instr": 144,
+  "callees": [],
+  "periph": [
+   "AFIO+0x0",
+   "BKP+0x30",
+   "GPIOA.CRL",
+   "GPIOB.CRL",
+   "GPIOC.CRL",
+   "PWR+0x0",
+   "RCC+0x0",
+   "SPI1+0x0",
+   "SYSTICK+0xf0",
+   "USART1.BRR"
+  ],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8004d7c": {
+  "label": "FUN_08004d7c",
+  "n_instr": 44,
+  "callees": [
+   "0x8004a58",
+   "0x8004a60",
+   "0x8004b8e",
+   "0x8004c10"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8004df4": {
+  "label": "FUN_08004df4",
+  "n_instr": 61,
+  "callees": [
+   "0x8011b0c",
+   "0x8013f74",
+   "0x8016380",
+   "0x80163b2",
+   "0x80163fc",
+   "0x801642c",
+   "0x801643c",
+   "0x8017828"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8004e94": {
+  "label": "FUN_08004e94",
+  "n_instr": 4,
+  "callees": [],
+  "periph": [
+   "GPIOD.BRR"
+  ],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8004e9c": {
+  "label": "FUN_08004e9c",
+  "n_instr": 16,
+  "callees": [
+   "0x8004e94",
+   "0x80121d2"
+  ],
+  "periph": [
+   "GPIOD.BRR",
+   "RCC+0x0"
+  ],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8004ec2": {
+  "label": "FUN_08004ec2",
+  "n_instr": 5,
+  "callees": [],
+  "periph": [
+   "GPIOD.BRR"
+  ],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8004ed4": {
+  "label": "FUN_08004ed4",
+  "n_instr": 2,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8004ed8": {
+  "label": "FUN_08004ed8",
+  "n_instr": 2,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8004edc": {
+  "label": "FUN_08004edc",
+  "n_instr": 2,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8004ee0": {
+  "label": "FUN_08004ee0",
+  "n_instr": 2,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8004ee4": {
+  "label": "FUN_08004ee4",
+  "n_instr": 31,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8004f24": {
+  "label": "FUN_08004f24",
+  "n_instr": 51,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8004f94": {
+  "label": "FUN_08004f94",
+  "n_instr": 1,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8004f96": {
+  "label": "FUN_08004f96",
+  "n_instr": 16,
+  "callees": [
+   "0x8010248",
+   "0x8010258"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8004fba": {
+  "label": "FUN_08004fba",
+  "n_instr": 1081,
+  "callees": [
+   "0x8004f96",
+   "0x801042a"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8005ab0": {
+  "label": "FUN_08005ab0",
+  "n_instr": 501,
+  "callees": [
+   "0x8004fba",
+   "0x801031c",
+   "0x801042a",
+   "0x801044e",
+   "0x80104d0",
+   "0x8010552"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [
+   193,
+   201,
+   202,
+   203,
+   206,
+   207,
+   208,
+   209,
+   210,
+   211,
+   212,
+   213,
+   214,
+   215,
+   216,
+   217,
+   218,
+   219,
+   220,
+   221,
+   222,
+   223,
+   224,
+   225,
+   226,
+   227,
+   228,
+   229,
+   230,
+   231,
+   232,
+   233,
+   234,
+   235,
+   236,
+   240,
+   241,
+   242,
+   243,
+   250,
+   258,
+   260,
+   262,
+   266,
+   268,
+   270,
+   272,
+   274
+  ],
+  "params_get": []
+ },
+ "0x800609a": {
+  "label": "FUN_0800609a",
+  "n_instr": 29,
+  "callees": [
+   "0x80107b4",
+   "0x8017e80"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80060e4": {
+  "label": "FUN_080060e4",
+  "n_instr": 13,
+  "callees": [
+   "0x8005ab0",
+   "0x800609a",
+   "0x8013dca"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8006106": {
+  "label": "FUN_08006106",
+  "n_instr": 19,
+  "callees": [
+   "0x80107b4",
+   "0x80117e0"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8006136": {
+  "label": "FUN_08006136",
+  "n_instr": 11,
+  "callees": [
+   "0x8006106"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8006150": {
+  "label": "FUN_08006150",
+  "n_instr": 493,
+  "callees": [
+   "0x8010266",
+   "0x801042a",
+   "0x8010432",
+   "0x80104ae",
+   "0x8010536"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8006726": {
+  "label": "FUN_08006726",
+  "n_instr": 16,
+  "callees": [
+   "0x8006136",
+   "0x8006150",
+   "0x8013dca",
+   "0x8013dce",
+   "0x8017eb2"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8006750": {
+  "label": "FUN_08006750",
+  "n_instr": 18,
+  "callees": [
+   "0x80107b4"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800677c": {
+  "label": "FUN_0800677c",
+  "n_instr": 48,
+  "callees": [
+   "0x800e236",
+   "0x8010266",
+   "0x801031c",
+   "0x801042a",
+   "0x8016fd8",
+   "0x801700a"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80067f6": {
+  "label": "FUN_080067f6",
+  "n_instr": 48,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800685e": {
+  "label": "FUN_0800685e",
+  "n_instr": 9,
+  "callees": [
+   "0x800677c",
+   "0x80067f6",
+   "0x8010266"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8006878": {
+  "label": "FUN_08006878",
+  "n_instr": 14,
+  "callees": [
+   "0x800685e",
+   "0x8014a18"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8006898": {
+  "label": "FUN_08006898",
+  "n_instr": 6,
+  "callees": [
+   "0x8008f50",
+   "0x800e236"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80068a8": {
+  "label": "FUN_080068a8",
+  "n_instr": 12,
+  "callees": [
+   "0x8010472"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80068c4": {
+  "label": "FUN_080068c4",
+  "n_instr": 56,
+  "callees": [
+   "0x8010266",
+   "0x801031c",
+   "0x801042a",
+   "0x8016ecc",
+   "0x8016f04"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [
+   65,
+   81
+  ],
+  "params_get": []
+ },
+ "0x8006950": {
+  "label": "FUN_08006950",
+  "n_instr": 31,
+  "callees": [
+   "0x80068c4",
+   "0x8010472",
+   "0x80105c2"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80069a4": {
+  "label": "FUN_080069a4",
+  "n_instr": 12,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80069c2": {
+  "label": "FUN_080069c2",
+  "n_instr": 12,
+  "callees": [
+   "0x8006950",
+   "0x80069a4",
+   "0x800b5e2"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80069e0": {
+  "label": "FUN_080069e0",
+  "n_instr": 63,
+  "callees": [
+   "0x8006950",
+   "0x80069c2",
+   "0x8010266",
+   "0x8010472",
+   "0x80105c2",
+   "0x8016f3c",
+   "0x8016fa6"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8006a8c": {
+  "label": "FUN_08006a8c",
+  "n_instr": 48,
+  "callees": [
+   "0x8007bb4",
+   "0x8009360",
+   "0x800b5fa",
+   "0x8010266",
+   "0x80105da",
+   "0x8016f3c",
+   "0x8016fa6"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8006b06": {
+  "label": "FUN_08006b06",
+  "n_instr": 50,
+  "callees": [
+   "0x80068c4",
+   "0x8007bb4",
+   "0x8009360",
+   "0x800b5fa",
+   "0x8010266",
+   "0x80105da"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8006b84": {
+  "label": "cc_knob_handler_b",
+  "n_instr": 24,
+  "callees": [
+   "0x8004602",
+   "0x8006898",
+   "0x80069e0",
+   "0x8006a8c",
+   "0x8006b06"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8006bbe": {
+  "label": "switch_style_handler",
+  "n_instr": 92,
+  "callees": [
+   "0x8004602",
+   "0x8006878",
+   "0x8006898",
+   "0x8007bb4",
+   "0x800b5e2",
+   "0x800b5fa",
+   "0x8010266",
+   "0x8010472",
+   "0x80105c2",
+   "0x80105da",
+   "0x8016f04"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8006cb8": {
+  "label": "FUN_08006cb8",
+  "n_instr": 5,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8006cc4": {
+  "label": "FUN_08006cc4",
+  "n_instr": 66,
+  "callees": [
+   "0x8007bb4",
+   "0x800b5e2",
+   "0x800b5fa",
+   "0x8010266",
+   "0x8010472",
+   "0x80105c2",
+   "0x80105da"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8006d84": {
+  "label": "FUN_08006d84",
+  "n_instr": 64,
+  "callees": [
+   "0x8006cc4",
+   "0x8007a3c",
+   "0x8007bb4",
+   "0x800b5fa",
+   "0x8010266",
+   "0x8010472"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8006e30": {
+  "label": "cc_knob_handler_a",
+  "n_instr": 56,
+  "callees": [
+   "0x8010266"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8006ed0": {
+  "label": "FUN_08006ed0",
+  "n_instr": 90,
+  "callees": [
+   "0x801644c",
+   "0x801647e",
+   "0x80164c8",
+   "0x80164f8",
+   "0x8016508",
+   "0x80173f6"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8006fa4": {
+  "label": "FUN_08006fa4",
+  "n_instr": 14,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8006fc2": {
+  "label": "FUN_08006fc2",
+  "n_instr": 51,
+  "callees": [
+   "0x800609a",
+   "0x8006150",
+   "0x8010266",
+   "0x801074c",
+   "0x8013dca",
+   "0x8013dce",
+   "0x801741c",
+   "0x8017e80",
+   "0x8017eb2"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8007050": {
+  "label": "FUN_08007050",
+  "n_instr": 31,
+  "callees": [
+   "0x801074c",
+   "0x8013dca",
+   "0x801741c",
+   "0x8017e80"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800709e": {
+  "label": "FUN_0800709e",
+  "n_instr": 43,
+  "callees": [
+   "0x8010266",
+   "0x801074c",
+   "0x8013dca",
+   "0x801741c",
+   "0x8017e80"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8007124": {
+  "label": "FUN_08007124",
+  "n_instr": 37,
+  "callees": [
+   "0x8010266",
+   "0x8017e80"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8007192": {
+  "label": "FUN_08007192",
+  "n_instr": 31,
+  "callees": [
+   "0x8007124",
+   "0x801074c",
+   "0x8013dca",
+   "0x801741c"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80071e2": {
+  "label": "FUN_080071e2",
+  "n_instr": 16,
+  "callees": [
+   "0x801031c"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800720a": {
+  "label": "FUN_0800720a",
+  "n_instr": 28,
+  "callees": [
+   "0x8006fa4",
+   "0x80071e2",
+   "0x80102ba"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8007254": {
+  "label": "FUN_08007254",
+  "n_instr": 31,
+  "callees": [
+   "0x8007124",
+   "0x801074c",
+   "0x8013dca",
+   "0x801741c"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80072a4": {
+  "label": "FUN_080072a4",
+  "n_instr": 26,
+  "callees": [
+   "0x8006fa4",
+   "0x80071e2",
+   "0x80102d2"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80072e4": {
+  "label": "FUN_080072e4",
+  "n_instr": 69,
+  "callees": [
+   "0x800609a",
+   "0x8006150",
+   "0x8010266",
+   "0x801074c",
+   "0x8013dca",
+   "0x8013dce",
+   "0x801741c",
+   "0x8017e80",
+   "0x8017eb2"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80073a0": {
+  "label": "FUN_080073a0",
+  "n_instr": 37,
+  "callees": [
+   "0x8007124",
+   "0x80102ba",
+   "0x801074c",
+   "0x8013dca",
+   "0x801741c"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8007408": {
+  "label": "FUN_08007408",
+  "n_instr": 35,
+  "callees": [
+   "0x8007124",
+   "0x80102d2",
+   "0x801074c",
+   "0x8013dca",
+   "0x801741c"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8007462": {
+  "label": "FUN_08007462",
+  "n_instr": 27,
+  "callees": [
+   "0x8013dca",
+   "0x8014128",
+   "0x8017bfc",
+   "0x8017e80"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80074a6": {
+  "label": "FUN_080074a6",
+  "n_instr": 3,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80074ac": {
+  "label": "FUN_080074ac",
+  "n_instr": 15,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80074ca": {
+  "label": "FUN_080074ca",
+  "n_instr": 496,
+  "callees": [
+   "0x8004600",
+   "0x80049de",
+   "0x8004a12",
+   "0x8004a32",
+   "0x8004a4a",
+   "0x8005ab0",
+   "0x8006106",
+   "0x8006136",
+   "0x8006fa4",
+   "0x8006fc2",
+   "0x8007050",
+   "0x800709e",
+   "0x8007192",
+   "0x800720a",
+   "0x8007254",
+   "0x80072a4",
+   "0x80072e4",
+   "0x80073a0",
+   "0x8007408",
+   "0x8007462",
+   "0x80074a6",
+   "0x80074ac",
+   "0x800b5ac",
+   "0x8010266",
+   "0x801074c",
+   "0x80110c6",
+   "0x8011316",
+   "0x8013f20",
+   "0x8013f26",
+   "0x8013f6a",
+   "0x8013f6e",
+   "0x801400c",
+   "0x801405c",
+   "0x80152f6",
+   "0x8015308",
+   "0x80154a8",
+   "0x801741c",
+   "0x8017ea4"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8007978": {
+  "label": "FUN_08007978",
+  "n_instr": 32,
+  "callees": [
+   "0x8010266",
+   "0x801074c",
+   "0x8013dca",
+   "0x801741c",
+   "0x8017e80"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80079d8": {
+  "label": "FUN_080079d8",
+  "n_instr": 33,
+  "callees": [
+   "0x8010266",
+   "0x801074c",
+   "0x8013dca",
+   "0x801741c",
+   "0x8017e80"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8007a3c": {
+  "label": "FUN_08007a3c",
+  "n_instr": 33,
+  "callees": [
+   "0x8010266",
+   "0x801074c",
+   "0x8013dca",
+   "0x801741c",
+   "0x8017e80"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8007aa0": {
+  "label": "FUN_08007aa0",
+  "n_instr": 32,
+  "callees": [
+   "0x8010266",
+   "0x801074c",
+   "0x8013dca",
+   "0x801741c",
+   "0x8017e80"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8007b00": {
+  "label": "FUN_08007b00",
+  "n_instr": 42,
+  "callees": [
+   "0x8010266",
+   "0x801074c",
+   "0x8013dca",
+   "0x801741c",
+   "0x8017e80"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8007b6a": {
+  "label": "FUN_08007b6a",
+  "n_instr": 12,
+  "callees": [
+   "0x8007b00"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8007b84": {
+  "label": "FUN_08007b84",
+  "n_instr": 23,
+  "callees": [
+   "0x8007b00"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8007bb4": {
+  "label": "get_param",
+  "n_instr": 4,
+  "callees": [
+   "0x8010266"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8007bbe": {
+  "label": "FUN_08007bbe",
+  "n_instr": 41,
+  "callees": [
+   "0x8007bb4",
+   "0x800df76",
+   "0x8010266",
+   "0x8010576",
+   "0x80105c2",
+   "0x8016f3c"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": [
+   0
+  ]
+ },
+ "0x8007c2c": {
+  "label": "FUN_08007c2c",
+  "n_instr": 39,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8007c7a": {
+  "label": "FUN_08007c7a",
+  "n_instr": 46,
+  "callees": [
+   "0x8007bb4",
+   "0x8007bbe",
+   "0x8007c2c",
+   "0x8010266",
+   "0x8010576",
+   "0x8010590",
+   "0x80110ac"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8007cf6": {
+  "label": "FUN_08007cf6",
+  "n_instr": 131,
+  "callees": [
+   "0x8007bb4",
+   "0x8007bbe",
+   "0x8007c2c",
+   "0x800e01c",
+   "0x8010266",
+   "0x801031c",
+   "0x8010576",
+   "0x8010590",
+   "0x80105c2",
+   "0x80110ac",
+   "0x8016f3c",
+   "0x8016fa6"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [
+   23
+  ],
+  "params_get": [
+   23
+  ]
+ },
+ "0x8007e54": {
+  "label": "FUN_08007e54",
+  "n_instr": 10,
+  "callees": [
+   "0x801031c",
+   "0x80110ac"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [
+   206
+  ],
+  "params_get": []
+ },
+ "0x8007e6e": {
+  "label": "FUN_08007e6e",
+  "n_instr": 10,
+  "callees": [
+   "0x801031c",
+   "0x80110ac"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [
+   206
+  ],
+  "params_get": []
+ },
+ "0x8007e88": {
+  "label": "FUN_08007e88",
+  "n_instr": 10,
+  "callees": [
+   "0x801031c",
+   "0x80110ac"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [
+   206
+  ],
+  "params_get": []
+ },
+ "0x8007ea2": {
+  "label": "FUN_08007ea2",
+  "n_instr": 10,
+  "callees": [
+   "0x801031c",
+   "0x80110ac"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [
+   206
+  ],
+  "params_get": []
+ },
+ "0x8007ebc": {
+  "label": "FUN_08007ebc",
+  "n_instr": 10,
+  "callees": [
+   "0x801031c",
+   "0x80110ac"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [
+   206
+  ],
+  "params_get": []
+ },
+ "0x8007ed6": {
+  "label": "FUN_08007ed6",
+  "n_instr": 10,
+  "callees": [
+   "0x801031c",
+   "0x80110ac"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [
+   206
+  ],
+  "params_get": []
+ },
+ "0x8007ef0": {
+  "label": "FUN_08007ef0",
+  "n_instr": 10,
+  "callees": [
+   "0x801031c",
+   "0x80110ac"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [
+   206
+  ],
+  "params_get": []
+ },
+ "0x8007f0a": {
+  "label": "FUN_08007f0a",
+  "n_instr": 10,
+  "callees": [
+   "0x801031c",
+   "0x80110ac"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [
+   206
+  ],
+  "params_get": []
+ },
+ "0x8007f24": {
+  "label": "FUN_08007f24",
+  "n_instr": 86,
+  "callees": [
+   "0x801031c",
+   "0x8010404"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [
+   26
+  ],
+  "params_get": []
+ },
+ "0x8007fd6": {
+  "label": "menu_switch_dispatcher (writes param21)",
+  "n_instr": 5,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8007fe0": {
+  "label": "menu_switch_write_param21_site",
+  "n_instr": 7,
+  "callees": [
+   "0x8007f24",
+   "0x801031c",
+   "0x8015452"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [
+   21
+  ],
+  "params_get": []
+ },
+ "0x8007ff4": {
+  "label": "FUN_08007ff4",
+  "n_instr": 18,
+  "callees": [
+   "0x8010266",
+   "0x801031c",
+   "0x80110ac"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [
+   12
+  ],
+  "params_get": []
+ },
+ "0x8008024": {
+  "label": "FUN_08008024",
+  "n_instr": 11,
+  "callees": [
+   "0x801031c",
+   "0x8016ba2"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [
+   18
+  ],
+  "params_get": []
+ },
+ "0x800803e": {
+  "label": "FUN_0800803e",
+  "n_instr": 21,
+  "callees": [
+   "0x8007bb4",
+   "0x8008024",
+   "0x8010266",
+   "0x801031c",
+   "0x80110ac",
+   "0x8015452",
+   "0x8015a92"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [
+   17
+  ],
+  "params_get": [
+   18
+  ]
+ },
+ "0x8008078": {
+  "label": "FUN_08008078",
+  "n_instr": 15,
+  "callees": [
+   "0x8010266",
+   "0x801031c",
+   "0x80110ac",
+   "0x8015452"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [
+   30
+  ],
+  "params_get": []
+ },
+ "0x80080a0": {
+  "label": "FUN_080080a0",
+  "n_instr": 18,
+  "callees": [
+   "0x8007bb4",
+   "0x8010266",
+   "0x801031c",
+   "0x80110ac",
+   "0x8015452"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [
+   16
+  ],
+  "params_get": [
+   0
+  ]
+ },
+ "0x80080d0": {
+  "label": "FUN_080080d0",
+  "n_instr": 150,
+  "callees": [
+   "0x8006bbe",
+   "0x800803e",
+   "0x8008078",
+   "0x80080a0",
+   "0x800df76",
+   "0x8010266",
+   "0x801031c",
+   "0x8010404",
+   "0x80105c2",
+   "0x80105da",
+   "0x8015452",
+   "0x8016f3c"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [
+   23
+  ],
+  "params_get": []
+ },
+ "0x8008250": {
+  "label": "FUN_08008250",
+  "n_instr": 22,
+  "callees": [
+   "0x8008024",
+   "0x8010266",
+   "0x80110ac",
+   "0x8015452"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8008288": {
+  "label": "FUN_08008288",
+  "n_instr": 38,
+  "callees": [
+   "0x8007bb4",
+   "0x8008024",
+   "0x8010266",
+   "0x801031c",
+   "0x80110ac",
+   "0x8015452",
+   "0x8015a92",
+   "0x8015b3a",
+   "0x8016c4e"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [
+   17
+  ],
+  "params_get": [
+   0
+  ]
+ },
+ "0x80082ea": {
+  "label": "FUN_080082ea",
+  "n_instr": 81,
+  "callees": [
+   "0x800ddd0",
+   "0x8010266",
+   "0x8015452",
+   "0x80162b6",
+   "0x8016e02",
+   "0x8016f3c",
+   "0x8017e80"
+  ],
+  "periph": [],
+  "strings": [
+   "mmc_record_string"
+  ],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80083b6": {
+  "label": "FUN_080083b6",
+  "n_instr": 81,
+  "callees": [
+   "0x800ddd0",
+   "0x8010266",
+   "0x8015452",
+   "0x8016276",
+   "0x8016dee",
+   "0x8016f3c",
+   "0x8017e80"
+  ],
+  "periph": [],
+  "strings": [
+   "mmc_play_string"
+  ],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800847c": {
+  "label": "FUN_0800847c",
+  "n_instr": 81,
+  "callees": [
+   "0x800ddd0",
+   "0x8010266",
+   "0x8015452",
+   "0x80162e0",
+   "0x8016df8",
+   "0x8016f3c",
+   "0x8017e80"
+  ],
+  "periph": [],
+  "strings": [
+   "mmc_stop_string"
+  ],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8008542": {
+  "label": "FUN_08008542",
+  "n_instr": 33,
+  "callees": [
+   "0x8007bb4",
+   "0x8010266",
+   "0x801031c",
+   "0x8010376",
+   "0x8015452",
+   "0x80154b4"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [
+   201,
+   202
+  ],
+  "params_get": [
+   0
+  ]
+ },
+ "0x800859c": {
+  "label": "FUN_0800859c",
+  "n_instr": 27,
+  "callees": [
+   "0x8010266",
+   "0x801031c",
+   "0x80110ac",
+   "0x8015452"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [
+   30
+  ],
+  "params_get": []
+ },
+ "0x80085de": {
+  "label": "FUN_080085de",
+  "n_instr": 31,
+  "callees": [
+   "0x8007bb4",
+   "0x8010266",
+   "0x801031c",
+   "0x80110ac",
+   "0x8015452"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [
+   16
+  ],
+  "params_get": [
+   0
+  ]
+ },
+ "0x800862a": {
+  "label": "FUN_0800862a",
+  "n_instr": 226,
+  "callees": [
+   "0x80069e0",
+   "0x8007ff4",
+   "0x8008250",
+   "0x8008288",
+   "0x80082ea",
+   "0x80083b6",
+   "0x800847c",
+   "0x8008542",
+   "0x800859c",
+   "0x80085de",
+   "0x800df76",
+   "0x8010266",
+   "0x801031c",
+   "0x8010404",
+   "0x80105c2",
+   "0x80105da",
+   "0x8015452",
+   "0x8016f3c"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [
+   23
+  ],
+  "params_get": []
+ },
+ "0x80088a6": {
+  "label": "FUN_080088a6",
+  "n_instr": 6,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80088b2": {
+  "label": "FUN_080088b2",
+  "n_instr": 12,
+  "callees": [
+   "0x801031c"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [
+   216
+  ],
+  "params_get": []
+ },
+ "0x80088cc": {
+  "label": "FUN_080088cc",
+  "n_instr": 15,
+  "callees": [
+   "0x80088b2",
+   "0x800e362",
+   "0x8010376",
+   "0x8015452"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80088f2": {
+  "label": "FUN_080088f2",
+  "n_instr": 7,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8008900": {
+  "label": "FUN_08008900",
+  "n_instr": 16,
+  "callees": [
+   "0x80088b2",
+   "0x800e362",
+   "0x8010376",
+   "0x8015452"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8008928": {
+  "label": "FUN_08008928",
+  "n_instr": 11,
+  "callees": [
+   "0x800e0a8",
+   "0x801031c",
+   "0x8015452"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [
+   15
+  ],
+  "params_get": []
+ },
+ "0x8008944": {
+  "label": "FUN_08008944",
+  "n_instr": 13,
+  "callees": [
+   "0x800e0a8",
+   "0x800fa56",
+   "0x801031c",
+   "0x8015452"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [
+   15
+  ],
+  "params_get": []
+ },
+ "0x8008966": {
+  "label": "FUN_08008966",
+  "n_instr": 66,
+  "callees": [
+   "0x800ddd0",
+   "0x8010266",
+   "0x8015452",
+   "0x8016328",
+   "0x8016de4",
+   "0x8016f3c",
+   "0x8017e80"
+  ],
+  "periph": [],
+  "strings": [
+   "mmc_forward_string"
+  ],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8008a0a": {
+  "label": "FUN_08008a0a",
+  "n_instr": 72,
+  "callees": [
+   "0x800ddd0",
+   "0x8010266",
+   "0x8015452",
+   "0x801633a",
+   "0x8016dda",
+   "0x8016f3c",
+   "0x8017e80"
+  ],
+  "periph": [],
+  "strings": [
+   "mmc_back_string"
+  ],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8008aba": {
+  "label": "FUN_08008aba",
+  "n_instr": 6,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8008ac6": {
+  "label": "FUN_08008ac6",
+  "n_instr": 40,
+  "callees": [
+   "0x8008aba",
+   "0x8010266",
+   "0x801031c",
+   "0x8010472",
+   "0x80110ac",
+   "0x8015452"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [
+   13,
+   14,
+   27
+  ],
+  "params_get": []
+ },
+ "0x8008b2c": {
+  "label": "FUN_08008b2c",
+  "n_instr": 22,
+  "callees": [
+   "0x8010266",
+   "0x801031c",
+   "0x80110ac",
+   "0x8015452"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [
+   13,
+   14
+  ],
+  "params_get": []
+ },
+ "0x8008b64": {
+  "label": "FUN_08008b64",
+  "n_instr": 8,
+  "callees": [
+   "0x801031c"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [
+   20
+  ],
+  "params_get": []
+ },
+ "0x8008b76": {
+  "label": "FUN_08008b76",
+  "n_instr": 8,
+  "callees": [
+   "0x801031c"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [
+   20
+  ],
+  "params_get": []
+ },
+ "0x8008b88": {
+  "label": "FUN_08008b88",
+  "n_instr": 10,
+  "callees": [
+   "0x801031c",
+   "0x8015452"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [
+   20
+  ],
+  "params_get": []
+ },
+ "0x8008ba0": {
+  "label": "FUN_08008ba0",
+  "n_instr": 17,
+  "callees": [
+   "0x800e410",
+   "0x8010266",
+   "0x801031c",
+   "0x8015452"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [
+   20,
+   37
+  ],
+  "params_get": []
+ },
+ "0x8008bcc": {
+  "label": "FUN_08008bcc",
+  "n_instr": 13,
+  "callees": [
+   "0x8010266",
+   "0x801031c",
+   "0x8015452"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [
+   11
+  ],
+  "params_get": []
+ },
+ "0x8008bec": {
+  "label": "FUN_08008bec",
+  "n_instr": 13,
+  "callees": [
+   "0x8010266",
+   "0x801031c",
+   "0x8015452"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [
+   11
+  ],
+  "params_get": []
+ },
+ "0x8008c0c": {
+  "label": "FUN_08008c0c",
+  "n_instr": 13,
+  "callees": [
+   "0x8010266",
+   "0x801031c",
+   "0x8015452"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [
+   11
+  ],
+  "params_get": []
+ },
+ "0x8008c2c": {
+  "label": "FUN_08008c2c",
+  "n_instr": 13,
+  "callees": [
+   "0x8010266",
+   "0x801031c",
+   "0x8015452"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [
+   11
+  ],
+  "params_get": []
+ },
+ "0x8008c4c": {
+  "label": "FUN_08008c4c",
+  "n_instr": 30,
+  "callees": [
+   "0x8007bb4",
+   "0x8010266",
+   "0x801031c",
+   "0x80105fa",
+   "0x80110ac",
+   "0x8015452"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [
+   62,
+   64,
+   220
+  ],
+  "params_get": [
+   0
+  ]
+ },
+ "0x8008cbc": {
+  "label": "FUN_08008cbc",
+  "n_instr": 18,
+  "callees": [
+   "0x8007bb4",
+   "0x801031c",
+   "0x80110ac",
+   "0x8015452"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [
+   62,
+   64
+  ],
+  "params_get": []
+ },
+ "0x8008cec": {
+  "label": "FUN_08008cec",
+  "n_instr": 20,
+  "callees": [
+   "0x8010248",
+   "0x8010266",
+   "0x8010376"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8008d1a": {
+  "label": "FUN_08008d1a",
+  "n_instr": 4,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8008d22": {
+  "label": "FUN_08008d22",
+  "n_instr": 16,
+  "callees": [
+   "0x8010266",
+   "0x8010376"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8008d48": {
+  "label": "FUN_08008d48",
+  "n_instr": 8,
+  "callees": [
+   "0x8010266"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8008d5e": {
+  "label": "FUN_08008d5e",
+  "n_instr": 30,
+  "callees": [
+   "0x8010266",
+   "0x80105da",
+   "0x8015452",
+   "0x8016f3c",
+   "0x8016fa6"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8008dae": {
+  "label": "FUN_08008dae",
+  "n_instr": 16,
+  "callees": [
+   "0x8010266",
+   "0x80105da",
+   "0x8015452",
+   "0x8016fa6"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8008dd6": {
+  "label": "FUN_08008dd6",
+  "n_instr": 13,
+  "callees": [
+   "0x8007fd6",
+   "0x8010266"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8008df6": {
+  "label": "FUN_08008df6",
+  "n_instr": 55,
+  "callees": [
+   "0x8015452"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8008e68": {
+  "label": "FUN_08008e68",
+  "n_instr": 46,
+  "callees": [
+   "0x8007c2c",
+   "0x8008df6",
+   "0x8010266",
+   "0x8010590"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8008ee6": {
+  "label": "FUN_08008ee6",
+  "n_instr": 39,
+  "callees": [
+   "0x8007c2c",
+   "0x8008df6",
+   "0x8010266",
+   "0x8010590"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8008f50": {
+  "label": "FUN_08008f50",
+  "n_instr": 32,
+  "callees": [
+   "0x8008aba",
+   "0x8010266",
+   "0x8010472"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8008fa0": {
+  "label": "FUN_08008fa0",
+  "n_instr": 45,
+  "callees": [
+   "0x8008f50",
+   "0x800e236",
+   "0x8010266",
+   "0x801048c"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800901a": {
+  "label": "FUN_0800901a",
+  "n_instr": 42,
+  "callees": [
+   "0x8010266",
+   "0x801048c"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800908a": {
+  "label": "FUN_0800908a",
+  "n_instr": 8,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800909a": {
+  "label": "FUN_0800909a",
+  "n_instr": 37,
+  "callees": [
+   "0x800908a",
+   "0x800e0a8",
+   "0x8010266",
+   "0x8010514"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8009102": {
+  "label": "FUN_08009102",
+  "n_instr": 82,
+  "callees": [
+   "0x800908a",
+   "0x800e0a8",
+   "0x8010266",
+   "0x801031c",
+   "0x8010404",
+   "0x8010418",
+   "0x801042a",
+   "0x8010514",
+   "0x80105b2"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [
+   258,
+   262
+  ],
+  "params_get": []
+ },
+ "0x80091e8": {
+  "label": "FUN_080091e8",
+  "n_instr": 120,
+  "callees": [
+   "0x800908a",
+   "0x800e0a8",
+   "0x8010266",
+   "0x801031c",
+   "0x8010404",
+   "0x8010418",
+   "0x801042a",
+   "0x8010514",
+   "0x80105b2"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [
+   239,
+   240,
+   241,
+   242,
+   243,
+   258,
+   260,
+   262
+  ],
+  "params_get": []
+ },
+ "0x8009338": {
+  "label": "FUN_08009338",
+  "n_instr": 10,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800934c": {
+  "label": "FUN_0800934c",
+  "n_instr": 10,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8009360": {
+  "label": "FUN_08009360",
+  "n_instr": 9,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8009372": {
+  "label": "FUN_08009372",
+  "n_instr": 9,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8009384": {
+  "label": "FUN_08009384",
+  "n_instr": 24,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80093b4": {
+  "label": "FUN_080093b4",
+  "n_instr": 442,
+  "callees": [
+   "0x8007c2c",
+   "0x8007fd6",
+   "0x8009338",
+   "0x800934c",
+   "0x8009360",
+   "0x8009372",
+   "0x8009384",
+   "0x8010266",
+   "0x801031c",
+   "0x8010472",
+   "0x80104fa",
+   "0x8010576",
+   "0x8010590"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [
+   34,
+   44,
+   45,
+   46,
+   47,
+   48,
+   49,
+   50,
+   51,
+   52,
+   53,
+   54,
+   55,
+   56,
+   57,
+   58,
+   59,
+   60,
+   61
+  ],
+  "params_get": []
+ },
+ "0x8009854": {
+  "label": "FUN_08009854",
+  "n_instr": 11,
+  "callees": [
+   "0x8010266",
+   "0x801031c"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [
+   25
+  ],
+  "params_get": []
+ },
+ "0x800986e": {
+  "label": "FUN_0800986e",
+  "n_instr": 11,
+  "callees": [
+   "0x8006fc2",
+   "0x8010266"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8009888": {
+  "label": "FUN_08009888",
+  "n_instr": 6,
+  "callees": [
+   "0x8004958"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8009896": {
+  "label": "FUN_08009896",
+  "n_instr": 153,
+  "callees": [
+   "0x8010266",
+   "0x8010432",
+   "0x80105c2",
+   "0x80108d8",
+   "0x8016c38",
+   "0x8016f04",
+   "0x8016f3c"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8009a28": {
+  "label": "FUN_08009a28",
+  "n_instr": 14,
+  "callees": [
+   "0x80060e4",
+   "0x801031c",
+   "0x80109d4"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [
+   9,
+   37
+  ],
+  "params_get": []
+ },
+ "0x8009a4c": {
+  "label": "FUN_08009a4c",
+  "n_instr": 17,
+  "callees": [
+   "0x8006726",
+   "0x8008ba0",
+   "0x8010266",
+   "0x801031c",
+   "0x8015452"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [
+   9
+  ],
+  "params_get": []
+ },
+ "0x8009a78": {
+  "label": "FUN_08009a78",
+  "n_instr": 69,
+  "callees": [
+   "0x80060e4",
+   "0x800cdba",
+   "0x800e0a8",
+   "0x8010266",
+   "0x801031c",
+   "0x801042a",
+   "0x80105b2",
+   "0x80110ac",
+   "0x8015452"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [
+   9,
+   37
+  ],
+  "params_get": []
+ },
+ "0x8009b46": {
+  "label": "FUN_08009b46",
+  "n_instr": 2904,
+  "callees": [
+   "0x8007bb4",
+   "0x8007c7a",
+   "0x8007cf6",
+   "0x8007e54",
+   "0x8007e6e",
+   "0x8007e88",
+   "0x8007ea2",
+   "0x8007ebc",
+   "0x8007ed6",
+   "0x8007ef0",
+   "0x8007f0a",
+   "0x8007fd6",
+   "0x8007ff4",
+   "0x800803e",
+   "0x8008078",
+   "0x80080a0",
+   "0x80080d0",
+   "0x8008250",
+   "0x8008288",
+   "0x80082ea",
+   "0x80083b6",
+   "0x800847c",
+   "0x8008542",
+   "0x800859c",
+   "0x80085de",
+   "0x800862a",
+   "0x80088a6",
+   "0x80088cc",
+   "0x80088f2",
+   "0x8008900",
+   "0x8008928",
+   "0x8008944",
+   "0x8008966",
+   "0x8008a0a",
+   "0x8008ac6",
+   "0x8008b2c",
+   "0x8008b64",
+   "0x8008b76",
+   "0x8008b88",
+   "0x8008ba0",
+   "0x8008bcc",
+   "0x8008bec",
+   "0x8008c0c",
+   "0x8008c2c",
+   "0x8008c4c",
+   "0x8008cbc",
+   "0x8008cec",
+   "0x8008d1a",
+   "0x8008d22",
+   "0x8008d48",
+   "0x8008d5e",
+   "0x8008dae",
+   "0x8008dd6",
+   "0x8008df6",
+   "0x8008e68",
+   "0x8008ee6",
+   "0x8008fa0",
+   "0x800901a",
+   "0x800909a",
+   "0x8009102",
+   "0x80091e8",
+   "0x80093b4",
+   "0x8009854",
+   "0x800986e",
+   "0x8009888",
+   "0x8009896",
+   "0x8009a28",
+   "0x8009a4c",
+   "0x8009a78",
+   "0x8010266"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": [
+   0,
+   1
+  ]
+ },
+ "0x800b5ac": {
+  "label": "FUN_0800b5ac",
+  "n_instr": 20,
+  "callees": [
+   "0x8007978",
+   "0x8009b46",
+   "0x8010266"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800b5e2": {
+  "label": "FUN_0800b5e2",
+  "n_instr": 6,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800b5ee": {
+  "label": "FUN_0800b5ee",
+  "n_instr": 6,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800b5fa": {
+  "label": "FUN_0800b5fa",
+  "n_instr": 4,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800b604": {
+  "label": "FUN_0800b604",
+  "n_instr": 3,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800b60a": {
+  "label": "FUN_0800b60a",
+  "n_instr": 4,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800b618": {
+  "label": "FUN_0800b618",
+  "n_instr": 41,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800b69a": {
+  "label": "FUN_0800b69a",
+  "n_instr": 32,
+  "callees": [
+   "0x800b618"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800b6f0": {
+  "label": "FUN_0800b6f0",
+  "n_instr": 33,
+  "callees": [
+   "0x800b618"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800b736": {
+  "label": "FUN_0800b736",
+  "n_instr": 16,
+  "callees": [
+   "0x800b6f0"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800b75e": {
+  "label": "FUN_0800b75e",
+  "n_instr": 24,
+  "callees": [
+   "0x800b618",
+   "0x800b736",
+   "0x8010266"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800b796": {
+  "label": "FUN_0800b796",
+  "n_instr": 40,
+  "callees": [
+   "0x800b618",
+   "0x800b75e",
+   "0x8010266"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800b7f6": {
+  "label": "FUN_0800b7f6",
+  "n_instr": 13,
+  "callees": [
+   "0x800b796"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800b814": {
+  "label": "FUN_0800b814",
+  "n_instr": 13,
+  "callees": [
+   "0x800b796"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800b832": {
+  "label": "FUN_0800b832",
+  "n_instr": 13,
+  "callees": [
+   "0x800b796"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800b850": {
+  "label": "FUN_0800b850",
+  "n_instr": 13,
+  "callees": [
+   "0x800b796"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800b86e": {
+  "label": "FUN_0800b86e",
+  "n_instr": 13,
+  "callees": [
+   "0x800b75e"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800b88c": {
+  "label": "FUN_0800b88c",
+  "n_instr": 13,
+  "callees": [
+   "0x800b75e"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800b8aa": {
+  "label": "FUN_0800b8aa",
+  "n_instr": 10,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800b8c0": {
+  "label": "FUN_0800b8c0",
+  "n_instr": 9,
+  "callees": [
+   "0x800b8aa"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800b8d4": {
+  "label": "FUN_0800b8d4",
+  "n_instr": 21,
+  "callees": [
+   "0x800b8c0",
+   "0x8010266",
+   "0x8017eb2"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800b908": {
+  "label": "FUN_0800b908",
+  "n_instr": 20,
+  "callees": [
+   "0x8010266"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800b942": {
+  "label": "FUN_0800b942",
+  "n_instr": 43,
+  "callees": [
+   "0x800b908",
+   "0x8010266"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800b9a4": {
+  "label": "FUN_0800b9a4",
+  "n_instr": 7,
+  "callees": [
+   "0x800b942"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800b9b4": {
+  "label": "FUN_0800b9b4",
+  "n_instr": 18,
+  "callees": [
+   "0x800b6f0",
+   "0x8010266"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800b9e0": {
+  "label": "FUN_0800b9e0",
+  "n_instr": 7,
+  "callees": [
+   "0x800b942"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800b9f0": {
+  "label": "FUN_0800b9f0",
+  "n_instr": 7,
+  "callees": [
+   "0x800b942"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800ba00": {
+  "label": "FUN_0800ba00",
+  "n_instr": 7,
+  "callees": [
+   "0x800b942"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800ba10": {
+  "label": "FUN_0800ba10",
+  "n_instr": 7,
+  "callees": [
+   "0x800b942"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800ba20": {
+  "label": "FUN_0800ba20",
+  "n_instr": 7,
+  "callees": [
+   "0x800b942"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800ba30": {
+  "label": "FUN_0800ba30",
+  "n_instr": 7,
+  "callees": [
+   "0x800b942"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800ba40": {
+  "label": "FUN_0800ba40",
+  "n_instr": 21,
+  "callees": [
+   "0x800b618",
+   "0x8010266",
+   "0x80107e0"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800ba70": {
+  "label": "FUN_0800ba70",
+  "n_instr": 23,
+  "callees": [
+   "0x800b8aa",
+   "0x8010266"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800baa4": {
+  "label": "FUN_0800baa4",
+  "n_instr": 105,
+  "callees": [
+   "0x800b618",
+   "0x800b736",
+   "0x800b8aa",
+   "0x8010266"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800bba0": {
+  "label": "FUN_0800bba0",
+  "n_instr": 69,
+  "callees": [
+   "0x800b618",
+   "0x800b736",
+   "0x800b8aa",
+   "0x8010266"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800bc42": {
+  "label": "FUN_0800bc42",
+  "n_instr": 34,
+  "callees": [
+   "0x800b5fa",
+   "0x800b618",
+   "0x8010266"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800bc9c": {
+  "label": "FUN_0800bc9c",
+  "n_instr": 83,
+  "callees": [
+   "0x800b5fa",
+   "0x800b618",
+   "0x800b736",
+   "0x800b8aa",
+   "0x8010266"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800bd7e": {
+  "label": "FUN_0800bd7e",
+  "n_instr": 44,
+  "callees": [
+   "0x800b736",
+   "0x800b8aa",
+   "0x8010266"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800bdec": {
+  "label": "FUN_0800bdec",
+  "n_instr": 44,
+  "callees": [
+   "0x800b736",
+   "0x800b8aa",
+   "0x8010266"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800be5a": {
+  "label": "FUN_0800be5a",
+  "n_instr": 73,
+  "callees": [
+   "0x800b618",
+   "0x800b736",
+   "0x8010266"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800bf02": {
+  "label": "FUN_0800bf02",
+  "n_instr": 47,
+  "callees": [
+   "0x800b618",
+   "0x8010266"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800bf72": {
+  "label": "FUN_0800bf72",
+  "n_instr": 106,
+  "callees": [
+   "0x800b618",
+   "0x800b8aa",
+   "0x8010266",
+   "0x8017e80"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800c074": {
+  "label": "FUN_0800c074",
+  "n_instr": 47,
+  "callees": [
+   "0x800b618",
+   "0x8010266"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800c0e4": {
+  "label": "FUN_0800c0e4",
+  "n_instr": 20,
+  "callees": [
+   "0x800b8aa",
+   "0x8010266"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800c120": {
+  "label": "FUN_0800c120",
+  "n_instr": 57,
+  "callees": [
+   "0x800b8aa",
+   "0x8010266",
+   "0x8017e80"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800c1b0": {
+  "label": "FUN_0800c1b0",
+  "n_instr": 22,
+  "callees": [
+   "0x800b618",
+   "0x8010266"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800c1ea": {
+  "label": "FUN_0800c1ea",
+  "n_instr": 97,
+  "callees": [
+   "0x800b618",
+   "0x800b736",
+   "0x800b8aa",
+   "0x8010266"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800c2d8": {
+  "label": "FUN_0800c2d8",
+  "n_instr": 11,
+  "callees": [
+   "0x800b736",
+   "0x8010266"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800c2f2": {
+  "label": "FUN_0800c2f2",
+  "n_instr": 66,
+  "callees": [
+   "0x800b618",
+   "0x800b736",
+   "0x8010266"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800c38e": {
+  "label": "FUN_0800c38e",
+  "n_instr": 66,
+  "callees": [
+   "0x800b618",
+   "0x800b736",
+   "0x8010266"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800c42a": {
+  "label": "FUN_0800c42a",
+  "n_instr": 87,
+  "callees": [
+   "0x800b618",
+   "0x800b736",
+   "0x8010266"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800c4f6": {
+  "label": "FUN_0800c4f6",
+  "n_instr": 10,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800c50a": {
+  "label": "FUN_0800c50a",
+  "n_instr": 36,
+  "callees": [
+   "0x800b8c0",
+   "0x800c4f6",
+   "0x8010266",
+   "0x8010404",
+   "0x8017e80"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800c570": {
+  "label": "FUN_0800c570",
+  "n_instr": 163,
+  "callees": [
+   "0x8007c2c",
+   "0x8009384",
+   "0x800b8c0",
+   "0x800c4f6",
+   "0x8010266",
+   "0x8010404",
+   "0x8013d9c",
+   "0x8013da8",
+   "0x8017e80",
+   "0x8017eca"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800c6fe": {
+  "label": "FUN_0800c6fe",
+  "n_instr": 180,
+  "callees": [
+   "0x8009338",
+   "0x800934c",
+   "0x8009360",
+   "0x8009372",
+   "0x8009384",
+   "0x800b8c0",
+   "0x800c4f6",
+   "0x800c50a",
+   "0x800c570",
+   "0x8010266",
+   "0x8010404",
+   "0x8013d9c",
+   "0x8013da8",
+   "0x8017e80",
+   "0x8017eca"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800c8de": {
+  "label": "FUN_0800c8de",
+  "n_instr": 16,
+  "callees": [
+   "0x800b618"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800c900": {
+  "label": "FUN_0800c900",
+  "n_instr": 24,
+  "callees": [
+   "0x800c8de"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800c932": {
+  "label": "FUN_0800c932",
+  "n_instr": 21,
+  "callees": [
+   "0x800b618",
+   "0x800c8de",
+   "0x8010266"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800c962": {
+  "label": "FUN_0800c962",
+  "n_instr": 142,
+  "callees": [
+   "0x800b618",
+   "0x800c8de",
+   "0x8010266"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800ca84": {
+  "label": "FUN_0800ca84",
+  "n_instr": 28,
+  "callees": [
+   "0x800b8c0",
+   "0x800c8de",
+   "0x8010266"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800cacc": {
+  "label": "FUN_0800cacc",
+  "n_instr": 22,
+  "callees": [
+   "0x800b69a",
+   "0x800c8de",
+   "0x8010266"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800cafe": {
+  "label": "FUN_0800cafe",
+  "n_instr": 26,
+  "callees": [
+   "0x800b8c0",
+   "0x800c8de",
+   "0x8010266",
+   "0x8017e80"
+  ],
+  "periph": [],
+  "strings": [
+   "curve_name_linear"
+  ],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800cb3e": {
+  "label": "FUN_0800cb3e",
+  "n_instr": 22,
+  "callees": [
+   "0x800b618",
+   "0x800c8de",
+   "0x8010266"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800cb70": {
+  "label": "FUN_0800cb70",
+  "n_instr": 27,
+  "callees": [
+   "0x800b8c0",
+   "0x800c8de",
+   "0x8010266",
+   "0x8017e80"
+  ],
+  "periph": [],
+  "strings": [
+   "curve_name_linear"
+  ],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800cbb2": {
+  "label": "FUN_0800cbb2",
+  "n_instr": 21,
+  "callees": [
+   "0x800b618",
+   "0x800c8de",
+   "0x8010266"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800cbe2": {
+  "label": "FUN_0800cbe2",
+  "n_instr": 21,
+  "callees": [
+   "0x800b618",
+   "0x800c8de",
+   "0x8010266"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800cc12": {
+  "label": "FUN_0800cc12",
+  "n_instr": 8,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800cc24": {
+  "label": "FUN_0800cc24",
+  "n_instr": 44,
+  "callees": [
+   "0x800c8de",
+   "0x800cc12",
+   "0x8010266",
+   "0x8013d9c",
+   "0x8013da8"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800cc8e": {
+  "label": "FUN_0800cc8e",
+  "n_instr": 21,
+  "callees": [
+   "0x800b8c0",
+   "0x800c8de",
+   "0x8010266"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800ccc2": {
+  "label": "FUN_0800ccc2",
+  "n_instr": 4,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800ccca": {
+  "label": "FUN_0800ccca",
+  "n_instr": 13,
+  "callees": [
+   "0x8010266"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800cce8": {
+  "label": "FUN_0800cce8",
+  "n_instr": 28,
+  "callees": [
+   "0x800b618",
+   "0x800ccca",
+   "0x8010266"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800cd2a": {
+  "label": "FUN_0800cd2a",
+  "n_instr": 49,
+  "callees": [
+   "0x800b618",
+   "0x800b8c0",
+   "0x800ccca",
+   "0x8010266"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800cda0": {
+  "label": "FUN_0800cda0",
+  "n_instr": 3,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800cda6": {
+  "label": "FUN_0800cda6",
+  "n_instr": 9,
+  "callees": [
+   "0x800b8aa"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800cdba": {
+  "label": "FUN_0800cdba",
+  "n_instr": 19,
+  "callees": [
+   "0x8007bb4",
+   "0x800cda0",
+   "0x8010266"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800cde8": {
+  "label": "FUN_0800cde8",
+  "n_instr": 113,
+  "callees": [
+   "0x8006750",
+   "0x800b618",
+   "0x800b8c0",
+   "0x800ccca",
+   "0x800cda0",
+   "0x800cda6",
+   "0x800cdba",
+   "0x8010266"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800cee8": {
+  "label": "FUN_0800cee8",
+  "n_instr": 1338,
+  "callees": [
+   "0x8007bb4",
+   "0x800b69a",
+   "0x800b7f6",
+   "0x800b814",
+   "0x800b832",
+   "0x800b850",
+   "0x800b86e",
+   "0x800b88c",
+   "0x800b8d4",
+   "0x800b9a4",
+   "0x800b9b4",
+   "0x800b9e0",
+   "0x800b9f0",
+   "0x800ba00",
+   "0x800ba10",
+   "0x800ba20",
+   "0x800ba30",
+   "0x800ba40",
+   "0x800ba70",
+   "0x800baa4",
+   "0x800bba0",
+   "0x800bc42",
+   "0x800bc9c",
+   "0x800bd7e",
+   "0x800bdec",
+   "0x800be5a",
+   "0x800bf02",
+   "0x800bf72",
+   "0x800c074",
+   "0x800c0e4",
+   "0x800c120",
+   "0x800c1b0",
+   "0x800c1ea",
+   "0x800c2d8",
+   "0x800c2f2",
+   "0x800c38e",
+   "0x800c42a",
+   "0x800c6fe",
+   "0x800c8de",
+   "0x800c900",
+   "0x800c932",
+   "0x800c962",
+   "0x800ca84",
+   "0x800cacc",
+   "0x800cafe",
+   "0x800cb3e",
+   "0x800cb70",
+   "0x800cbb2",
+   "0x800cbe2",
+   "0x800cc24",
+   "0x800cc8e",
+   "0x800ccc2",
+   "0x800cce8",
+   "0x800cd2a",
+   "0x800cde8",
+   "0x8015464"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": [
+   84
+  ]
+ },
+ "0x800ddd0": {
+  "label": "FUN_0800ddd0",
+  "n_instr": 8,
+  "callees": [
+   "0x80100e2"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800dde2": {
+  "label": "FUN_0800dde2",
+  "n_instr": 29,
+  "callees": [
+   "0x800cc12",
+   "0x8013d9c",
+   "0x8013da8"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800de2a": {
+  "label": "FUN_0800de2a",
+  "n_instr": 81,
+  "callees": [
+   "0x800cc12",
+   "0x8013d9c",
+   "0x8013da8"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800dee0": {
+  "label": "FUN_0800dee0",
+  "n_instr": 55,
+  "callees": [
+   "0x800ddd0",
+   "0x800dde2",
+   "0x800de2a",
+   "0x8010266",
+   "0x801031c",
+   "0x8015452",
+   "0x8017eb2"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [
+   23
+  ],
+  "params_get": []
+ },
+ "0x800df76": {
+  "label": "FUN_0800df76",
+  "n_instr": 33,
+  "callees": [
+   "0x800ddd0",
+   "0x800dde2",
+   "0x800de2a",
+   "0x8010266",
+   "0x8015452",
+   "0x8017eb2"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800dfce": {
+  "label": "FUN_0800dfce",
+  "n_instr": 27,
+  "callees": [
+   "0x800ddd0",
+   "0x800dde2",
+   "0x800de2a"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800e01c": {
+  "label": "FUN_0800e01c",
+  "n_instr": 19,
+  "callees": [
+   "0x800dfce",
+   "0x8015452",
+   "0x8017eb2"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800e048": {
+  "label": "FUN_0800e048",
+  "n_instr": 36,
+  "callees": [
+   "0x800ddd0",
+   "0x800dde2",
+   "0x800de2a",
+   "0x8010266",
+   "0x8015452",
+   "0x8017eb2"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800e0a8": {
+  "label": "FUN_0800e0a8",
+  "n_instr": 152,
+  "callees": [
+   "0x8009384",
+   "0x800ddd0",
+   "0x800dde2",
+   "0x800de2a",
+   "0x8010266",
+   "0x801031c",
+   "0x80104fa",
+   "0x80105b2",
+   "0x80105c2",
+   "0x8015452",
+   "0x8017eb2",
+   "0x8017ef4"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [
+   23
+  ],
+  "params_get": []
+ },
+ "0x800e236": {
+  "label": "FUN_0800e236",
+  "n_instr": 103,
+  "callees": [
+   "0x8008aba",
+   "0x800b5e2",
+   "0x800ddd0",
+   "0x800dde2",
+   "0x800de2a",
+   "0x800dfce",
+   "0x8010266",
+   "0x801031c",
+   "0x8010472",
+   "0x80105c2",
+   "0x8015452",
+   "0x8017eb2"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [
+   23
+  ],
+  "params_get": []
+ },
+ "0x800e362": {
+  "label": "FUN_0800e362",
+  "n_instr": 74,
+  "callees": [
+   "0x800cc12",
+   "0x800ddd0",
+   "0x800de2a",
+   "0x8010266",
+   "0x8013da8",
+   "0x8015452",
+   "0x8017eb2",
+   "0x8017ef4"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800e410": {
+  "label": "FUN_0800e410",
+  "n_instr": 12,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800e42c": {
+  "label": "FUN_0800e42c",
+  "n_instr": 86,
+  "callees": [
+   "0x8010266",
+   "0x80105c2",
+   "0x80105da",
+   "0x80105fa",
+   "0x8013d6a",
+   "0x8013d76",
+   "0x8016cba",
+   "0x8016cc0",
+   "0x8016fd8"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800e50c": {
+  "label": "FUN_0800e50c",
+  "n_instr": 12,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800e52c": {
+  "label": "FUN_0800e52c",
+  "n_instr": 148,
+  "callees": [
+   "0x8007bb4",
+   "0x800908a",
+   "0x800b5fa",
+   "0x800dee0",
+   "0x800e50c",
+   "0x8010266",
+   "0x801031c",
+   "0x80105c2",
+   "0x80105da",
+   "0x80105fa",
+   "0x8016f3c",
+   "0x8016fd8"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [
+   256
+  ],
+  "params_get": [
+   256
+  ]
+ },
+ "0x800e6c2": {
+  "label": "FUN_0800e6c2",
+  "n_instr": 91,
+  "callees": [
+   "0x8007bb4",
+   "0x800908a",
+   "0x800b5fa",
+   "0x800e048",
+   "0x8010266",
+   "0x801031c",
+   "0x80105c2",
+   "0x80105da",
+   "0x80105fa",
+   "0x8016f74"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [
+   246,
+   247
+  ],
+  "params_get": [
+   247
+  ]
+ },
+ "0x800e7c0": {
+  "label": "FUN_0800e7c0",
+  "n_instr": 93,
+  "callees": [
+   "0x8007bb4",
+   "0x800908a",
+   "0x800b5fa",
+   "0x800df76",
+   "0x800e50c",
+   "0x8010266",
+   "0x801031c",
+   "0x80105c2",
+   "0x80105da",
+   "0x80105fa",
+   "0x8016f3c"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [
+   237,
+   238
+  ],
+  "params_get": [
+   237
+  ]
+ },
+ "0x800e8be": {
+  "label": "FUN_0800e8be",
+  "n_instr": 98,
+  "callees": [
+   "0x8007bb4",
+   "0x800908a",
+   "0x800b5fa",
+   "0x800e0a8",
+   "0x8010266",
+   "0x801031c",
+   "0x801042a",
+   "0x80104fa",
+   "0x80105b2",
+   "0x80105c2",
+   "0x80105da",
+   "0x8016f3c",
+   "0x8016fd8"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800e9ce": {
+  "label": "FUN_0800e9ce",
+  "n_instr": 37,
+  "callees": [
+   "0x800e50c",
+   "0x800e8be",
+   "0x8010266",
+   "0x801031c",
+   "0x801042a",
+   "0x80104fa",
+   "0x80105b2"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800ea30": {
+  "label": "FUN_0800ea30",
+  "n_instr": 103,
+  "callees": [
+   "0x800e8be",
+   "0x8010266",
+   "0x801031c",
+   "0x8010376",
+   "0x8010404",
+   "0x8010418",
+   "0x801042a",
+   "0x80104fa",
+   "0x80105b2",
+   "0x80105c2",
+   "0x8016f3c"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800eb38": {
+  "label": "FUN_0800eb38",
+  "n_instr": 10,
+  "callees": [
+   "0x8010376",
+   "0x8015452"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800eb50": {
+  "label": "FUN_0800eb50",
+  "n_instr": 83,
+  "callees": [
+   "0x8010266",
+   "0x801031c",
+   "0x8010376",
+   "0x8010404",
+   "0x8015452"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [
+   201,
+   202
+  ],
+  "params_get": []
+ },
+ "0x800ec1e": {
+  "label": "FUN_0800ec1e",
+  "n_instr": 36,
+  "callees": [
+   "0x800eb38",
+   "0x8010266"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800ec74": {
+  "label": "FUN_0800ec74",
+  "n_instr": 36,
+  "callees": [
+   "0x800eb38",
+   "0x8010266"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800ecca": {
+  "label": "FUN_0800ecca",
+  "n_instr": 36,
+  "callees": [
+   "0x800b5fa",
+   "0x800eb38",
+   "0x8010266",
+   "0x8010376",
+   "0x8015452"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800ed24": {
+  "label": "FUN_0800ed24",
+  "n_instr": 16,
+  "callees": [
+   "0x800b5fa",
+   "0x8010376",
+   "0x8015452"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800ed4e": {
+  "label": "FUN_0800ed4e",
+  "n_instr": 16,
+  "callees": [
+   "0x800b5fa",
+   "0x8010376",
+   "0x8015452"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800ed78": {
+  "label": "FUN_0800ed78",
+  "n_instr": 30,
+  "callees": [
+   "0x800eb38",
+   "0x800ed24",
+   "0x800ed4e",
+   "0x8010266"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800edc0": {
+  "label": "FUN_0800edc0",
+  "n_instr": 16,
+  "callees": [
+   "0x800b5fa",
+   "0x8010376",
+   "0x8015452"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800edea": {
+  "label": "FUN_0800edea",
+  "n_instr": 16,
+  "callees": [
+   "0x800b5fa",
+   "0x8010376",
+   "0x8015452"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800ee14": {
+  "label": "FUN_0800ee14",
+  "n_instr": 36,
+  "callees": [
+   "0x800eb38",
+   "0x800edc0",
+   "0x800edea",
+   "0x8010266"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800ee6a": {
+  "label": "FUN_0800ee6a",
+  "n_instr": 16,
+  "callees": [
+   "0x8010376",
+   "0x8014e4e",
+   "0x8015452"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800ee94": {
+  "label": "FUN_0800ee94",
+  "n_instr": 19,
+  "callees": [
+   "0x8010266",
+   "0x8010376",
+   "0x801042a",
+   "0x8015452"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800eec6": {
+  "label": "FUN_0800eec6",
+  "n_instr": 14,
+  "callees": [
+   "0x800e410",
+   "0x8010376",
+   "0x8015452"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800eee8": {
+  "label": "FUN_0800eee8",
+  "n_instr": 977,
+  "callees": [
+   "0x8007bb4",
+   "0x800b5fa",
+   "0x800e42c",
+   "0x800e52c",
+   "0x800e6c2",
+   "0x800e7c0",
+   "0x800e9ce",
+   "0x800ea30",
+   "0x800eb38",
+   "0x800eb50",
+   "0x800ec1e",
+   "0x800ec74",
+   "0x800ecca",
+   "0x800ed78",
+   "0x800ee14",
+   "0x800ee6a",
+   "0x800ee94",
+   "0x800eec6",
+   "0x8010266"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": [
+   0,
+   2,
+   3,
+   4,
+   5,
+   7,
+   8,
+   19,
+   22,
+   23,
+   24,
+   25,
+   34,
+   40,
+   41,
+   42,
+   48,
+   49,
+   58,
+   59,
+   60,
+   61,
+   63,
+   203,
+   206,
+   207,
+   208,
+   209,
+   210,
+   211,
+   212,
+   213,
+   214,
+   215,
+   216,
+   217,
+   218,
+   219,
+   221,
+   222,
+   223,
+   224,
+   225,
+   226,
+   227,
+   228,
+   229,
+   230,
+   231,
+   232,
+   233,
+   234,
+   235,
+   236,
+   250
+  ]
+ },
+ "0x800f83c": {
+  "label": "FUN_0800f83c",
+  "n_instr": 32,
+  "callees": [
+   "0x8004602",
+   "0x80079d8",
+   "0x800eee8",
+   "0x8010266"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800f894": {
+  "label": "FUN_0800f894",
+  "n_instr": 13,
+  "callees": [
+   "0x8007bb4"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800f8b0": {
+  "label": "FUN_0800f8b0",
+  "n_instr": 53,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800f930": {
+  "label": "FUN_0800f930",
+  "n_instr": 55,
+  "callees": [
+   "0x8007bb4",
+   "0x800cdba",
+   "0x800f8b0"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800f9a4": {
+  "label": "FUN_0800f9a4",
+  "n_instr": 15,
+  "callees": [
+   "0x800cdba",
+   "0x800f8b0"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800f9c6": {
+  "label": "FUN_0800f9c6",
+  "n_instr": 23,
+  "callees": [
+   "0x8007bb4",
+   "0x800cdba",
+   "0x800f8b0"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800f9fa": {
+  "label": "FUN_0800f9fa",
+  "n_instr": 26,
+  "callees": [
+   "0x8007bb4",
+   "0x800cdba",
+   "0x800f8b0"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800fa34": {
+  "label": "FUN_0800fa34",
+  "n_instr": 15,
+  "callees": [
+   "0x800cdba",
+   "0x800f8b0"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800fa56": {
+  "label": "FUN_0800fa56",
+  "n_instr": 41,
+  "callees": [
+   "0x8009372",
+   "0x8009384",
+   "0x800cdba",
+   "0x8010266"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800fab2": {
+  "label": "FUN_0800fab2",
+  "n_instr": 5,
+  "callees": [
+   "0x800fa56"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800fabe": {
+  "label": "FUN_0800fabe",
+  "n_instr": 38,
+  "callees": [
+   "0x8007bb4",
+   "0x800cdba",
+   "0x800f8b0"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800fb10": {
+  "label": "FUN_0800fb10",
+  "n_instr": 38,
+  "callees": [
+   "0x8007bb4",
+   "0x800cdba",
+   "0x800f8b0"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800fb62": {
+  "label": "FUN_0800fb62",
+  "n_instr": 44,
+  "callees": [
+   "0x8007bb4",
+   "0x800cdba",
+   "0x800f8b0"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800fbc0": {
+  "label": "FUN_0800fbc0",
+  "n_instr": 104,
+  "callees": [
+   "0x8007bb4",
+   "0x8009338",
+   "0x8009384",
+   "0x8010266",
+   "0x8015464"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": [
+   0
+  ]
+ },
+ "0x800fcb8": {
+  "label": "FUN_0800fcb8",
+  "n_instr": 12,
+  "callees": [
+   "0x8010266"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800fcd2": {
+  "label": "FUN_0800fcd2",
+  "n_instr": 12,
+  "callees": [
+   "0x8010266"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800fcec": {
+  "label": "FUN_0800fcec",
+  "n_instr": 11,
+  "callees": [
+   "0x8010266"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800fd04": {
+  "label": "FUN_0800fd04",
+  "n_instr": 16,
+  "callees": [
+   "0x800fcb8",
+   "0x800fcd2",
+   "0x800fcec"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800fd2a": {
+  "label": "FUN_0800fd2a",
+  "n_instr": 11,
+  "callees": [
+   "0x8010266"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800fd42": {
+  "label": "FUN_0800fd42",
+  "n_instr": 145,
+  "callees": [
+   "0x800f894",
+   "0x800f930",
+   "0x800f9a4",
+   "0x800f9c6",
+   "0x800f9fa",
+   "0x800fa34",
+   "0x800fab2",
+   "0x800fabe",
+   "0x800fb10",
+   "0x800fb62",
+   "0x800fbc0",
+   "0x800fcb8",
+   "0x800fcd2",
+   "0x800fcec",
+   "0x800fd04",
+   "0x800fd2a",
+   "0x8010266"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800fe90": {
+  "label": "FUN_0800fe90",
+  "n_instr": 5,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800fe9a": {
+  "label": "FUN_0800fe9a",
+  "n_instr": 10,
+  "callees": [
+   "0x8010266"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800feb2": {
+  "label": "FUN_0800feb2",
+  "n_instr": 10,
+  "callees": [
+   "0x8010266"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800feca": {
+  "label": "FUN_0800feca",
+  "n_instr": 11,
+  "callees": [
+   "0x8010576"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800fee4": {
+  "label": "FUN_0800fee4",
+  "n_instr": 6,
+  "callees": [
+   "0x800feca"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800fef2": {
+  "label": "FUN_0800fef2",
+  "n_instr": 6,
+  "callees": [
+   "0x800feca"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800ff00": {
+  "label": "FUN_0800ff00",
+  "n_instr": 6,
+  "callees": [
+   "0x800feca"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800ff0e": {
+  "label": "FUN_0800ff0e",
+  "n_instr": 6,
+  "callees": [
+   "0x800feca"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800ff1c": {
+  "label": "FUN_0800ff1c",
+  "n_instr": 6,
+  "callees": [
+   "0x800feca"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800ff2a": {
+  "label": "FUN_0800ff2a",
+  "n_instr": 6,
+  "callees": [
+   "0x800feca"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800ff38": {
+  "label": "FUN_0800ff38",
+  "n_instr": 6,
+  "callees": [
+   "0x800feca"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800ff46": {
+  "label": "FUN_0800ff46",
+  "n_instr": 6,
+  "callees": [
+   "0x800feca"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800ff54": {
+  "label": "FUN_0800ff54",
+  "n_instr": 13,
+  "callees": [
+   "0x8010266"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x800ff70": {
+  "label": "gpio_bit_read_debounce_primitive",
+  "n_instr": 164,
+  "callees": [
+   "0x800fe90",
+   "0x800fe9a",
+   "0x800feb2",
+   "0x800fee4",
+   "0x800fef2",
+   "0x800ff00",
+   "0x800ff0e",
+   "0x800ff1c",
+   "0x800ff2a",
+   "0x800ff38",
+   "0x800ff46",
+   "0x800ff54",
+   "0x8010266"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80100e2": {
+  "label": "FUN_080100e2",
+  "n_instr": 104,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80101da": {
+  "label": "FUN_080101da",
+  "n_instr": 5,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80101e4": {
+  "label": "FUN_080101e4",
+  "n_instr": 40,
+  "callees": [
+   "0x8010266",
+   "0x801031c",
+   "0x80110ac",
+   "0x8013d7e",
+   "0x8015558"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [
+   31
+  ],
+  "params_get": []
+ },
+ "0x8010248": {
+  "label": "FUN_08010248",
+  "n_instr": 7,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8010258": {
+  "label": "FUN_08010258",
+  "n_instr": 6,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8010266": {
+  "label": "get_param_wrapper",
+  "n_instr": 35,
+  "callees": [
+   "0x8010248",
+   "0x8010258"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80102ba": {
+  "label": "FUN_080102ba",
+  "n_instr": 11,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80102d2": {
+  "label": "FUN_080102d2",
+  "n_instr": 8,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80102e2": {
+  "label": "FUN_080102e2",
+  "n_instr": 22,
+  "callees": [
+   "0x8007b6a",
+   "0x8007b84",
+   "0x8010266",
+   "0x80102ba",
+   "0x80102d2"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x801031c": {
+  "label": "set_param",
+  "n_instr": 38,
+  "callees": [
+   "0x8010248",
+   "0x8010258",
+   "0x80102e2"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8010376": {
+  "label": "FUN_08010376",
+  "n_instr": 59,
+  "callees": [
+   "0x8010248",
+   "0x8010258",
+   "0x8010266",
+   "0x80102e2"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8010404": {
+  "label": "FUN_08010404",
+  "n_instr": 9,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8010418": {
+  "label": "FUN_08010418",
+  "n_instr": 8,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x801042a": {
+  "label": "FUN_0801042a",
+  "n_instr": 4,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8010432": {
+  "label": "FUN_08010432",
+  "n_instr": 11,
+  "callees": [
+   "0x8010266",
+   "0x801042a"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x801044e": {
+  "label": "FUN_0801044e",
+  "n_instr": 13,
+  "callees": [
+   "0x801031c",
+   "0x801042a"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8010472": {
+  "label": "FUN_08010472",
+  "n_instr": 11,
+  "callees": [
+   "0x8010266",
+   "0x8010432"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x801048c": {
+  "label": "FUN_0801048c",
+  "n_instr": 13,
+  "callees": [
+   "0x8010266",
+   "0x801044e"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80104ae": {
+  "label": "FUN_080104ae",
+  "n_instr": 13,
+  "callees": [
+   "0x8010266",
+   "0x801042a"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80104d0": {
+  "label": "FUN_080104d0",
+  "n_instr": 15,
+  "callees": [
+   "0x801031c",
+   "0x801042a"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80104fa": {
+  "label": "FUN_080104fa",
+  "n_instr": 11,
+  "callees": [
+   "0x8010266",
+   "0x80104ae"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8010514": {
+  "label": "FUN_08010514",
+  "n_instr": 13,
+  "callees": [
+   "0x8010266",
+   "0x80104d0"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8010536": {
+  "label": "FUN_08010536",
+  "n_instr": 11,
+  "callees": [
+   "0x8010266",
+   "0x801042a"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8010552": {
+  "label": "FUN_08010552",
+  "n_instr": 13,
+  "callees": [
+   "0x801031c",
+   "0x801042a"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8010576": {
+  "label": "FUN_08010576",
+  "n_instr": 11,
+  "callees": [
+   "0x8010266",
+   "0x8010536"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8010590": {
+  "label": "FUN_08010590",
+  "n_instr": 13,
+  "callees": [
+   "0x8010266",
+   "0x8010552"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80105b2": {
+  "label": "FUN_080105b2",
+  "n_instr": 7,
+  "callees": [
+   "0x801042a"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80105c2": {
+  "label": "FUN_080105c2",
+  "n_instr": 11,
+  "callees": [
+   "0x8010266"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80105da": {
+  "label": "FUN_080105da",
+  "n_instr": 14,
+  "callees": [
+   "0x8010266"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80105fa": {
+  "label": "FUN_080105fa",
+  "n_instr": 9,
+  "callees": [
+   "0x8010266"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x801060e": {
+  "label": "gate2_check (get_param 17/232/233, arp/note-repeat?)",
+  "n_instr": 25,
+  "callees": [
+   "0x8010266",
+   "0x80105fa"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8010652": {
+  "label": "FUN_08010652",
+  "n_instr": 13,
+  "callees": [
+   "0x8010266",
+   "0x801060e"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8010670": {
+  "label": "FUN_08010670",
+  "n_instr": 9,
+  "callees": [
+   "0x8010266"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8010684": {
+  "label": "FUN_08010684",
+  "n_instr": 4,
+  "callees": [
+   "0x8010266"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x801068e": {
+  "label": "FUN_0801068e",
+  "n_instr": 4,
+  "callees": [
+   "0x8010266"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8010698": {
+  "label": "FUN_08010698",
+  "n_instr": 9,
+  "callees": [
+   "0x8010266"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80106ac": {
+  "label": "FUN_080106ac",
+  "n_instr": 4,
+  "callees": [
+   "0x8010266"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80106b6": {
+  "label": "FUN_080106b6",
+  "n_instr": 4,
+  "callees": [
+   "0x8010266"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80106c0": {
+  "label": "FUN_080106c0",
+  "n_instr": 9,
+  "callees": [
+   "0x8010266"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80106d8": {
+  "label": "FUN_080106d8",
+  "n_instr": 4,
+  "callees": [
+   "0x8010266"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80106e2": {
+  "label": "FUN_080106e2",
+  "n_instr": 4,
+  "callees": [
+   "0x8010266"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80106ec": {
+  "label": "FUN_080106ec",
+  "n_instr": 4,
+  "callees": [
+   "0x8010266"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80106f6": {
+  "label": "FUN_080106f6",
+  "n_instr": 4,
+  "callees": [
+   "0x8010266"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8010700": {
+  "label": "FUN_08010700",
+  "n_instr": 4,
+  "callees": [
+   "0x8010266"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x801070a": {
+  "label": "FUN_0801070a",
+  "n_instr": 4,
+  "callees": [
+   "0x8010266"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8010714": {
+  "label": "gate1_check (calls get_param21_cmp39)",
+  "n_instr": 23,
+  "callees": [
+   "0x8007bb4",
+   "0x8010266",
+   "0x801031c",
+   "0x8015452"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [
+   64,
+   221
+  ],
+  "params_get": []
+ },
+ "0x801074c": {
+  "label": "FUN_0801074c",
+  "n_instr": 4,
+  "callees": [
+   "0x8010266"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8010756": {
+  "label": "FUN_08010756",
+  "n_instr": 13,
+  "callees": [
+   "0x8010266"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8010776": {
+  "label": "FUN_08010776",
+  "n_instr": 12,
+  "callees": [
+   "0x8010266"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8010794": {
+  "label": "FUN_08010794",
+  "n_instr": 13,
+  "callees": [
+   "0x8010266"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80107b4": {
+  "label": "FUN_080107b4",
+  "n_instr": 6,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80107cc": {
+  "label": "FUN_080107cc",
+  "n_instr": 7,
+  "callees": [
+   "0x8016c38",
+   "0x8017ea4"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80107e0": {
+  "label": "note_mapping_fn",
+  "n_instr": 13,
+  "callees": [
+   "0x8010266"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8010800": {
+  "label": "note_mapping_fn_base_add (adds r0,#36 patch site)",
+  "n_instr": 3,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8010806": {
+  "label": "note_on_path_entry",
+  "n_instr": 62,
+  "callees": [
+   "0x8007aa0",
+   "0x8010266",
+   "0x80105da",
+   "0x80107e0",
+   "0x8016ecc"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80108c4": {
+  "label": "FUN_080108c4",
+  "n_instr": 9,
+  "callees": [
+   "0x8010806"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80108d8": {
+  "label": "FUN_080108d8",
+  "n_instr": 45,
+  "callees": [
+   "0x8007aa0",
+   "0x8010266",
+   "0x8016f04"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x801095e": {
+  "label": "FUN_0801095e",
+  "n_instr": 9,
+  "callees": [
+   "0x80108d8"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8010978": {
+  "label": "FUN_08010978",
+  "n_instr": 17,
+  "callees": [
+   "0x80121d2",
+   "0x8014dba",
+   "0x8014e4e",
+   "0x8018440"
+  ],
+  "periph": [
+   "GPIOC.CRL"
+  ],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80109a6": {
+  "label": "FUN_080109a6",
+  "n_instr": 9,
+  "callees": [
+   "0x80121d2"
+  ],
+  "periph": [
+   "GPIOC.CRL"
+  ],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80109ba": {
+  "label": "FUN_080109ba",
+  "n_instr": 5,
+  "callees": [
+   "0x801224e"
+  ],
+  "periph": [
+   "GPIOC.CRL"
+  ],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80109d4": {
+  "label": "FUN_080109d4",
+  "n_instr": 21,
+  "callees": [
+   "0x8006136",
+   "0x801141e"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8010a08": {
+  "label": "FUN_08010a08",
+  "n_instr": 6,
+  "callees": [
+   "0x801833c"
+  ],
+  "periph": [
+   "GPIOB.CRL"
+  ],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8010a18": {
+  "label": "FUN_08010a18",
+  "n_instr": 15,
+  "callees": [
+   "0x8010a08",
+   "0x8012234",
+   "0x8017990",
+   "0x8018428"
+  ],
+  "periph": [
+   "GPIOB.CRL"
+  ],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8010a3e": {
+  "label": "FUN_08010a3e",
+  "n_instr": 8,
+  "callees": [
+   "0x8010a08",
+   "0x80179a0"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8010a52": {
+  "label": "FUN_08010a52",
+  "n_instr": 3,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8010a60": {
+  "label": "FUN_08010a60",
+  "n_instr": 13,
+  "callees": [
+   "0x801142c",
+   "0x8011448",
+   "0x80121d2",
+   "0x8013dd8"
+  ],
+  "periph": [
+   "GPIOB.CRL"
+  ],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8010a84": {
+  "label": "FUN_08010a84",
+  "n_instr": 7,
+  "callees": [
+   "0x80121c0"
+  ],
+  "periph": [
+   "GPIOB.CRL"
+  ],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8010a94": {
+  "label": "FUN_08010a94",
+  "n_instr": 11,
+  "callees": [
+   "0x8010a84"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8010aac": {
+  "label": "FUN_08010aac",
+  "n_instr": 3,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8010ab2": {
+  "label": "FUN_08010ab2",
+  "n_instr": 172,
+  "callees": [
+   "0x8010a94",
+   "0x8010aac",
+   "0x801115a",
+   "0x80112ec",
+   "0x801159c",
+   "0x8013db8",
+   "0x8013e12",
+   "0x8013e1a",
+   "0x8013e80",
+   "0x8013e9e"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8010c60": {
+  "label": "FUN_08010c60",
+  "n_instr": 8,
+  "callees": [
+   "0x80121c0"
+  ],
+  "periph": [
+   "GPIOB.CRL"
+  ],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8010c74": {
+  "label": "FUN_08010c74",
+  "n_instr": 7,
+  "callees": [
+   "0x8010c60"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8010c84": {
+  "label": "FUN_08010c84",
+  "n_instr": 3,
+  "callees": [
+   "0x80115aa"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8010c8c": {
+  "label": "FUN_08010c8c",
+  "n_instr": 41,
+  "callees": [
+   "0x8010c74",
+   "0x8010c84",
+   "0x801159c",
+   "0x80148e8"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8010d04": {
+  "label": "FUN_08010d04",
+  "n_instr": 9,
+  "callees": [
+   "0x80121d2"
+  ],
+  "periph": [
+   "GPIOC.CRL"
+  ],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8010d1a": {
+  "label": "FUN_08010d1a",
+  "n_instr": 32,
+  "callees": [
+   "0x80121c0",
+   "0x8012234",
+   "0x801833c"
+  ],
+  "periph": [
+   "GPIOC.CRL"
+  ],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8010d78": {
+  "label": "FUN_08010d78",
+  "n_instr": 50,
+  "callees": [
+   "0x800b604",
+   "0x800b60a",
+   "0x8010d1a",
+   "0x801115a",
+   "0x80121c0"
+  ],
+  "periph": [
+   "GPIOC.CRL"
+  ],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8010dfa": {
+  "label": "FUN_08010dfa",
+  "n_instr": 2,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8010e10": {
+  "label": "matrix_drive_line_select",
+  "n_instr": 49,
+  "callees": [
+   "0x80121c0"
+  ],
+  "periph": [
+   "GPIOB.CRL",
+   "GPIOC.CRL"
+  ],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8010e9e": {
+  "label": "matrix_row_change_handler",
+  "n_instr": 13,
+  "callees": [
+   "0x8010e10",
+   "0x80121c0"
+  ],
+  "periph": [
+   "GPIOC.CRL"
+  ],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8010ebc": {
+  "label": "FUN_08010ebc",
+  "n_instr": 32,
+  "callees": [
+   "0x800ff70"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8010f0a": {
+  "label": "matrix_read_8_gpio_bits",
+  "n_instr": 30,
+  "callees": [
+   "0x800ff70",
+   "0x8010e9e"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8010f58": {
+  "label": "matrix_per_row_scan",
+  "n_instr": 112,
+  "callees": [
+   "0x8010e9e",
+   "0x8010ebc",
+   "0x8010f0a",
+   "0x80121d2",
+   "0x801224e"
+  ],
+  "periph": [
+   "GPIOC.CRL"
+  ],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8011048": {
+  "label": "FUN_08011048",
+  "n_instr": 5,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8011052": {
+  "label": "matrix_scan_orchestrator",
+  "n_instr": 37,
+  "callees": [
+   "0x8010f58",
+   "0x8011048",
+   "0x80121d2",
+   "0x8012234"
+  ],
+  "periph": [
+   "GPIOA.CRL",
+   "GPIOB.CRL",
+   "GPIOC.CRL"
+  ],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80110ac": {
+  "label": "FUN_080110ac",
+  "n_instr": 13,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80110c6": {
+  "label": "FUN_080110c6",
+  "n_instr": 16,
+  "callees": [
+   "0x8011048"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80110e8": {
+  "label": "FUN_080110e8",
+  "n_instr": 5,
+  "callees": [
+   "0x801833c"
+  ],
+  "periph": [
+   "GPIOA.CRL"
+  ],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80110f6": {
+  "label": "FUN_080110f6",
+  "n_instr": 43,
+  "callees": [
+   "0x80110e8",
+   "0x8011b0c",
+   "0x80121c0",
+   "0x8013d6a",
+   "0x8013d7e"
+  ],
+  "periph": [
+   "GPIOC.CRL"
+  ],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x801115a": {
+  "label": "FUN_0801115a",
+  "n_instr": 42,
+  "callees": [
+   "0x8011048",
+   "0x80110f6"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80111c8": {
+  "label": "FUN_080111c8",
+  "n_instr": 13,
+  "callees": [
+   "0x80121d2",
+   "0x8012234"
+  ],
+  "periph": [
+   "GPIOB.CRL"
+  ],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80111ea": {
+  "label": "FUN_080111ea",
+  "n_instr": 11,
+  "callees": [
+   "0x80121c0"
+  ],
+  "periph": [
+   "GPIOB.CRL"
+  ],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8011206": {
+  "label": "FUN_08011206",
+  "n_instr": 11,
+  "callees": [
+   "0x80121c0"
+  ],
+  "periph": [
+   "GPIOB.CRL"
+  ],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8011222": {
+  "label": "FUN_08011222",
+  "n_instr": 48,
+  "callees": [
+   "0x801115a",
+   "0x80111ea",
+   "0x8011206",
+   "0x80112b0",
+   "0x80112b2",
+   "0x8012234",
+   "0x801483c",
+   "0x8014854",
+   "0x801833c",
+   "0x8018342"
+  ],
+  "periph": [
+   "GPIOB.CRL",
+   "GPIOC.CRL"
+  ],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80112b0": {
+  "label": "passthrough_noop (bx lr)",
+  "n_instr": 1,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80112b2": {
+  "label": "FUN_080112b2",
+  "n_instr": 24,
+  "callees": [
+   "0x8010266"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80112ec": {
+  "label": "FUN_080112ec",
+  "n_instr": 14,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8011316": {
+  "label": "FUN_08011316",
+  "n_instr": 13,
+  "callees": [
+   "0x8017e80"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8011338": {
+  "label": "FUN_08011338",
+  "n_instr": 2,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x801133c": {
+  "label": "FUN_0801133c",
+  "n_instr": 1,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x801133e": {
+  "label": "FUN_0801133e",
+  "n_instr": 2,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8011352": {
+  "label": "FUN_08011352",
+  "n_instr": 2,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8011366": {
+  "label": "FUN_08011366",
+  "n_instr": 2,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x801137a": {
+  "label": "FUN_0801137a",
+  "n_instr": 2,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x801138e": {
+  "label": "FUN_0801138e",
+  "n_instr": 2,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80113a2": {
+  "label": "FUN_080113a2",
+  "n_instr": 2,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80113b6": {
+  "label": "FUN_080113b6",
+  "n_instr": 2,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80113de": {
+  "label": "FUN_080113de",
+  "n_instr": 18,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x801141e": {
+  "label": "FUN_0801141e",
+  "n_instr": 4,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x801142c": {
+  "label": "FUN_0801142c",
+  "n_instr": 14,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8011448": {
+  "label": "FUN_08011448",
+  "n_instr": 144,
+  "callees": [
+   "0x8012234",
+   "0x8017f64",
+   "0x8017f78",
+   "0x8017f8e",
+   "0x8017f9c",
+   "0x8017fac",
+   "0x8017ff4",
+   "0x8018068",
+   "0x8018072",
+   "0x8018086",
+   "0x8018090",
+   "0x80180a4",
+   "0x801812a",
+   "0x80183f8",
+   "0x8018428"
+  ],
+  "periph": [
+   "ADC1+0x4c",
+   "DMA1+0x8"
+  ],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x801159c": {
+  "label": "FUN_0801159c",
+  "n_instr": 7,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80115aa": {
+  "label": "FUN_080115aa",
+  "n_instr": 64,
+  "callees": [
+   "0x8018124"
+  ],
+  "periph": [
+   "DMA1+0x8"
+  ],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x801165c": {
+  "label": "FUN_0801165c",
+  "n_instr": 20,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x801168a": {
+  "label": "FUN_0801168a",
+  "n_instr": 44,
+  "callees": [
+   "0x801165c",
+   "0x8018164",
+   "0x80181d8",
+   "0x80181e8",
+   "0x8018220"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8011702": {
+  "label": "FUN_08011702",
+  "n_instr": 86,
+  "callees": [
+   "0x801165c",
+   "0x801168a",
+   "0x8017e80",
+   "0x8018164",
+   "0x8018170",
+   "0x80181d8",
+   "0x8018220"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80117e0": {
+  "label": "FUN_080117e0",
+  "n_instr": 116,
+  "callees": [
+   "0x801168a",
+   "0x8017e80",
+   "0x8018164",
+   "0x8018170",
+   "0x80181d8",
+   "0x8018220"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8011918": {
+  "label": "FUN_08011918",
+  "n_instr": 65,
+  "callees": [
+   "0x8018260",
+   "0x8018410",
+   "0x8018460",
+   "0x8018474",
+   "0x801848a",
+   "0x8018498",
+   "0x8018550"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80119c8": {
+  "label": "FUN_080119c8",
+  "n_instr": 21,
+  "callees": [
+   "0x8018498"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8011a04": {
+  "label": "FUN_08011a04",
+  "n_instr": 6,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8011a10": {
+  "label": "FUN_08011a10",
+  "n_instr": 16,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8011a36": {
+  "label": "FUN_08011a36",
+  "n_instr": 33,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8011a8c": {
+  "label": "FUN_08011a8c",
+  "n_instr": 37,
+  "callees": [
+   "0x8004edc",
+   "0x8018350",
+   "0x80183c4"
+  ],
+  "periph": [
+   "USB_FS_CAN+0x44"
+  ],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8011af4": {
+  "label": "FUN_08011af4",
+  "n_instr": 8,
+  "callees": [
+   "0x8004e9c",
+   "0x8011a8c",
+   "0x8012d1c",
+   "0x8018410"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8011b0c": {
+  "label": "FUN_08011b0c",
+  "n_instr": 9,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8011b1e": {
+  "label": "FUN_08011b1e",
+  "n_instr": 9,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8011b30": {
+  "label": "FUN_08011b30",
+  "n_instr": 6,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8011b3c": {
+  "label": "FUN_08011b3c",
+  "n_instr": 49,
+  "callees": [
+   "0x8011b30",
+   "0x8013076",
+   "0x80130fc",
+   "0x8013792",
+   "0x80137ac",
+   "0x8013804"
+  ],
+  "periph": [
+   "SYSTICK+0x170"
+  ],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8011bba": {
+  "label": "FUN_08011bba",
+  "n_instr": 15,
+  "callees": [
+   "0x8011b1e",
+   "0x8011b3c",
+   "0x80146b6"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8011bde": {
+  "label": "FUN_08011bde",
+  "n_instr": 94,
+  "callees": [
+   "0x801213c",
+   "0x8012d58",
+   "0x80138bc",
+   "0x8013904"
+  ],
+  "periph": [
+   "USB_FS_CAN+0x44"
+  ],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8011cc0": {
+  "label": "FUN_08011cc0",
+  "n_instr": 3,
+  "callees": [
+   "0x8012f7a"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8011cc8": {
+  "label": "FUN_08011cc8",
+  "n_instr": 3,
+  "callees": [
+   "0x8011bde"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8011cd0": {
+  "label": "FUN_08011cd0",
+  "n_instr": 111,
+  "callees": [
+   "0x8004edc",
+   "0x8012c0a",
+   "0x80130d8",
+   "0x801310c",
+   "0x801313e",
+   "0x8013174",
+   "0x801322c",
+   "0x8013294",
+   "0x80132d4",
+   "0x80133b2",
+   "0x80133d4",
+   "0x8013406",
+   "0x801346a",
+   "0x8013490",
+   "0x801351a",
+   "0x8013590",
+   "0x801361e"
+  ],
+  "periph": [
+   "USB_FS_CAN+0x44"
+  ],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8011de8": {
+  "label": "FUN_08011de8",
+  "n_instr": 49,
+  "callees": [
+   "0x8004ed4",
+   "0x8004ed8",
+   "0x8004edc",
+   "0x8004ee0",
+   "0x8004ee4",
+   "0x8004f24",
+   "0x8011de8",
+   "0x8012654"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8011e7e": {
+  "label": "FUN_08011e7e",
+  "n_instr": 4,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8011e86": {
+  "label": "FUN_08011e86",
+  "n_instr": 12,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8011e9e": {
+  "label": "FUN_08011e9e",
+  "n_instr": 9,
+  "callees": [
+   "0x8011e9e"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8011ee4": {
+  "label": "FUN_08011ee4",
+  "n_instr": 136,
+  "callees": [
+   "0x8011b0c",
+   "0x8013044",
+   "0x80131e0",
+   "0x8013204",
+   "0x80134d8",
+   "0x8013d6a",
+   "0x8013d7e"
+  ],
+  "periph": [
+   "SYSTICK+0x170"
+  ],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8012036": {
+  "label": "FUN_08012036",
+  "n_instr": 13,
+  "callees": [
+   "0x8011ee4"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8012052": {
+  "label": "FUN_08012052",
+  "n_instr": 84,
+  "callees": [
+   "0x8011b0c",
+   "0x8013044",
+   "0x80131e0",
+   "0x8013204",
+   "0x80134d8",
+   "0x8013d6a",
+   "0x8013d7e"
+  ],
+  "periph": [
+   "SYSTICK+0x170"
+  ],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8012128": {
+  "label": "FUN_08012128",
+  "n_instr": 8,
+  "callees": [
+   "0x8012052"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x801213c": {
+  "label": "FUN_0801213c",
+  "n_instr": 53,
+  "callees": [
+   "0x8013044",
+   "0x8013204",
+   "0x80134d8"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80121c0": {
+  "label": "FUN_080121c0",
+  "n_instr": 6,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80121d2": {
+  "label": "FUN_080121d2",
+  "n_instr": 37,
+  "callees": [
+   "0x80121c0",
+   "0x80121d2",
+   "0x8018260"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8012234": {
+  "label": "FUN_08012234",
+  "n_instr": 10,
+  "callees": [
+   "0x8018260"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x801224e": {
+  "label": "FUN_0801224e",
+  "n_instr": 36,
+  "callees": [
+   "0x8012234"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x801229e": {
+  "label": "FUN_0801229e",
+  "n_instr": 47,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80122fc": {
+  "label": "FUN_080122fc",
+  "n_instr": 141,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x801243c": {
+  "label": "FUN_0801243c",
+  "n_instr": 119,
+  "callees": [
+   "0x801313e",
+   "0x80133d4",
+   "0x8013406",
+   "0x801351a"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x801257e": {
+  "label": "FUN_0801257e",
+  "n_instr": 67,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8012636": {
+  "label": "FUN_08012636",
+  "n_instr": 14,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8012654": {
+  "label": "FUN_08012654",
+  "n_instr": 16,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8012692": {
+  "label": "FUN_08012692",
+  "n_instr": 75,
+  "callees": [
+   "0x8013076",
+   "0x80134c0",
+   "0x80134d8"
+  ],
+  "periph": [
+   "USB_FS_CAN+0x50"
+  ],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8012738": {
+  "label": "FUN_08012738",
+  "n_instr": 57,
+  "callees": [
+   "0x8013044",
+   "0x80134aa",
+   "0x80134d8"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80127b6": {
+  "label": "FUN_080127b6",
+  "n_instr": 138,
+  "callees": [
+   "0x801229e",
+   "0x80122fc",
+   "0x801243c",
+   "0x801257e",
+   "0x8012636"
+  ],
+  "periph": [
+   "USB_FS_CAN+0x50"
+  ],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80128e2": {
+  "label": "FUN_080128e2",
+  "n_instr": 247,
+  "callees": [
+   "0x8012738"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8012b30": {
+  "label": "FUN_08012b30",
+  "n_instr": 26,
+  "callees": [
+   "0x801351a"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8012b68": {
+  "label": "FUN_08012b68",
+  "n_instr": 72,
+  "callees": [
+   "0x80127b6",
+   "0x80128e2",
+   "0x8012b30",
+   "0x8013858"
+  ],
+  "periph": [
+   "USB_FS_CAN+0x50"
+  ],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8012c0a": {
+  "label": "FUN_08012c0a",
+  "n_instr": 26,
+  "callees": [],
+  "periph": [
+   "USB_FS_CAN+0x50"
+  ],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8012c4a": {
+  "label": "FUN_08012c4a",
+  "n_instr": 45,
+  "callees": [
+   "0x8012738",
+   "0x8012b30",
+   "0x8012c0a"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8012cac": {
+  "label": "FUN_08012cac",
+  "n_instr": 33,
+  "callees": [
+   "0x8012692",
+   "0x8012b30"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8012d1c": {
+  "label": "FUN_08012d1c",
+  "n_instr": 18,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8012d58": {
+  "label": "FUN_08012d58",
+  "n_instr": 206,
+  "callees": [
+   "0x8012b68",
+   "0x8012c4a",
+   "0x8012cac"
+  ],
+  "periph": [
+   "USB_FS_CAN+0x44"
+  ],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8012f7a": {
+  "label": "FUN_08012f7a",
+  "n_instr": 65,
+  "callees": [],
+  "periph": [
+   "USB_FS_CAN+0x44"
+  ],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8013044": {
+  "label": "FUN_08013044",
+  "n_instr": 18,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8013076": {
+  "label": "FUN_08013076",
+  "n_instr": 44,
+  "callees": [],
+  "periph": [
+   "USB_FS_CAN+0x40"
+  ],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80130d8": {
+  "label": "FUN_080130d8",
+  "n_instr": 15,
+  "callees": [],
+  "periph": [
+   "USB_FS_CAN+0x40"
+  ],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80130fc": {
+  "label": "FUN_080130fc",
+  "n_instr": 6,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x801310c": {
+  "label": "FUN_0801310c",
+  "n_instr": 17,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x801313e": {
+  "label": "FUN_0801313e",
+  "n_instr": 17,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8013174": {
+  "label": "FUN_08013174",
+  "n_instr": 37,
+  "callees": [
+   "0x80130fc"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80131e0": {
+  "label": "FUN_080131e0",
+  "n_instr": 12,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8013204": {
+  "label": "FUN_08013204",
+  "n_instr": 12,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x801322c": {
+  "label": "FUN_0801322c",
+  "n_instr": 33,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8013294": {
+  "label": "FUN_08013294",
+  "n_instr": 21,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80132d4": {
+  "label": "FUN_080132d4",
+  "n_instr": 76,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80133b2": {
+  "label": "FUN_080133b2",
+  "n_instr": 11,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80133d4": {
+  "label": "FUN_080133d4",
+  "n_instr": 16,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8013406": {
+  "label": "FUN_08013406",
+  "n_instr": 33,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x801346a": {
+  "label": "FUN_0801346a",
+  "n_instr": 11,
+  "callees": [],
+  "periph": [
+   "USB_FS_CAN+0x40"
+  ],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8013490": {
+  "label": "FUN_08013490",
+  "n_instr": 11,
+  "callees": [],
+  "periph": [
+   "USB_FS_CAN+0x50"
+  ],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80134aa": {
+  "label": "FUN_080134aa",
+  "n_instr": 9,
+  "callees": [],
+  "periph": [
+   "USB_FS_CAN+0x50"
+  ],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80134c0": {
+  "label": "FUN_080134c0",
+  "n_instr": 10,
+  "callees": [],
+  "periph": [
+   "USB_FS_CAN+0x50"
+  ],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80134d8": {
+  "label": "FUN_080134d8",
+  "n_instr": 27,
+  "callees": [],
+  "periph": [
+   "USB_FS_CAN+0x50"
+  ],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x801351a": {
+  "label": "FUN_0801351a",
+  "n_instr": 47,
+  "callees": [],
+  "periph": [
+   "USB_FS_CAN+0x50"
+  ],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8013590": {
+  "label": "FUN_08013590",
+  "n_instr": 58,
+  "callees": [],
+  "periph": [
+   "USB_FS_CAN+0x50"
+  ],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x801361e": {
+  "label": "FUN_0801361e",
+  "n_instr": 154,
+  "callees": [],
+  "periph": [
+   "USB_FS_CAN+0x50"
+  ],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8013792": {
+  "label": "FUN_08013792",
+  "n_instr": 10,
+  "callees": [],
+  "periph": [
+   "USB_FS_CAN+0x50"
+  ],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80137ac": {
+  "label": "FUN_080137ac",
+  "n_instr": 36,
+  "callees": [],
+  "periph": [
+   "USB_FS_CAN+0x50"
+  ],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8013804": {
+  "label": "FUN_08013804",
+  "n_instr": 29,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8013858": {
+  "label": "FUN_08013858",
+  "n_instr": 39,
+  "callees": [],
+  "periph": [
+   "USB_FS_CAN+0x40"
+  ],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80138bc": {
+  "label": "FUN_080138bc",
+  "n_instr": 15,
+  "callees": [
+   "0x8011e7e"
+  ],
+  "periph": [
+   "USB_FS_CAN+0x40"
+  ],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80138e4": {
+  "label": "FUN_080138e4",
+  "n_instr": 12,
+  "callees": [
+   "0x8011e86"
+  ],
+  "periph": [
+   "USB_FS_CAN+0x40"
+  ],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8013904": {
+  "label": "FUN_08013904",
+  "n_instr": 85,
+  "callees": [
+   "0x80138e4"
+  ],
+  "periph": [
+   "USB_FS_CAN+0x40"
+  ],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80139c0": {
+  "label": "FUN_080139c0",
+  "n_instr": 17,
+  "callees": [
+   "0x8017eb2"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80139e6": {
+  "label": "FUN_080139e6",
+  "n_instr": 12,
+  "callees": [
+   "0x8017eda"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8013a00": {
+  "label": "FUN_08013a00",
+  "n_instr": 15,
+  "callees": [
+   "0x800b5ac",
+   "0x8013d6a"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8013a24": {
+  "label": "FUN_08013a24",
+  "n_instr": 103,
+  "callees": [
+   "0x800b5ac",
+   "0x8013a00",
+   "0x8013d7e"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8013b3c": {
+  "label": "FUN_08013b3c",
+  "n_instr": 3,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8013b44": {
+  "label": "FUN_08013b44",
+  "n_instr": 24,
+  "callees": [
+   "0x8013b3c",
+   "0x8017e80",
+   "0x8017eb2"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8013b7e": {
+  "label": "FUN_08013b7e",
+  "n_instr": 7,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8013b8c": {
+  "label": "FUN_08013b8c",
+  "n_instr": 12,
+  "callees": [
+   "0x8017eda"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8013ba8": {
+  "label": "FUN_08013ba8",
+  "n_instr": 8,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8013bb8": {
+  "label": "FUN_08013bb8",
+  "n_instr": 3,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8013bbe": {
+  "label": "FUN_08013bbe",
+  "n_instr": 38,
+  "callees": [
+   "0x8013bb8"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8013c24": {
+  "label": "FUN_08013c24",
+  "n_instr": 32,
+  "callees": [
+   "0x8013ba8",
+   "0x8013bbe"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8013c74": {
+  "label": "FUN_08013c74",
+  "n_instr": 76,
+  "callees": [
+   "0x800f83c",
+   "0x8013b8c"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8013d2e": {
+  "label": "FUN_08013d2e",
+  "n_instr": 5,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8013d38": {
+  "label": "FUN_08013d38",
+  "n_instr": 5,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8013d42": {
+  "label": "FUN_08013d42",
+  "n_instr": 3,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8013d48": {
+  "label": "FUN_08013d48",
+  "n_instr": 9,
+  "callees": [
+   "0x800f83c"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8013d68": {
+  "label": "FUN_08013d68",
+  "n_instr": 1,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8013d6a": {
+  "label": "FUN_08013d6a",
+  "n_instr": 5,
+  "callees": [
+   "0x8011a36"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8013d76": {
+  "label": "FUN_08013d76",
+  "n_instr": 4,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8013d7e": {
+  "label": "FUN_08013d7e",
+  "n_instr": 13,
+  "callees": [
+   "0x8013d6a"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8013d9c": {
+  "label": "FUN_08013d9c",
+  "n_instr": 5,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8013da8": {
+  "label": "FUN_08013da8",
+  "n_instr": 6,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8013db8": {
+  "label": "FUN_08013db8",
+  "n_instr": 7,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8013dca": {
+  "label": "FUN_08013dca",
+  "n_instr": 2,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8013dce": {
+  "label": "FUN_08013dce",
+  "n_instr": 2,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8013dd8": {
+  "label": "FUN_08013dd8",
+  "n_instr": 18,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8013dfe": {
+  "label": "FUN_08013dfe",
+  "n_instr": 3,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8013e04": {
+  "label": "FUN_08013e04",
+  "n_instr": 3,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8013e0a": {
+  "label": "FUN_08013e0a",
+  "n_instr": 3,
+  "callees": [
+   "0x80115aa"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8013e12": {
+  "label": "FUN_08013e12",
+  "n_instr": 3,
+  "callees": [
+   "0x8013e0a"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8013e1a": {
+  "label": "FUN_08013e1a",
+  "n_instr": 3,
+  "callees": [
+   "0x8013e0a"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8013e22": {
+  "label": "FUN_08013e22",
+  "n_instr": 4,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8013e2a": {
+  "label": "FUN_08013e2a",
+  "n_instr": 32,
+  "callees": [
+   "0x8013db8",
+   "0x8013e22",
+   "0x8013e2a"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8013e80": {
+  "label": "FUN_08013e80",
+  "n_instr": 10,
+  "callees": [
+   "0x8013e2a"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8013e98": {
+  "label": "FUN_08013e98",
+  "n_instr": 3,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8013e9e": {
+  "label": "FUN_08013e9e",
+  "n_instr": 39,
+  "callees": [
+   "0x8017092"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8013f08": {
+  "label": "FUN_08013f08",
+  "n_instr": 3,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8013f0e": {
+  "label": "FUN_08013f0e",
+  "n_instr": 4,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8013f20": {
+  "label": "FUN_08013f20",
+  "n_instr": 3,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8013f26": {
+  "label": "FUN_08013f26",
+  "n_instr": 34,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8013f6a": {
+  "label": "FUN_08013f6a",
+  "n_instr": 2,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8013f6e": {
+  "label": "FUN_08013f6e",
+  "n_instr": 3,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8013f74": {
+  "label": "FUN_08013f74",
+  "n_instr": 29,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8013fb0": {
+  "label": "FUN_08013fb0",
+  "n_instr": 36,
+  "callees": [
+   "0x8017e80"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x801400c": {
+  "label": "FUN_0801400c",
+  "n_instr": 40,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x801405c": {
+  "label": "FUN_0801405c",
+  "n_instr": 63,
+  "callees": [
+   "0x8013dca",
+   "0x801741c",
+   "0x8017e80"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8014128": {
+  "label": "FUN_08014128",
+  "n_instr": 216,
+  "callees": [
+   "0x8012036",
+   "0x8012128"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8014358": {
+  "label": "FUN_08014358",
+  "n_instr": 11,
+  "callees": [
+   "0x8012036"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8014372": {
+  "label": "FUN_08014372",
+  "n_instr": 6,
+  "callees": [
+   "0x8014358"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8014380": {
+  "label": "FUN_08014380",
+  "n_instr": 13,
+  "callees": [
+   "0x8012036"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80143a2": {
+  "label": "FUN_080143a2",
+  "n_instr": 10,
+  "callees": [
+   "0x8014380"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80143b8": {
+  "label": "FUN_080143b8",
+  "n_instr": 6,
+  "callees": [
+   "0x8014358"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80143c6": {
+  "label": "FUN_080143c6",
+  "n_instr": 6,
+  "callees": [
+   "0x8014358"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80143d4": {
+  "label": "FUN_080143d4",
+  "n_instr": 6,
+  "callees": [
+   "0x8014358"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80143e2": {
+  "label": "FUN_080143e2",
+  "n_instr": 27,
+  "callees": [
+   "0x8012036"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x801442c": {
+  "label": "FUN_0801442c",
+  "n_instr": 12,
+  "callees": [
+   "0x80143e2"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x801444c": {
+  "label": "FUN_0801444c",
+  "n_instr": 12,
+  "callees": [
+   "0x80143e2"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x801446c": {
+  "label": "FUN_0801446c",
+  "n_instr": 12,
+  "callees": [
+   "0x80143e2"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x801448c": {
+  "label": "FUN_0801448c",
+  "n_instr": 13,
+  "callees": [
+   "0x80143e2"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80144ae": {
+  "label": "FUN_080144ae",
+  "n_instr": 12,
+  "callees": [
+   "0x80143e2"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80144ca": {
+  "label": "FUN_080144ca",
+  "n_instr": 12,
+  "callees": [
+   "0x80143e2"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80144e6": {
+  "label": "FUN_080144e6",
+  "n_instr": 12,
+  "callees": [
+   "0x80143e2"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8014506": {
+  "label": "FUN_08014506",
+  "n_instr": 12,
+  "callees": [
+   "0x8012036"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8014522": {
+  "label": "FUN_08014522",
+  "n_instr": 13,
+  "callees": [
+   "0x8012036"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8014544": {
+  "label": "FUN_08014544",
+  "n_instr": 10,
+  "callees": [
+   "0x8012036"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x801455c": {
+  "label": "FUN_0801455c",
+  "n_instr": 11,
+  "callees": [
+   "0x8012036"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8014576": {
+  "label": "FUN_08014576",
+  "n_instr": 12,
+  "callees": [
+   "0x8012036"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8014592": {
+  "label": "FUN_08014592",
+  "n_instr": 23,
+  "callees": [
+   "0x8012036"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80145c8": {
+  "label": "FUN_080145c8",
+  "n_instr": 27,
+  "callees": [
+   "0x8013fb0"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8014602": {
+  "label": "FUN_08014602",
+  "n_instr": 30,
+  "callees": [
+   "0x8013fb0"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8014642": {
+  "label": "FUN_08014642",
+  "n_instr": 52,
+  "callees": [
+   "0x80145c8",
+   "0x8014602"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80146b6": {
+  "label": "FUN_080146b6",
+  "n_instr": 26,
+  "callees": [
+   "0x8004600",
+   "0x8006ed0",
+   "0x8013f6e",
+   "0x8014642"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8014700": {
+  "label": "FUN_08014700",
+  "n_instr": 9,
+  "callees": [
+   "0x8017eb2"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8014716": {
+  "label": "event_dispatcher",
+  "n_instr": 77,
+  "callees": [
+   "0x8006b84",
+   "0x8006bbe",
+   "0x8006e30",
+   "0x8016b22",
+   "0x8016b62"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80147c0": {
+  "label": "enqueue_event_primitive",
+  "n_instr": 39,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8014812": {
+  "label": "FUN_08014812",
+  "n_instr": 14,
+  "callees": [
+   "0x80147c0"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x801483c": {
+  "label": "note_on_builder (cmp r4,#88 boundary)",
+  "n_instr": 11,
+  "callees": [
+   "0x8014812"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8014854": {
+  "label": "note_off_builder (cmp r4,#88 boundary)",
+  "n_instr": 11,
+  "callees": [
+   "0x8014812"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x801486c": {
+  "label": "FUN_0801486c",
+  "n_instr": 12,
+  "callees": [
+   "0x80147c0"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8014886": {
+  "label": "FUN_08014886",
+  "n_instr": 9,
+  "callees": [
+   "0x801486c"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x801489a": {
+  "label": "FUN_0801489a",
+  "n_instr": 10,
+  "callees": [
+   "0x801486c"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80148c0": {
+  "label": "FUN_080148c0",
+  "n_instr": 17,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80148e8": {
+  "label": "FUN_080148e8",
+  "n_instr": 126,
+  "callees": [
+   "0x80068a8",
+   "0x8010670",
+   "0x8010756",
+   "0x8010776",
+   "0x8013d6a",
+   "0x8013d76",
+   "0x8014886",
+   "0x801489a"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8014a18": {
+  "label": "FUN_08014a18",
+  "n_instr": 42,
+  "callees": [
+   "0x8006cb8",
+   "0x8006d84",
+   "0x8006e30"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8014a78": {
+  "label": "FUN_08014a78",
+  "n_instr": 32,
+  "callees": [
+   "0x80068a8",
+   "0x8010670",
+   "0x8014886"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8014ac0": {
+  "label": "FUN_08014ac0",
+  "n_instr": 26,
+  "callees": [
+   "0x8010670",
+   "0x801489a"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8014b00": {
+  "label": "FUN_08014b00",
+  "n_instr": 28,
+  "callees": [
+   "0x80121c0",
+   "0x801833c"
+  ],
+  "periph": [
+   "GPIOC.CRL"
+  ],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8014b50": {
+  "label": "FUN_08014b50",
+  "n_instr": 16,
+  "callees": [
+   "0x8013d6a",
+   "0x8013d7e",
+   "0x8014b00"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8014b7a": {
+  "label": "FUN_08014b7a",
+  "n_instr": 34,
+  "callees": [
+   "0x80109a6",
+   "0x80109ba",
+   "0x80121c0",
+   "0x8014b50"
+  ],
+  "periph": [
+   "GPIOC.CRL"
+  ],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8014bda": {
+  "label": "FUN_08014bda",
+  "n_instr": 34,
+  "callees": [
+   "0x80109a6",
+   "0x80109ba",
+   "0x80121c0",
+   "0x8014b50"
+  ],
+  "periph": [
+   "GPIOC.CRL"
+  ],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8014c38": {
+  "label": "FUN_08014c38",
+  "n_instr": 12,
+  "callees": [
+   "0x8014b7a",
+   "0x8014bda"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8014c56": {
+  "label": "FUN_08014c56",
+  "n_instr": 14,
+  "callees": [
+   "0x8013d6a",
+   "0x8014b7a",
+   "0x8014bda"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8014c7e": {
+  "label": "FUN_08014c7e",
+  "n_instr": 52,
+  "callees": [
+   "0x8014c38",
+   "0x8014c56"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8014cea": {
+  "label": "FUN_08014cea",
+  "n_instr": 6,
+  "callees": [
+   "0x8014bda"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8014cf8": {
+  "label": "FUN_08014cf8",
+  "n_instr": 6,
+  "callees": [
+   "0x8014bda"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8014d06": {
+  "label": "FUN_08014d06",
+  "n_instr": 6,
+  "callees": [
+   "0x8014bda"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8014d14": {
+  "label": "FUN_08014d14",
+  "n_instr": 28,
+  "callees": [
+   "0x80109a6",
+   "0x80109ba",
+   "0x80121c0"
+  ],
+  "periph": [
+   "GPIOC.CRL"
+  ],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8014d64": {
+  "label": "FUN_08014d64",
+  "n_instr": 31,
+  "callees": [
+   "0x80121c0",
+   "0x8013d6a",
+   "0x8013d7e",
+   "0x8014cea",
+   "0x8014cf8",
+   "0x8014d06",
+   "0x8014d14"
+  ],
+  "periph": [
+   "GPIOC.CRL"
+  ],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8014dba": {
+  "label": "FUN_08014dba",
+  "n_instr": 61,
+  "callees": [
+   "0x8014b50",
+   "0x8014c38",
+   "0x8014c56",
+   "0x8014c7e",
+   "0x8014d64"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8014e4e": {
+  "label": "FUN_08014e4e",
+  "n_instr": 10,
+  "callees": [
+   "0x80119c8"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8014e68": {
+  "label": "FUN_08014e68",
+  "n_instr": 13,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8014e82": {
+  "label": "FUN_08014e82",
+  "n_instr": 38,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8014ece": {
+  "label": "FUN_08014ece",
+  "n_instr": 80,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8014f7e": {
+  "label": "FUN_08014f7e",
+  "n_instr": 15,
+  "callees": [
+   "0x8014ece"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8014fa0": {
+  "label": "FUN_08014fa0",
+  "n_instr": 69,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8015036": {
+  "label": "FUN_08015036",
+  "n_instr": 21,
+  "callees": [
+   "0x8014fa0"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8015066": {
+  "label": "FUN_08015066",
+  "n_instr": 269,
+  "callees": [
+   "0x800cee8",
+   "0x800fd42",
+   "0x8014e68",
+   "0x8014e82",
+   "0x8014f7e",
+   "0x8015036"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80152d4": {
+  "label": "FUN_080152d4",
+  "n_instr": 16,
+  "callees": [
+   "0x8017e80"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80152f6": {
+  "label": "FUN_080152f6",
+  "n_instr": 9,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8015308": {
+  "label": "FUN_08015308",
+  "n_instr": 122,
+  "callees": [
+   "0x8014e82",
+   "0x8014f7e",
+   "0x8015036",
+   "0x8017e80"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8015450": {
+  "label": "FUN_08015450",
+  "n_instr": 1,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8015452": {
+  "label": "FUN_08015452",
+  "n_instr": 8,
+  "callees": [
+   "0x80152d4"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8015464": {
+  "label": "FUN_08015464",
+  "n_instr": 9,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8015476": {
+  "label": "FUN_08015476",
+  "n_instr": 22,
+  "callees": [
+   "0x8015452",
+   "0x8015464"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80154a8": {
+  "label": "FUN_080154a8",
+  "n_instr": 3,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80154b4": {
+  "label": "FUN_080154b4",
+  "n_instr": 67,
+  "callees": [
+   "0x8013d6a"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8015558": {
+  "label": "FUN_08015558",
+  "n_instr": 5,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8015570": {
+  "label": "FUN_08015570",
+  "n_instr": 23,
+  "callees": [
+   "0x80165fc"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80155a4": {
+  "label": "FUN_080155a4",
+  "n_instr": 16,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80155ca": {
+  "label": "FUN_080155ca",
+  "n_instr": 35,
+  "callees": [
+   "0x80155a4",
+   "0x8016cde",
+   "0x8016cf4"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x801562a": {
+  "label": "FUN_0801562a",
+  "n_instr": 31,
+  "callees": [
+   "0x8016cf4"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x801567c": {
+  "label": "FUN_0801567c",
+  "n_instr": 31,
+  "callees": [
+   "0x8016d3e"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80156c8": {
+  "label": "FUN_080156c8",
+  "n_instr": 69,
+  "callees": [
+   "0x801562a",
+   "0x801567c"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8015774": {
+  "label": "FUN_08015774",
+  "n_instr": 55,
+  "callees": [
+   "0x801562a",
+   "0x801567c"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80157fc": {
+  "label": "FUN_080157fc",
+  "n_instr": 28,
+  "callees": [
+   "0x801567c",
+   "0x8016d3e"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8015844": {
+  "label": "FUN_08015844",
+  "n_instr": 28,
+  "callees": [
+   "0x801562a",
+   "0x8016cf4"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x801588e": {
+  "label": "FUN_0801588e",
+  "n_instr": 51,
+  "callees": [
+   "0x80108c4",
+   "0x801095e"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8015920": {
+  "label": "FUN_08015920",
+  "n_instr": 28,
+  "callees": [
+   "0x801588e",
+   "0x8016cf4",
+   "0x8016d7e"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8015974": {
+  "label": "FUN_08015974",
+  "n_instr": 83,
+  "callees": [
+   "0x801060e",
+   "0x8010684",
+   "0x801068e",
+   "0x80108c4",
+   "0x80155ca",
+   "0x80156c8",
+   "0x8015774",
+   "0x80157fc",
+   "0x8015844",
+   "0x8015920",
+   "0x8016d7e"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8015a42": {
+  "label": "FUN_08015a42",
+  "n_instr": 32,
+  "callees": [
+   "0x801095e",
+   "0x8015920"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8015a92": {
+  "label": "FUN_08015a92",
+  "n_instr": 12,
+  "callees": [
+   "0x8015a42"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8015aac": {
+  "label": "FUN_08015aac",
+  "n_instr": 29,
+  "callees": [
+   "0x801095e",
+   "0x801588e"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8015af2": {
+  "label": "FUN_08015af2",
+  "n_instr": 31,
+  "callees": [
+   "0x801588e",
+   "0x8016cf4"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8015b3a": {
+  "label": "FUN_08015b3a",
+  "n_instr": 16,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8015b64": {
+  "label": "FUN_08015b64",
+  "n_instr": 34,
+  "callees": [
+   "0x80106d8",
+   "0x8013d6a"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8015bac": {
+  "label": "FUN_08015bac",
+  "n_instr": 7,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8015bba": {
+  "label": "FUN_08015bba",
+  "n_instr": 45,
+  "callees": [
+   "0x80106d8",
+   "0x8015bac"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8015c3a": {
+  "label": "FUN_08015c3a",
+  "n_instr": 12,
+  "callees": [
+   "0x80106f6",
+   "0x8010700",
+   "0x8015bba"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8015c58": {
+  "label": "FUN_08015c58",
+  "n_instr": 168,
+  "callees": [
+   "0x8015974",
+   "0x8015a42",
+   "0x8015c3a"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8015db8": {
+  "label": "FUN_08015db8",
+  "n_instr": 12,
+  "callees": [
+   "0x80106e2",
+   "0x80106ec",
+   "0x8015bba"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8015dd6": {
+  "label": "FUN_08015dd6",
+  "n_instr": 147,
+  "callees": [
+   "0x8014a78",
+   "0x8014ac0",
+   "0x8015db8"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8015f08": {
+  "label": "FUN_08015f08",
+  "n_instr": 19,
+  "callees": [
+   "0x80106c0"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8015f34": {
+  "label": "FUN_08015f34",
+  "n_instr": 10,
+  "callees": [
+   "0x80106ac"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8015f58": {
+  "label": "FUN_08015f58",
+  "n_instr": 281,
+  "callees": [
+   "0x80101da",
+   "0x80106d8",
+   "0x8010794",
+   "0x8013d7e",
+   "0x8015bac",
+   "0x8015c58",
+   "0x8015dd6",
+   "0x8015f08",
+   "0x8015f34",
+   "0x8016e0c",
+   "0x8016e2e",
+   "0x8016eaa"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80161d2": {
+  "label": "FUN_080161d2",
+  "n_instr": 52,
+  "callees": [
+   "0x8010698",
+   "0x80106b6",
+   "0x80106d8",
+   "0x8015c3a",
+   "0x8015c58",
+   "0x8015db8",
+   "0x8015dd6",
+   "0x8015f34",
+   "0x8015f58"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x801624c": {
+  "label": "FUN_0801624c",
+  "n_instr": 19,
+  "callees": [
+   "0x8013d6a",
+   "0x8015db8"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8016276": {
+  "label": "FUN_08016276",
+  "n_instr": 28,
+  "callees": [
+   "0x801624c",
+   "0x8016e2e",
+   "0x8016e66",
+   "0x8016e88"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80162b6": {
+  "label": "FUN_080162b6",
+  "n_instr": 1,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80162b8": {
+  "label": "FUN_080162b8",
+  "n_instr": 20,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80162e0": {
+  "label": "FUN_080162e0",
+  "n_instr": 32,
+  "callees": [
+   "0x8015b64",
+   "0x80162b8",
+   "0x8016e2e",
+   "0x8016eaa"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8016328": {
+  "label": "FUN_08016328",
+  "n_instr": 8,
+  "callees": [
+   "0x80162b8"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x801633a": {
+  "label": "FUN_0801633a",
+  "n_instr": 30,
+  "callees": [
+   "0x80162b8",
+   "0x8016eaa"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8016380": {
+  "label": "FUN_08016380",
+  "n_instr": 22,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80163b2": {
+  "label": "FUN_080163b2",
+  "n_instr": 37,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80163fc": {
+  "label": "FUN_080163fc",
+  "n_instr": 24,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x801642c": {
+  "label": "FUN_0801642c",
+  "n_instr": 8,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x801643c": {
+  "label": "FUN_0801643c",
+  "n_instr": 8,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x801644c": {
+  "label": "FUN_0801644c",
+  "n_instr": 22,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x801647e": {
+  "label": "FUN_0801647e",
+  "n_instr": 37,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80164c8": {
+  "label": "FUN_080164c8",
+  "n_instr": 24,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80164f8": {
+  "label": "FUN_080164f8",
+  "n_instr": 8,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8016508": {
+  "label": "FUN_08016508",
+  "n_instr": 8,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x801651c": {
+  "label": "FUN_0801651c",
+  "n_instr": 70,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80165fc": {
+  "label": "FUN_080165fc",
+  "n_instr": 24,
+  "callees": [
+   "0x801651c"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x801664e": {
+  "label": "FUN_0801664e",
+  "n_instr": 11,
+  "callees": [
+   "0x80105fa",
+   "0x801070a"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8016668": {
+  "label": "FUN_08016668",
+  "n_instr": 81,
+  "callees": [
+   "0x801664e"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x801675c": {
+  "label": "FUN_0801675c",
+  "n_instr": 58,
+  "callees": [
+   "0x8010652",
+   "0x8016668"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8016810": {
+  "label": "FUN_08016810",
+  "n_instr": 165,
+  "callees": [
+   "0x801664e"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8016a18": {
+  "label": "FUN_08016a18",
+  "n_instr": 7,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8016a2e": {
+  "label": "FUN_08016a2e",
+  "n_instr": 81,
+  "callees": [
+   "0x8010652",
+   "0x8013d6a",
+   "0x8015af2",
+   "0x801651c",
+   "0x801675c",
+   "0x8016810",
+   "0x8016a18"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8016b22": {
+  "label": "key_scan_handler (2 gate checks)",
+  "n_instr": 15,
+  "callees": [
+   "0x801060e",
+   "0x8010714",
+   "0x801664e"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8016b46": {
+  "label": "key_scan_handler_cont",
+  "n_instr": 10,
+  "callees": [
+   "0x800b5ee",
+   "0x800e362",
+   "0x8010806",
+   "0x8016a2e"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8016b62": {
+  "label": "key_scan_handler_note_off_path",
+  "n_instr": 26,
+  "callees": [
+   "0x801060e",
+   "0x8010652",
+   "0x80108d8",
+   "0x8015aac",
+   "0x801664e",
+   "0x801675c"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8016ba2": {
+  "label": "FUN_08016ba2",
+  "n_instr": 52,
+  "callees": [
+   "0x8015af2",
+   "0x8016668"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8016c38": {
+  "label": "FUN_08016c38",
+  "n_instr": 10,
+  "callees": [
+   "0x801651c"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8016c4e": {
+  "label": "FUN_08016c4e",
+  "n_instr": 40,
+  "callees": [
+   "0x80108d8",
+   "0x801664e"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8016cba": {
+  "label": "FUN_08016cba",
+  "n_instr": 3,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8016cc0": {
+  "label": "FUN_08016cc0",
+  "n_instr": 14,
+  "callees": [
+   "0x8016a18"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8016cde": {
+  "label": "FUN_08016cde",
+  "n_instr": 7,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8016cf4": {
+  "label": "FUN_08016cf4",
+  "n_instr": 24,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8016d3e": {
+  "label": "FUN_08016d3e",
+  "n_instr": 24,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8016d7e": {
+  "label": "FUN_08016d7e",
+  "n_instr": 17,
+  "callees": [
+   "0x801664e"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8016db0": {
+  "label": "FUN_08016db0",
+  "n_instr": 17,
+  "callees": [
+   "0x801074c",
+   "0x8011b0c",
+   "0x8014592",
+   "0x801728c"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8016dda": {
+  "label": "FUN_08016dda",
+  "n_instr": 4,
+  "callees": [
+   "0x8016db0"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8016de4": {
+  "label": "FUN_08016de4",
+  "n_instr": 4,
+  "callees": [
+   "0x8016db0"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8016dee": {
+  "label": "FUN_08016dee",
+  "n_instr": 4,
+  "callees": [
+   "0x8016db0"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8016df8": {
+  "label": "FUN_08016df8",
+  "n_instr": 4,
+  "callees": [
+   "0x8016db0"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8016e02": {
+  "label": "FUN_08016e02",
+  "n_instr": 4,
+  "callees": [
+   "0x8016db0"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8016e0c": {
+  "label": "FUN_08016e0c",
+  "n_instr": 13,
+  "callees": [
+   "0x801074c",
+   "0x8011b0c",
+   "0x8014372",
+   "0x80172a0"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8016e2e": {
+  "label": "FUN_08016e2e",
+  "n_instr": 20,
+  "callees": [
+   "0x801074c",
+   "0x8011b0c",
+   "0x80143a2",
+   "0x80172ac"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8016e66": {
+  "label": "FUN_08016e66",
+  "n_instr": 13,
+  "callees": [
+   "0x801074c",
+   "0x8011b0c",
+   "0x80143b8",
+   "0x80172c8"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8016e88": {
+  "label": "FUN_08016e88",
+  "n_instr": 13,
+  "callees": [
+   "0x801074c",
+   "0x8011b0c",
+   "0x80143c6",
+   "0x80172d4"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8016eaa": {
+  "label": "FUN_08016eaa",
+  "n_instr": 13,
+  "callees": [
+   "0x801074c",
+   "0x8011b0c",
+   "0x80143d4",
+   "0x80172e0"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8016ecc": {
+  "label": "FUN_08016ecc",
+  "n_instr": 22,
+  "callees": [
+   "0x801074c",
+   "0x8011b0c",
+   "0x801442c",
+   "0x80172ec"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8016f04": {
+  "label": "FUN_08016f04",
+  "n_instr": 22,
+  "callees": [
+   "0x801074c",
+   "0x8011b0c",
+   "0x801444c",
+   "0x8017312"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8016f3c": {
+  "label": "FUN_08016f3c",
+  "n_instr": 22,
+  "callees": [
+   "0x801074c",
+   "0x8011b0c",
+   "0x801446c",
+   "0x8017338"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8016f74": {
+  "label": "FUN_08016f74",
+  "n_instr": 19,
+  "callees": [
+   "0x801074c",
+   "0x8011b0c",
+   "0x801448c",
+   "0x801735e"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8016fa6": {
+  "label": "FUN_08016fa6",
+  "n_instr": 19,
+  "callees": [
+   "0x801074c",
+   "0x8011b0c",
+   "0x80144ae",
+   "0x801738c"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8016fd8": {
+  "label": "FUN_08016fd8",
+  "n_instr": 19,
+  "callees": [
+   "0x801074c",
+   "0x8011b0c",
+   "0x80144ca",
+   "0x80173ae"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x801700a": {
+  "label": "FUN_0801700a",
+  "n_instr": 22,
+  "callees": [
+   "0x801074c",
+   "0x8011b0c",
+   "0x80144e6",
+   "0x80173d0"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8017044": {
+  "label": "FUN_08017044",
+  "n_instr": 3,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x801704a": {
+  "label": "FUN_0801704a",
+  "n_instr": 16,
+  "callees": [
+   "0x8017eda"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x801706c": {
+  "label": "FUN_0801706c",
+  "n_instr": 11,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8017084": {
+  "label": "FUN_08017084",
+  "n_instr": 6,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8017092": {
+  "label": "FUN_08017092",
+  "n_instr": 6,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80170a0": {
+  "label": "FUN_080170a0",
+  "n_instr": 87,
+  "callees": [
+   "0x801706c",
+   "0x8017084",
+   "0x8017092"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8017182": {
+  "label": "FUN_08017182",
+  "n_instr": 44,
+  "callees": [
+   "0x8013d38",
+   "0x8013d42",
+   "0x80170a0"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80171f6": {
+  "label": "FUN_080171f6",
+  "n_instr": 30,
+  "callees": [
+   "0x8017182"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8017238": {
+  "label": "FUN_08017238",
+  "n_instr": 4,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8017240": {
+  "label": "FUN_08017240",
+  "n_instr": 4,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8017250": {
+  "label": "FUN_08017250",
+  "n_instr": 29,
+  "callees": [
+   "0x8017d8a"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x801728c": {
+  "label": "FUN_0801728c",
+  "n_instr": 9,
+  "callees": [
+   "0x8017de6"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80172a0": {
+  "label": "FUN_080172a0",
+  "n_instr": 5,
+  "callees": [
+   "0x8017d8a"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80172ac": {
+  "label": "FUN_080172ac",
+  "n_instr": 11,
+  "callees": [
+   "0x8017d8a"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80172c8": {
+  "label": "FUN_080172c8",
+  "n_instr": 5,
+  "callees": [
+   "0x8017d8a"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80172d4": {
+  "label": "FUN_080172d4",
+  "n_instr": 5,
+  "callees": [
+   "0x8017d8a"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80172e0": {
+  "label": "FUN_080172e0",
+  "n_instr": 5,
+  "callees": [
+   "0x8017d8a"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80172ec": {
+  "label": "FUN_080172ec",
+  "n_instr": 17,
+  "callees": [
+   "0x8017de6"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8017312": {
+  "label": "FUN_08017312",
+  "n_instr": 17,
+  "callees": [
+   "0x8017de6"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8017338": {
+  "label": "FUN_08017338",
+  "n_instr": 17,
+  "callees": [
+   "0x8017de6"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x801735e": {
+  "label": "FUN_0801735e",
+  "n_instr": 19,
+  "callees": [
+   "0x8017de6"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x801738c": {
+  "label": "FUN_0801738c",
+  "n_instr": 15,
+  "callees": [
+   "0x8017de6"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80173ae": {
+  "label": "FUN_080173ae",
+  "n_instr": 15,
+  "callees": [
+   "0x8017de6"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80173d0": {
+  "label": "FUN_080173d0",
+  "n_instr": 17,
+  "callees": [
+   "0x8017de6"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80173f6": {
+  "label": "FUN_080173f6",
+  "n_instr": 14,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x801741c": {
+  "label": "FUN_0801741c",
+  "n_instr": 18,
+  "callees": [
+   "0x8011b0c",
+   "0x8014128",
+   "0x8017de6"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x801744c": {
+  "label": "uart_rx_ringbuf_push",
+  "n_instr": 18,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8017470": {
+  "label": "FUN_08017470",
+  "n_instr": 12,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8017488": {
+  "label": "FUN_08017488",
+  "n_instr": 23,
+  "callees": [
+   "0x8017470"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80174c0": {
+  "label": "FUN_080174c0",
+  "n_instr": 77,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x801755c": {
+  "label": "FUN_0801755c",
+  "n_instr": 37,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80175a8": {
+  "label": "FUN_080175a8",
+  "n_instr": 36,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80175f4": {
+  "label": "FUN_080175f4",
+  "n_instr": 45,
+  "callees": [
+   "0x8004df4"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x801765a": {
+  "label": "FUN_0801765a",
+  "n_instr": 29,
+  "callees": [
+   "0x80174c0",
+   "0x801755c",
+   "0x80175a8",
+   "0x80175f4"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80176a0": {
+  "label": "FUN_080176a0",
+  "n_instr": 167,
+  "callees": [
+   "0x8004df4",
+   "0x801765a"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8017806": {
+  "label": "FUN_08017806",
+  "n_instr": 12,
+  "callees": [
+   "0x8017470",
+   "0x8017488",
+   "0x80176a0"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8017828": {
+  "label": "FUN_08017828",
+  "n_instr": 152,
+  "callees": [
+   "0x8014358",
+   "0x8014380",
+   "0x801442c",
+   "0x801444c",
+   "0x801446c",
+   "0x801448c",
+   "0x80144ae",
+   "0x80144ca",
+   "0x80144e6",
+   "0x8014506",
+   "0x8014522",
+   "0x8014544",
+   "0x801455c",
+   "0x8014576"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8017990": {
+  "label": "FUN_08017990",
+  "n_instr": 8,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80179a0": {
+  "label": "FUN_080179a0",
+  "n_instr": 27,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80179d6": {
+  "label": "FUN_080179d6",
+  "n_instr": 44,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8017a2e": {
+  "label": "FUN_08017a2e",
+  "n_instr": 36,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8017a7c": {
+  "label": "FUN_08017a7c",
+  "n_instr": 26,
+  "callees": [
+   "0x8010a52",
+   "0x80179d6",
+   "0x8017a2e"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8017aba": {
+  "label": "FUN_08017aba",
+  "n_instr": 2,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8017abe": {
+  "label": "FUN_08017abe",
+  "n_instr": 123,
+  "callees": [
+   "0x8013d2e",
+   "0x8013d42",
+   "0x8017a7c",
+   "0x8017aba",
+   "0x8017eda"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8017bfc": {
+  "label": "FUN_08017bfc",
+  "n_instr": 10,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8017c18": {
+  "label": "FUN_08017c18",
+  "n_instr": 83,
+  "callees": [],
+  "periph": [
+   "AFIO+0x0",
+   "GPIOA.CRH",
+   "RCC+0x0",
+   "SPI1+0x0",
+   "USART1.BRR"
+  ],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8017d0c": {
+  "label": "FUN_08017d0c",
+  "n_instr": 1,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8017d0d": {
+  "label": "usart1_isr",
+  "n_instr": 68,
+  "callees": [
+   "0x801744c"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8017d8a": {
+  "label": "FUN_08017d8a",
+  "n_instr": 39,
+  "callees": [],
+  "periph": [
+   "SPI1+0x0",
+   "USART1.BRR"
+  ],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8017de6": {
+  "label": "FUN_08017de6",
+  "n_instr": 54,
+  "callees": [
+   "0x8017d8a",
+   "0x8017de6",
+   "0x8017eca"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8017e80": {
+  "label": "FUN_08017e80",
+  "n_instr": 15,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8017ea4": {
+  "label": "FUN_08017ea4",
+  "n_instr": 6,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8017eb2": {
+  "label": "FUN_08017eb2",
+  "n_instr": 11,
+  "callees": [
+   "0x8017ea4"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8017eca": {
+  "label": "FUN_08017eca",
+  "n_instr": 8,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8017eda": {
+  "label": "FUN_08017eda",
+  "n_instr": 13,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8017ef4": {
+  "label": "FUN_08017ef4",
+  "n_instr": 41,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8017f64": {
+  "label": "FUN_08017f64",
+  "n_instr": 8,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8017f78": {
+  "label": "FUN_08017f78",
+  "n_instr": 9,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8017f8e": {
+  "label": "FUN_08017f8e",
+  "n_instr": 7,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8017f9c": {
+  "label": "FUN_08017f9c",
+  "n_instr": 7,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8017fac": {
+  "label": "FUN_08017fac",
+  "n_instr": 26,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8017ff4": {
+  "label": "FUN_08017ff4",
+  "n_instr": 52,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8018068": {
+  "label": "FUN_08018068",
+  "n_instr": 4,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8018072": {
+  "label": "FUN_08018072",
+  "n_instr": 8,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8018086": {
+  "label": "FUN_08018086",
+  "n_instr": 4,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8018090": {
+  "label": "FUN_08018090",
+  "n_instr": 8,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80180a4": {
+  "label": "FUN_080180a4",
+  "n_instr": 51,
+  "callees": [
+   "0x8018090"
+  ],
+  "periph": [
+   "DMA1+0x44"
+  ],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8018124": {
+  "label": "FUN_08018124",
+  "n_instr": 3,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x801812a": {
+  "label": "FUN_0801812a",
+  "n_instr": 26,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8018164": {
+  "label": "FUN_08018164",
+  "n_instr": 3,
+  "callees": [],
+  "periph": [
+   "FLASH_IF+0x0"
+  ],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8018170": {
+  "label": "FUN_08018170",
+  "n_instr": 24,
+  "callees": [
+   "0x8018238"
+  ],
+  "periph": [
+   "FLASH_IF+0x0"
+  ],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80181b0": {
+  "label": "FUN_080181b0",
+  "n_instr": 17,
+  "callees": [],
+  "periph": [
+   "FLASH_IF+0x0"
+  ],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80181d8": {
+  "label": "FUN_080181d8",
+  "n_instr": 5,
+  "callees": [],
+  "periph": [
+   "FLASH_IF+0x0"
+  ],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80181e8": {
+  "label": "FUN_080181e8",
+  "n_instr": 21,
+  "callees": [
+   "0x8018238"
+  ],
+  "periph": [
+   "FLASH_IF+0x0"
+  ],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8018220": {
+  "label": "FUN_08018220",
+  "n_instr": 6,
+  "callees": [],
+  "periph": [
+   "FLASH_IF+0x0"
+  ],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8018238": {
+  "label": "FUN_08018238",
+  "n_instr": 18,
+  "callees": [
+   "0x80181b0"
+  ],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8018260": {
+  "label": "FUN_08018260",
+  "n_instr": 65,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8018300": {
+  "label": "FUN_08018300",
+  "n_instr": 24,
+  "callees": [],
+  "periph": [
+   "AFIO+0x0"
+  ],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x801833c": {
+  "label": "uart_rx_byte_consumer (7bit mask+flag split)",
+  "n_instr": 3,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8018342": {
+  "label": "FUN_08018342",
+  "n_instr": 7,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8018350": {
+  "label": "FUN_08018350",
+  "n_instr": 44,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80183c4": {
+  "label": "FUN_080183c4",
+  "n_instr": 5,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80183d8": {
+  "label": "FUN_080183d8",
+  "n_instr": 12,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x80183f8": {
+  "label": "FUN_080183f8",
+  "n_instr": 9,
+  "callees": [],
+  "periph": [
+   "RCC+0x0"
+  ],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8018410": {
+  "label": "FUN_08018410",
+  "n_instr": 9,
+  "callees": [],
+  "periph": [
+   "RCC+0x0"
+  ],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8018428": {
+  "label": "FUN_08018428",
+  "n_instr": 9,
+  "callees": [],
+  "periph": [
+   "RCC+0x0"
+  ],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8018440": {
+  "label": "FUN_08018440",
+  "n_instr": 11,
+  "callees": [],
+  "periph": [
+   "RCC+0x20"
+  ],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8018460": {
+  "label": "FUN_08018460",
+  "n_instr": 8,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8018474": {
+  "label": "FUN_08018474",
+  "n_instr": 9,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x801848a": {
+  "label": "FUN_0801848a",
+  "n_instr": 6,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8018498": {
+  "label": "FUN_08018498",
+  "n_instr": 71,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ },
+ "0x8018550": {
+  "label": "FUN_08018550",
+  "n_instr": 14,
+  "callees": [],
+  "periph": [],
+  "strings": [],
+  "params_set": [],
+  "params_get": []
+ }
+}

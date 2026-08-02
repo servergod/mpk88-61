@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<ArturiaMidiMapping channel="0">
+  <CC cc_number="-1" param_number="185" param_name="Balance"/>
+  <CC cc_number="1" param_number="245" param_name="LFOTrBtn"/>
+  <CC cc_number="3" param_number="12" param_name="ULpfCut"/>
+  <CC cc_number="4" param_number="13" param_name="ULpfRes"/>
+  <CC cc_number="5" param_number="11" param_name="UHpfCut"/>
+  <CC cc_number="6" param_number="16" param_name="ULpfEnvM"/>
+  <CC cc_number="7" param_number="184" param_name="Volume"/>
+  <CC cc_number="8" param_number="21" param_name="UEnv1Att"/>
+  <CC cc_number="9" param_number="22" param_name="UEnv1Dec"/>
+  <CC cc_number="10" param_number="23" param_name="UEnv1Sus"/>
+  <CC cc_number="12" param_number="24" param_name="UEnv1Rel"/>
+  <CC cc_number="13" param_number="10" param_name="UOscMix"/>
+  <CC cc_number="14" param_number="17" param_name="ULfoFilt"/>
+  <CC cc_number="15" param_number="18" param_name="UFiltKF"/>
+  <CC cc_number="16" param_number="20" param_name="UVcaLfo"/>
+  <CC cc_number="17" param_number="25" param_name="UEnv2Att"/>
+  <CC cc_number="18" param_number="26" param_name="UEnv2Dec"/>
+  <CC cc_number="19" param_number="27" param_name="UEnv2Sus"/>
+  <CC cc_number="20" param_number="28" param_name="UEnv2Rel"/>
+  <CC cc_number="21" param_number="14" param_name="ULpfSlop"/>
+  <CC cc_number="22" param_number="15" param_name="ULpfEnvS"/>
+  <CC cc_number="23" param_number="218" param_name="UEnv1KF"/>
+  <CC cc_number="24" param_number="219" param_name="UEnv1Pol"/>
+  <CC cc_number="25" param_number="220" param_name="UEnv2KF"/>
+  <CC cc_number="29" param_number="0" param_name="ULfoRate"/>
+  <CC cc_number="30" param_number="1" param_name="ULfoDeca"/>
+  <CC cc_number="31" param_number="6" param_name="UOscLfoM"/>
+  <CC cc_number="33" param_number="8" param_name="UOscPwmM"/>
+  <CC cc_number="34" param_number="9" param_name="UOscCMod"/>
+  <CC cc_number="35" param_number="2" param_name="UOsc1Rng"/>
+  <CC cc_number="36" param_number="3" param_name="UOsc2Rng"/>
+  <CC cc_number="37" param_number="211" param_name="ULfoWave"/>
+  <CC cc_number="38" param_number="213" param_name="UOsc1Wav"/>
+  <CC cc_number="39" param_number="214" param_name="UOsc2Wav"/>
+  <CC cc_number="41" param_number="238" param_name="VCOBndAm"/>
+  <CC cc_number="42" param_number="240" param_name="VCFBndAm"/>
+  <CC cc_number="43" param_number="242" param_name="VCOLFOAm"/>
+  <CC cc_number="44" param_number="244" param_name="VCFLFOAm"/>
+  <CC cc_number="45" param_number="216" param_name="UOscModS"/>
+  <CC cc_number="46" param_number="217" param_name="UOscPwmS"/>
+  <CC cc_number="47" param_number="5" param_name="UOsc2Syn"/>
+  <CC cc_number="48" param_number="215" param_name="UOsc2CoT"/>
+  <CC cc_number="56" param_number="32" param_name="UGalAng"/>
+  <CC cc_number="57" param_number="31" param_name="UGalRat3"/>
+  <CC cc_number="58" param_number="33" param_name="UGXRot1A"/>
+  <CC cc_number="59" param_number="34" param_name="UGXRot2A"/>
+  <CC cc_number="60" param_number="35" param_name="UGXRot3A"/>
+  <CC cc_number="64" param_number="235" param_name="LHold"/>
+  <CC cc_number="64" param_number="234" param_name="UHhold"/>
+  <CC cc_number="68" param_number="29" param_name="UGalRat1"/>
+  <CC cc_number="69" param_number="30" param_name="UGalRat2"/>
+  <CC cc_number="70" param_number="36" param_name="UGYRot1A"/>
+  <CC cc_number="71" param_number="105" param_name="LLpfRes"/>
+  <CC cc_number="71" param_number="37" param_name="UGYRot2A"/>
+  <CC cc_number="72" param_number="38" param_name="UGYRot3A"/>
+  <CC cc_number="74" param_number="104" param_name="LLpfCut"/>
+  <CC cc_number="82" param_number="7" param_name="UOscEnvM"/>
+</ArturiaMidiMapping>

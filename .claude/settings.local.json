@@ -1,0 +1,41 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find / -iname \"MPK61_firmware_notes_STE.md\")",
+      "Bash(find / -iname \"MPK88_v1_01.syx\")",
+      "Bash(sudo apt-get update -y)",
+      "Bash(apt-get update *)",
+      "Bash(sudo -n true)",
+      "Bash(sudo -S apt-get update -y)",
+      "Bash(sudo -S apt-get install -y gcc-arm-none-eabi binutils-arm-none-eabi python3 python3-pip python3-venv)",
+      "Bash(sudo -S apt-get install -y qemu-system-arm gdb-multiarch)",
+      "Bash(awk -F: '{print $1}')",
+      "Bash(python3 -c ' *)",
+      "Bash(cp MPK61_v1_01_notefix.syx MPK61_v1_01.syx)",
+      "Bash(rm -f MPK61_v1_01.bin MPK61_v1_01.disasm.txt MPK61_v1_01.hex MPK61_v1_01_roundtrip.bin)",
+      "Bash(rm -f MPK61_v1_01_notefix.bin MPK61_v1_01_notefix.hex MPK61_v1_01_notefix.syx MPK61_v1_01_notefix_roundtrip.bin)",
+      "Bash(rm -f MPK88_v1_01-1.syx MPK88_v1_01.bin MPK88_v1_01.disasm.txt MPK88_v1_01.hex)",
+      "Bash(rm -f MPK261_user_guide.pdf.txt MPK61_MPK88_reference_manual.pdf.txt)",
+      "Bash(lsusb)",
+      "Bash(timeout 20 amidi -p hw:1,0,0 --dump)",
+      "Bash(rm -f /home/claude/.claude/projects/-home-claude-mpk/memory/feedback_no_unilateral_action.md /home/claude/.claude/projects/-home-claude-mpk/memory/feedback_hardware_flash_caution.md)",
+      "Read(//home/claude/**)",
+      "Bash(find / -maxdepth 4 -iname \"*akai*\" -o -iname \"*mpk*preset*editor*\")",
+      "WebFetch(domain:gearspace.com)",
+      "WebFetch(domain:duc.avid.com)",
+      "WebFetch(domain:www.helpowl.com)",
+      "WebFetch(domain:www.fixya.com)",
+      "WebFetch(domain:www.akaipro.com)",
+      "Bash(arm-none-eabi-objdump -D -b binary -m arm -Mforce-thumb --adjust-vma=0x08004000 --start-address=0x08011a04 --stop-address=0x08011a80 MPK88_v1_01.bin)",
+      "Bash(cd *)",
+      "Bash(python3 -c *)",
+      "Bash(arm-none-eabi-objcopy -I ihex -O binary /tmp/rt2.hex /tmp/rt2.bin)",
+      "Bash(amidi *)",
+      "Bash(python3 chunked_sysex_send.py MPK61_gatebypass_v2.syx /dev/snd/midiC1D0 256 40 100)",
+      "Bash(grep -oE \"[0-9]{1,2}[- ]?bit\" /home/claude/.claude/projects/-home-claude-mpk/0c9cc893-4dd8-4e5f-9748-91020084f55e.jsonl)",
+      "Bash(arm-none-eabi-objdump -D -b binary -m arm -Mforce-thumb --adjust-vma=0x08004000 MPK61_gatebypass_v2.bin)",
+      "Bash(python3 analyze.py)",
+      "Bash(python3 *)"
+    ]
+  }
+}

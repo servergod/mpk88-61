@@ -1,0 +1,72 @@
+ImpOSCar Configuration File
+{Knob Mode}{System Default}
+{Edit Mode}{Minimal}
+{Effects Panel}{closed}
+{Damper Scale}{0.5}
+{Hold2 Scale}{2}
+{Flt Typ}{89}
+{Flt Q}{71}
+{Flt Frq}{74}
+{Flt Sep}{90}
+{Flt Drv}{18}
+{Kbd Trk}{91}
+{Flt Env}{76}
+{Volume}{7}
+{Osc Wav 1}{8}
+{Osc Wav 2}{-1}
+{O2 Oct}{-1}
+{O2 Trns}{11}
+{O2 Detn}{103}
+{PW}{13}
+{Octave}{104}
+{Trigger}{44}
+{Tempo}{45}
+{Gte Tme}{46}
+{Funct}{-1}
+{Vel Atk}{36}
+{Vel Rel}{37}
+{Vel Drv}{38}
+{Vel Env 2}{39}
+{Amp Atk}{73}
+{Amp Dec}{9}
+{Amp Sus}{12}
+{Amp Rel}{72}
+{Flt Atk}{14}
+{Flt Dec}{15}
+{Flt Sus}{16}
+{Flt Rel}{17}
+{Flt Dly}{92}
+{Arp Type}{95}
+{Kbd Hld}{26}
+{Clock}{-1}
+{Chorus}{107}
+{Delay}{105}
+{DlyTmp}{-1}
+{FX On}{28}
+{Osc Mx}{80}
+{Nse Mx}{81}
+{MW Ptch}{3}
+{MW Filt}{4}
+{Bend}{-1}
+{Gld Typ}{5}
+{Gld Tme}{6}
+{Lfo Wave}{32}
+{Lfo Rte}{33}
+{Lfo Intro}{34}
+{Lfo Snc}{35}
+{Lfo Ptch}{83}
+{Lfo Flt}{94}
+{Env2 Ptch}{82}
+{Chr Rte}{-1}
+{Chr Depth}{-1}
+{DL Lvl}{-1}
+{DR Lvl}{-1}
+{DL Fbk}{101}
+{DR Fbk}{102}
+{DL Len}{99}
+{DR Len}{100}
+{Del HP}{97}
+{Del LP}{98}
+{Del Unt}{-1}
+{Del Gte}{-1}
+{Del Fbk}{27}

@@ -1,0 +1,1175 @@
+Propellerhead Remote Mapping File					
+File Format Version	1.0.0				
+Control Surface Manufacturer	Akai				
+Control Surface Model	MPK88				
+Map Version	1.0.0				
+
+//This is a remote map template for the Akai MPK88/61 and Reason 4.0
+//This is meant to work with the keyboard on MIDI channel 1 
+
+
+Scope	Propellerheads	Reason Document			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Stop		Stop		
+Map	Play		Play		
+Map	Record		Record		
+Map	Rewind		Rewind
+Map	Fast Forward		Fast Forward
+
+Map	Switch 7		Target Previous Track
+Map	Switch 8		Target Next Track
+Map	Switch 15		Select Prev Patch for Target Device
+Map	Switch 16		Select Next Patch for Target Device
+Map	Switch 23		Select Prev Keyboard Shortcut Variation
+Map	Switch 24		Select Next Keyboard Shortcut Variation
+
+
+Scope	Propellerheads	Combinator			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	Knob 1		Rotary 1		
+Map	Knob 2		Rotary 2		
+Map	Knob 3		Rotary 3		
+Map	Knob 4		Rotary 4		
+Map	Switch 1		Button 1		
+Map	Switch 2		Button 2		
+Map	Switch 3		Button 3		
+Map	Switch 4		Button 4		
+
+
+
+Scope	Propellerheads	Master Keyboard			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Keyboard		Keyboard		
+Map	Pitch Bend		Pitch Bend
+Map	Mod Wheel		Mod Wheel
+Map	Channel Pressure		Channel Pressure
+Map	Expression		Expression
+Map	Damper Pedal		Damper Pedal
+	
+
+Scope	Propellerheads	Mixer 14:2
+Define Group	Keyboard Shortcut Variations	Levels Pan Mutes1 1-14	Levels Sends Mutes1 1-14	Levels Sends Mutes2 1-14	Levels Sends Mutes3 1-14	Levels Sends Mutes4 1-14
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Fader 8		Master Level	
+
+Map	Fader 1		Channel 1 Level			Levels Pan Mutes1 1-14
+Map	Fader 2		Channel 2 Level			Levels Pan Mutes1 1-14
+Map	Fader 3		Channel 3 Level			Levels Pan Mutes1 1-14
+Map	Fader 4		Channel 4 Level			Levels Pan Mutes1 1-14
+Map	Fader 5		Channel 5 Level			Levels Pan Mutes1 1-14
+Map	Fader 6		Channel 6 Level			Levels Pan Mutes1 1-14
+Map	Fader 7		Channel 7 Level			Levels Pan Mutes1 1-14
+// line 49
+Map	Fader 9		Channel 8 Level			Levels Pan Mutes1 1-14
+Map	Fader 10		Channel 9 Level			Levels Pan Mutes1 1-14
+Map	Fader 11		Channel 10 Level			Levels Pan Mutes1 1-14
+Map	Fader 12		Channel 11 Level			Levels Pan Mutes1 1-14
+Map	Fader 13		Channel 12 Level			Levels Pan Mutes1 1-14
+Map	Fader 14		Channel 13 Level			Levels Pan Mutes1 1-14
+Map	Fader 15		Channel 14 Level			Levels Pan Mutes1 1-14
+
+Map	Knob 1 		Channel 1 Pan			Levels Pan Mutes1 1-14
+Map	Knob 2		Channel 2 Pan			Levels Pan Mutes1 1-14
+Map	Knob 3		Channel 3 Pan			Levels Pan Mutes1 1-14
+Map	Knob 4		Channel 4 Pan			Levels Pan Mutes1 1-14
+Map	Knob 5		Channel 5 Pan			Levels Pan Mutes1 1-14
+Map	Knob 6		Channel 6 Pan			Levels Pan Mutes1 1-14
+Map	Knob 7		Channel 7 Pan			Levels Pan Mutes1 1-14
+//65
+Map	Knob 9		Channel 8 Pan			Levels Pan Mutes1 1-14
+Map	Knob 10		Channel 9 Pan			Levels Pan Mutes1 1-14
+Map	Knob 11		Channel 10 Pan			Levels Pan Mutes1 1-14
+Map	Knob 12		Channel 11 Pan			Levels Pan Mutes1 1-14
+Map	Knob 13		Channel 12 Pan			Levels Pan Mutes1 1-14
+Map	Knob 14		Channel 13 Pan			Levels Pan Mutes1 1-14
+Map	Knob 15		Channel 14 Pan			Levels Pan Mutes1 1-14
+//73
+Map	Switch 1		Channel 1 Mute			Levels Pan Mutes1 1-14
+Map	Switch 2		Channel 2 Mute			Levels Pan Mutes1 1-14
+Map	Switch 3		Channel 3 Mute			Levels Pan Mutes1 1-14
+Map	Switch 4		Channel 4 Mute			Levels Pan Mutes1 1-14
+Map	Switch 5		Channel 5 Mute			Levels Pan Mutes1 1-14
+Map	Switch 6		Channel 6 Mute			Levels Pan Mutes1 1-14
+//80
+Map	Switch 9		Channel 8 Mute			Levels Pan Mutes1 1-14
+Map	Switch 10		Channel 9 Mute			Levels Pan Mutes1 1-14
+Map	Switch 11		Channel 10 Mute			Levels Pan Mutes1 1-14
+Map	Switch 12		Channel 11 Mute			Levels Pan Mutes1 1-14
+Map	Switch 13		Channel 12 Mute			Levels Pan Mutes1 1-14
+Map	Switch 14		Channel 13 Mute			Levels Pan Mutes1 1-14
+//87
+Map	Fader 1		Channel 1 Level			Levels Sends Mutes1 1-14
+Map	Fader 2		Channel 2 Level			Levels Sends Mutes1 1-14
+Map	Fader 3		Channel 3 Level			Levels Sends Mutes1 1-14
+Map	Fader 4		Channel 4 Level			Levels Sends Mutes1 1-14
+Map	Fader 5		Channel 5 Level			Levels Sends Mutes1 1-14
+Map	Fader 6		Channel 6 Level			Levels Sends Mutes1 1-14
+Map	Fader 7		Channel 7 Level			Levels Sends Mutes1 1-14
+//95
+Map	Fader 9		Channel 8 Level			Levels Sends Mutes1 1-14
+Map	Fader 10		Channel 9 Level			Levels Sends Mutes1 1-14
+Map	Fader 11		Channel 10 Level			Levels Sends Mutes1 1-14
+Map	Fader 12		Channel 11 Level			Levels Sends Mutes1 1-14
+Map	Fader 13		Channel 12 Level			Levels Sends Mutes1 1-14
+Map	Fader 14		Channel 13 Level			Levels Sends Mutes1 1-14
+Map	Fader 15		Channel 14 Level			Levels Sends Mutes1 1-14
+//103
+Map	Knob 1		Channel 1 Aux 1 Send			Levels Sends Mutes1 1-14
+Map	Knob 2		Channel 2 Aux 1 Send			Levels Sends Mutes1 1-14
+Map	Knob 3		Channel 3 Aux 1 Send			Levels Sends Mutes1 1-14
+Map	Knob 4		Channel 4 Aux 1 Send			Levels Sends Mutes1 1-14
+Map	Knob 5		Channel 5 Aux 1 Send			Levels Sends Mutes1 1-14
+Map	Knob 6		Channel 6 Aux 1 Send			Levels Sends Mutes1 1-14
+Map	Knob 7		Channel 7 Aux 1 Send			Levels Sends Mutes1 1-14
+
+Map	Knob 9		Channel 8 Aux 1 Send			Levels Sends Mutes1 1-14
+Map	Knob 10		Channel 9 Aux 1 Send			Levels Sends Mutes1 1-14
+Map	Knob 11		Channel 10 Aux 1 Send			Levels Sends Mutes1 1-14
+Map	Knob 12		Channel 11 Aux 1 Send			Levels Sends Mutes1 1-14
+Map	Knob 13		Channel 12 Aux 1 Send			Levels Sends Mutes1 1-14
+Map	Knob 14		Channel 13 Aux 1 Send			Levels Sends Mutes1 1-14
+Map	Knob 15		Channel 14 Aux 1 Send			Levels Sends Mutes1 1-14
+//119
+Map	Switch 1		Channel 1 Mute			Levels Sends Mutes1 1-14
+Map	Switch 2		Channel 2 Mute			Levels Sends Mutes1 1-14
+Map	Switch 3		Channel 3 Mute			Levels Sends Mutes1 1-14
+Map	Switch 4		Channel 4 Mute			Levels Sends Mutes1 1-14
+Map	Switch 5		Channel 5 Mute			Levels Sends Mutes1 1-14
+Map	Switch 6		Channel 6 Mute			Levels Sends Mutes1 1-14
+
+
+Map	Switch 9		Channel 8 Mute			Levels Sends Mutes1 1-14
+Map	Switch 10		Channel 9 Mute			Levels Sends Mutes1 1-14
+Map	Switch 11		Channel 10 Mute			Levels Sends Mutes1 1-14
+Map	Switch 12		Channel 11 Mute			Levels Sends Mutes1 1-14
+Map	Switch 13		Channel 12 Mute			Levels Sends Mutes1 1-14
+Map	Switch 14		Channel 13 Mute			Levels Sends Mutes1 1-14
+
+//135
+Map	Fader 1		Channel 1 Level			Levels Sends Mutes2 1-14
+Map	Fader 2		Channel 2 Level			Levels Sends Mutes2 1-14
+Map	Fader 3		Channel 3 Level			Levels Sends Mutes2 1-14
+Map	Fader 4		Channel 4 Level			Levels Sends Mutes2 1-14
+Map	Fader 5		Channel 5 Level			Levels Sends Mutes2 1-14
+Map	Fader 6		Channel 6 Level			Levels Sends Mutes2 1-14
+Map	Fader 7		Channel 7 Level			Levels Sends Mutes2 1-14
+//143
+Map	Fader 9		Channel 8 Level			Levels Sends Mutes2 1-14
+Map	Fader 10		Channel 9 Level			Levels Sends Mutes2 1-14
+Map	Fader 11		Channel 10 Level			Levels Sends Mutes2 1-14
+Map	Fader 12		Channel 11 Level			Levels Sends Mutes2 1-14
+Map	Fader 13		Channel 12 Level			Levels Sends Mutes2 1-14
+Map	Fader 14		Channel 13 Level			Levels Sends Mutes2 1-14
+Map	Fader 15		Channel 14 Level			Levels Sends Mutes2 1-14
+//151
+Map	Knob 1		Channel 1 Aux 2 Send			Levels Sends Mutes2 1-14
+Map	Knob 2		Channel 2 Aux 2 Send			Levels Sends Mutes2 1-14
+Map	Knob 3		Channel 3 Aux 2 Send			Levels Sends Mutes2 1-14
+Map	Knob 4		Channel 4 Aux 2 Send			Levels Sends Mutes2 1-14
+Map	Knob 5		Channel 5 Aux 2 Send			Levels Sends Mutes2 1-14
+Map	Knob 6		Channel 6 Aux 2 Send			Levels Sends Mutes2 1-14
+Map	Knob 7		Channel 7 Aux 2 Send			Levels Sends Mutes2 1-14
+//159
+Map	Knob 9		Channel 8 Aux 2 Send			Levels Sends Mutes2 1-14
+Map	Knob 10		Channel 9 Aux 2 Send			Levels Sends Mutes2 1-14
+Map	Knob 11		Channel 10 Aux 2 Send			Levels Sends Mutes2 1-14
+Map	Knob 12		Channel 11 Aux 2 Send			Levels Sends Mutes2 1-14
+Map	Knob 13		Channel 12 Aux 2 Send			Levels Sends Mutes2 1-14
+Map	Knob 14		Channel 13 Aux 2 Send			Levels Sends Mutes2 1-14
+Map	Knob 15		Channel 14 Aux 2 Send			Levels Sends Mutes2 1-14
+//167
+Map	Switch 1		Channel 1 Mute			Levels Sends Mutes2 1-14
+Map	Switch 2		Channel 2 Mute			Levels Sends Mutes2 1-14
+Map	Switch 3		Channel 3 Mute			Levels Sends Mutes2 1-14
+Map	Switch 4		Channel 4 Mute			Levels Sends Mutes2 1-14
+Map	Switch 5		Channel 5 Mute			Levels Sends Mutes2 1-14
+Map	Switch 6		Channel 6 Mute			Levels Sends Mutes2 1-14
+ 
+//175
+Map	Switch 9		Channel 8 Mute			Levels Sends Mutes2 1-14
+Map	Switch 10		Channel 9 Mute			Levels Sends Mutes2 1-14
+Map	Switch 11		Channel 10 Mute			Levels Sends Mutes2 1-14
+Map	Switch 12		Channel 11 Mute			Levels Sends Mutes2 1-14
+Map	Switch 13		Channel 12 Mute			Levels Sends Mutes2 1-14
+Map	Switch 14		Channel 13 Mute			Levels Sends Mutes2 1-14
+//182
+Map	Fader 1		Channel 1 Level			Levels Sends Mutes3 1-14
+Map	Fader 2		Channel 2 Level			Levels Sends Mutes3 1-14
+Map	Fader 3		Channel 3 Level			Levels Sends Mutes3 1-14
+Map	Fader 4		Channel 4 Level			Levels Sends Mutes3 1-14
+Map	Fader 5		Channel 5 Level			Levels Sends Mutes3 1-14
+Map	Fader 6		Channel 6 Level			Levels Sends Mutes3 1-14
+Map	Fader 7		Channel 7 Level			Levels Sends Mutes3 1-14
+//190
+Map	Fader 9		Channel 8 Level			Levels Sends Mutes3 1-14
+Map	Fader 10		Channel 9 Level			Levels Sends Mutes3 1-14
+Map	Fader 11		Channel 10 Level			Levels Sends Mutes3 1-14
+Map	Fader 12		Channel 11 Level			Levels Sends Mutes3 1-14
+Map	Fader 13		Channel 12 Level			Levels Sends Mutes3 1-14
+Map	Fader 14		Channel 13 Level			Levels Sends Mutes3 1-14
+Map	Fader 15		Channel 14 Level			Levels Sends Mutes3 1-14
+
+Map	Knob 1		Channel 1 Aux 3 Send			Levels Sends Mutes3 1-14
+Map	Knob 2		Channel 2 Aux 3 Send			Levels Sends Mutes3 1-14
+Map	Knob 3		Channel 3 Aux 3 Send			Levels Sends Mutes3 1-14
+Map	Knob 4		Channel 4 Aux 3 Send			Levels Sends Mutes3 1-14
+Map	Knob 5		Channel 5 Aux 3 Send			Levels Sends Mutes3 1-14
+Map	Knob 6		Channel 6 Aux 3 Send			Levels Sends Mutes3 1-14
+Map	Knob 7		Channel 7 Aux 3 Send			Levels Sends Mutes3 1-14
+//207
+Map	Knob 9		Channel 8 Aux 3 Send			Levels Sends Mutes3 1-14
+Map	Knob 10		Channel 9 Aux 3 Send			Levels Sends Mutes3 1-14
+Map	Knob 11		Channel 10 Aux 3 Send			Levels Sends Mutes3 1-14
+Map	Knob 12		Channel 11 Aux 3 Send			Levels Sends Mutes3 1-14
+Map	Knob 13		Channel 12 Aux 3 Send			Levels Sends Mutes3 1-14
+Map	Knob 14		Channel 13 Aux 3 Send			Levels Sends Mutes3 1-14
+Map	Knob 15		Channel 14 Aux 3 Send			Levels Sends Mutes3 1-14
+
+Map	Switch 1		Channel 1 Mute			Levels Sends Mutes3 1-14
+Map	Switch 2		Channel 2 Mute			Levels Sends Mutes3 1-14
+Map	Switch 3		Channel 3 Mute			Levels Sends Mutes3 1-14
+Map	Switch 4		Channel 4 Mute			Levels Sends Mutes3 1-14
+Map	Switch 5		Channel 5 Mute			Levels Sends Mutes3 1-14
+Map	Switch 6		Channel 6 Mute			Levels Sends Mutes3 1-14
+ 
+
+Map	Switch 9		Channel 8 Mute			Levels Sends Mutes3 1-14
+Map	Switch 10		Channel 9 Mute			Levels Sends Mutes3 1-14
+Map	Switch 11		Channel 10 Mute			Levels Sends Mutes3 1-14
+Map	Switch 12		Channel 11 Mute			Levels Sends Mutes3 1-14
+Map	Switch 13		Channel 12 Mute			Levels Sends Mutes3 1-14
+Map	Switch 14		Channel 13 Mute			Levels Sends Mutes3 1-14
+ 
+
+Map	Fader 1		Channel 1 Level			Levels Sends Mutes4 1-14
+Map	Fader 2		Channel 2 Level			Levels Sends Mutes4 1-14
+Map	Fader 3		Channel 3 Level			Levels Sends Mutes4 1-14
+Map	Fader 4		Channel 4 Level			Levels Sends Mutes4 1-14
+Map	Fader 5		Channel 5 Level			Levels Sends Mutes4 1-14
+Map	Fader 6		Channel 6 Level			Levels Sends Mutes4 1-14
+Map	Fader 7		Channel 7 Level			Levels Sends Mutes4 1-14
+
+Map	Fader 9		Channel 8 Level			Levels Sends Mutes4 1-14
+Map	Fader 10		Channel 9 Level			Levels Sends Mutes4 1-14
+Map	Fader 11		Channel 10 Level			Levels Sends Mutes4 1-14
+Map	Fader 12		Channel 11 Level			Levels Sends Mutes4 1-14
+Map	Fader 13		Channel 12 Level			Levels Sends Mutes4 1-14
+Map	Fader 14		Channel 13 Level			Levels Sends Mutes4 1-14
+Map	Fader 15		Channel 14 Level			Levels Sends Mutes4 1-14
+//247
+Map	Knob 1		Channel 1 Aux 4 Send			Levels Sends Mutes4 1-14
+Map	Knob 2		Channel 2 Aux 4 Send			Levels Sends Mutes4 1-14
+Map	Knob 3		Channel 3 Aux 4 Send			Levels Sends Mutes4 1-14
+Map	Knob 4		Channel 4 Aux 4 Send			Levels Sends Mutes4 1-14
+Map	Knob 5		Channel 5 Aux 4 Send			Levels Sends Mutes4 1-14
+Map	Knob 6		Channel 6 Aux 4 Send			Levels Sends Mutes4 1-14
+Map	Knob 7		Channel 7 Aux 4 Send			Levels Sends Mutes4 1-14
+
+Map	Knob 9		Channel 8 Aux 4 Send			Levels Sends Mutes4 1-14
+Map	Knob 10		Channel 9 Aux 4 Send			Levels Sends Mutes4 1-14
+Map	Knob 11		Channel 10 Aux 4 Send			Levels Sends Mutes4 1-14
+Map	Knob 12		Channel 11 Aux 4 Send			Levels Sends Mutes4 1-14
+Map	Knob 13		Channel 12 Aux 4 Send			Levels Sends Mutes4 1-14
+Map	Knob 14		Channel 13 Aux 4 Send			Levels Sends Mutes4 1-14
+Map	Knob 15		Channel 14 Aux 4 Send			Levels Sends Mutes4 1-14
+//263
+Map	Switch 1		Channel 1 Mute			Levels Sends Mutes4 1-14
+Map	Switch 2		Channel 2 Mute			Levels Sends Mutes4 1-14
+Map	Switch 3		Channel 3 Mute			Levels Sends Mutes4 1-14
+Map	Switch 4		Channel 4 Mute			Levels Sends Mutes4 1-14
+Map	Switch 5		Channel 5 Mute			Levels Sends Mutes4 1-14
+Map	Switch 6		Channel 6 Mute			Levels Sends Mutes4 1-14
+Map	Switch 7		Channel 7 Mute			Levels Sends Mutes4 1-14
+//271
+Map	Switch 9		Channel 8 Mute			Levels Sends Mutes4 1-14
+Map	Switch 10		Channel 9 Mute			Levels Sends Mutes4 1-14
+Map	Switch 11		Channel 10 Mute			Levels Sends Mutes4 1-14
+Map	Switch 12		Channel 11 Mute			Levels Sends Mutes4 1-14
+Map	Switch 13		Channel 12 Mute			Levels Sends Mutes4 1-14
+Map	Switch 14		Channel 13 Mute			Levels Sends Mutes4 1-14
+Map	Switch 15		Channel 14 Mute			Levels Sends Mutes4 1-14
+
+
+
+
+
+Scope	Propellerheads	Line Mixer 6:2			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Knob 8		Aux Return Level
+Map	Fader 8		Master Level			
+
+Map	Fader 1		Channel 1 Level			
+Map	Fader 2		Channel 2 Level	
+Map	Fader 3		Channel 3 Level	
+Map	Fader 4		Channel 4 Level	
+Map	Fader 5		Channel 5 Level	
+Map	Fader 6		Channel 6 Level	
+//295
+Map	Knob 1		Channel 1 Pan
+Map	Knob 2		Channel 2 Pan	
+Map	Knob 3		Channel 3 Pan	
+Map	Knob 4		Channel 4 Pan	
+Map	Knob 5		Channel 5 Pan	
+Map	Knob 6		Channel 6 Pan	
+//302
+Map	Knob 9		Channel 1 Aux Send
+Map	Knob 10		Channel 2 Aux Send
+Map	Knob 11		Channel 3 Aux Send
+Map	Knob 12		Channel 4 Aux Send
+Map	Knob 13		Channel 5 Aux Send
+Map	Knob 14		Channel 6 Aux Send
+
+Map	Switch 1		Channel 1 Mute
+Map	Switch 2		Channel 2 Mute
+Map	Switch 3		Channel 3 Mute
+Map	Switch 4		Channel 4 Mute
+Map	Switch 5		Channel 5 Mute
+Map	Switch 6		Channel 6 Mute	
+
+Map	Switch 9		Channel 1 Solo
+Map	Switch 10		Channel 2 Solo
+Map	Switch 11		Channel 3 Solo
+Map	Switch 12		Channel 4 Solo
+Map	Switch 13		Channel 5 Solo
+Map	Switch 14		Channel 6 Solo	
+
+
+
+
+//327
+Scope	Propellerheads	SubTractor Analog Synthesizer		
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Fader 1		Filter Freq			
+Map	Fader 2		Filter Res			
+Map	Fader 3		Filter2 Freq			
+Map	Fader 4		Filter2 Res			
+Map	Fader 5		Filter Env Attack	
+Map	Fader 6		Filter Env Decay		
+Map	Fader 7		Filter Env Sustain		
+Map	Fader 8		Filter Env Release	
+	
+Map	Knob 1		Filter Type		
+Map	Knob 2		Filter Kbd Track	Map	Knob 3		Filter Env Amount		
+Map	Knob 4		Filter Env Vel Amount
+Map	Knob 5		Amp Env Attack		
+Map	Knob 6		Amp Env Decay
+Map	Knob 7		Amp Env SustainMap	Knob 8		Amp Env Release
+
+Map	Switch 1		Filter Link Freq On/Off		
+Map	Switch 2		Filter2 On/Off			
+Map	Switch 3		Filter Env Invert		
+Map	Switch 4		Mod Env Invert
+
+//353Map	Fader 9		Osc1 Wave			
+Map	Fader 10		Osc1 Octave			
+Map	Fader 11		Osc1 Semitone			
+Map	Fader 12		Osc2 Wave			
+Map	Fader 13		Osc2 Octave			
+Map	Fader 14		Osc2 Semitone	
+Map	Fader 15		FM Amount
+Map	Fader 16		Osc Mix		
+
+Map	Knob 9		Noise Color			
+Map	Knob 10		Noise Level			
+Map	Knob 11		Mod Env Gain	
+Map	Knob 12		Mod Env Dest		
+Map	Knob 13		Mod Env Attack			
+Map	Knob 14		Mod Env Decay		
+Map	Knob 15		Mod Env Sustain			
+Map	Knob 16		Mod Env Release
+
+Map	Switch 9		Osc2 On/Off		
+Map	Switch 10		Osc2 Kbd Track			
+Map	Switch 11		Ring Mod		
+Map	Switch 12		Noise On/Off
+
+
+Map	Fader 17		LFO1 Rate			
+Map	Fader 18		LFO1 Amount			
+Map	Fader 19		LFO1 Wave			
+Map	Fader 20		LFO1 Dest			
+Map	Fader 21		LFO2 Rate			
+Map	Fader 22		LFO2 Amount	
+Map	Fader 23		LFO2 Delay
+Map	Fader 24		LFO2 Dest	
+
+Map	Knob 17		Ext Mod Select			
+Map	Knob 18		Filter Freq Ext Mod			
+Map	Knob 19		LFO1 Ext Mod	
+Map	Knob 20		Amp Ext Mod		
+Map	Knob 21		FM Ext Mod	
+Map	Knob 22		Filter Freq Mod Wheel Amount
+Map	Knob 23		Filter Res Mod Wheel Amount
+Map	Knob 24		LFO2 Kbd Track
+
+Map	Switch 17		LFO Sync Enable		
+
+
+
+
+
+Scope	Propellerheads	Thor Polysonic Synthesizer			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Knob 1		Filter 1 Env Amount	
+Map	Knob 2		Filter 1 Drive	
+Map	Knob 3		Filter 2 Env Amount			
+Map	Knob 4		Filter 2 Drive			
+Map	Knob 5		Filter 3 Global Env Amount		
+Map	Knob 6		Filter 3 Drive
+Map	Knob 7		Rotary 1
+Map	Knob 8		Rotary 2
+
+Map	Fader 1		Filter 1 Freq
+Map	Fader 2		Filter 1 Res
+Map	Fader 3		Filter 2 Freq	
+Map	Fader 4		Filter 2 Res
+Map	Fader 5		Filter 3 Freq		
+Map	Fader 6		Filter 3 Res			
+Map	Fader 7		LFO 1 Rate		
+Map	Fader 8		LFO 2 Rate	
+
+Map	Switch 1		Osc 1 To Filter 1 Enable
+Map	Switch 2		Osc 2 To Filter 1 Enable
+Map	Switch 3		Osc 3 To Filter 1 Enable
+Map	Switch 4		Osc 1 To Filter 2 Enable
+Map	Switch 5		Osc 2 To Filter 2 Enable
+Map	Switch 6		Osc 3 To Filter 2 Enable
+
+Map	Fader 9		Filter Env Attack		
+Map	Fader 10		Filter Env Decay	
+Map	Fader 11		Filter Env Sustain		
+Map	Fader 12		Filter Env Release		
+Map	Fader 13		Amp Env Attack		
+Map	Fader 14		Amp Env Decay
+Map	Fader 15		Amp Env Sustain	
+Map	Fader 16		Amp Env Release
+
+Map	Knob 9		Mod Env Delay		
+Map	Knob 10		Mod Env Attack	
+Map	Knob 11		Mod Env Decay
+Map	Knob 12		Mod Env Release	
+Map	Knob 13		Global Env Attack
+Map	Knob 14		Global Env Decay
+Map	Knob 15		Global Env Sustain
+Map	Knob 16		Global Env Release
+
+Map	Fader 17		Osc 1 Mod		
+Map	Fader 18		Osc 2 Mod	
+Map	Fader 19		Osc 3 Mod
+Map	Fader 20		Osc 1 AM From Osc 2	
+Map	Fader 21		Osc 2 Sync BW	
+Map	Fader 22		Osc 3 Sync BW
+Map	Fader 23		Osc 1 And 2 Level
+Map	Fader 24		Osc 3 Level
+
+Map	Knob 17		Delay Time		
+Map	Knob 18		Delay Feedback
+Map	Knob 19		Delay Rate
+Map	Knob 20		Delay Amt	
+Map	Knob 21		Delay Dry Wet
+
+Map	Knob 23		Osc 1 And 2 Balance
+Map	Knob 24		Shaper Drive
+
+Map	Switch 17		Osc 2 Sync To Osc 1
+Map	Switch 18		Osc 3 Sync To Osc 1
+Map	Switch 19		Delay On
+Map	Switch 20		Delay Sync
+Map	Switch 21		Shaper On
+Map	Switch 22		Shaper Output Dest
+
+
+
+Scope	Propellerheads	Malstrom Graintable Synthesizer			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Fader 1		Filter A Freq		
+Map	Fader 2		Filter A Resonance
+Map	Fader 3		Filter B Freq	
+Map	Fader 4		Filter B Resonance
+Map	Fader 5		Filter Env Attack		
+Map	Fader 6		Filter Env Decay			
+Map	Fader 7		Filter Env Sustain		
+Map	Fader 8		Filter Env Release
+//
+Map	Knob 1		Filter Env Amount	
+Map	Knob 2		Filter A Mode		
+Map	Knob 3		Filter B Mode			
+Map	Knob 4		Shaper Mode			
+Map	Knob 5		Shaper Amount			
+Map	Knob 6		Spread Amount		
+Map	Knob 7		Portamento
+Map	Knob 8		Master Level	
+
+Map	Switch 1		Filter A On/Off
+Map	Switch 2		Filter A Env
+Map	Switch 3		Filter B On/Off
+Map	Switch 4		Filter B Env
+Map	Switch 5		Filter Env Invert
+Map	Switch 6		Shaper On/Off
+//428
+Map	Fader 9		Oscillator A Attack		
+Map	Fader 10		Oscillator A Decay		
+Map	Fader 11		Oscillator A Sustain		
+Map	Fader 12		Oscillator A Release		
+Map	Fader 13		Oscillator B Attack		
+Map	Fader 14		Oscillator B Decay	
+Map	Fader 15		Oscillator B Sustain		
+Map	Fader 16		Oscillator B Release
+//437
+Map	Knob 9		Oscillator A Motion		
+Map	Knob 10		Oscillator A Shift		
+Map	Knob 11		Oscillator A Octave	
+Map	Knob 12		Oscillator A Gain		
+Map	Knob 13		Oscillator B Motion
+Map	Knob 14		Oscillator B Shift	
+Map	Knob 15		Oscillator B Octave
+Map	Knob 16		Oscillator B Gain
+//446
+Map	Switch 9		Oscillator A On/Off
+Map	Switch 10		Route Oscillator A To Shaper
+Map	Switch 11		Route Oscillator A To Filter B
+Map	Switch 12		Oscillator B On/Off
+Map	Switch 13		Route Oscillator B To Filter B
+Map	Switch 14		Route Filter B To Shaper
+
+Map	Fader 17		Modulator A Rate		
+Map	Fader 18		Modulator A To Pitch		
+Map	Fader 19		Modulator A To Index		
+Map	Fader 20		Modulator A To Shift		
+Map	Fader 21		Modulator B Rate		
+Map	Fader 22		Modulator B To Motion	
+Map	Fader 23		Modulator B To Level	
+Map	Fader 24		Modulator B To Filter
+//462
+Map	Knob 17		Modulator A Curve		
+Map	Knob 18		Modulator A Target	
+Map	Knob 19		Modulator B Curve	
+Map	Knob 20		Modulator B Target		
+Map	Knob 21		Modulator B To Modulator A
+Map	Knob 22		Velocity To Level A	
+Map	Knob 23		Velocity To Level B
+Map	Knob 24		Velocity To Filter Env
+//471
+Map	Switch 17		Modulator A On/Off
+Map	Switch 18		Modulator A One Shot
+Map	Switch 19		Modulator A Sync
+Map	Switch 20		Modulator B On/Off
+Map	Switch 21		Modulator B One Shot
+Map	Switch 22		Modulator B Sync
+
+
+
+
+
+Scope	Propellerheads	NN19 Digital Sampler	
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Fader 1		Filter Freq		
+Map	Fader 2		Filter Res		
+Map	Fader 3		Filter Kbd Track		
+Map	Fader 4		Filter Env Amount		
+Map	Fader 5		Filter Env Attack		
+Map	Fader 6		Filter Env Decay	
+Map	Fader 7		Filter Env Sustain		
+Map	Fader 8		Filter Env Release
+
+Map	Knob 1		Filter Mode	
+Map	Knob 2		Filter Freq Ext Mod		
+Map	Knob 3		LFO Ext Mod		
+Map	Knob 4		Amp Ext Mod		
+Map	Knob 5		Amp Env Attack		
+Map	Knob 6		Amp Env Decay		
+Map	Knob 7		Amp Env Sustain			
+Map	Knob 8		Amp Env Release		
+//502
+Map	Switch 1		Filter On/Off
+Map	Switch 2		Filter Env Invert
+				
+
+Map	Fader 9		Osc Octave		
+Map	Fader 10		Osc Semitone		
+Map	Fader 11		Osc Fine Tune		
+Map	Fader 12		Osc Env Amount		
+Map	Fader 13		Sample Start				
+Map	Fader 16		Master Level
+//513
+Map	Knob 9		LFO Rate	
+Map	Knob 10		LFO Amount	
+Map	Knob 11		LFO Wave	
+Map	Knob 12		LFO Dest
+			
+Map	Switch 9		Osc Kbd Track
+Map	Switch 10		LFO Sync Enable
+Map	Switch 11		High Quality Interpolation
+Map	Switch 12		Low Bandwidth On/Off
+					
+
+Map	Fader 17		Filter Env Vel Amount		
+Map	Fader 18		Filter Decay Vel Amount
+Map	Fader 19		Amp Vel Amount
+Map	Fader 20		Amp Attack Vel Amount
+Map	Fader 21		Sample Start Vel Amount		
+Map	Fader 22		Portamento	
+Map	Fader 23		Polyphony	
+Map	Fader 24		Spread
+
+Map	Knob 17		Filter Freq Mod Wheel Amount
+Map	Knob 18		Filter Res Mod Wheel Amount
+Map	Knob 19		Filter Decay Mod Wheel Amount	
+Map	Knob 20		Amp Mod Wheel Amount	
+Map	Knob 21		LFO Mod Wheel Amount	
+			
+	
+
+
+
+Scope	Propellerheads	NN-XT Advanced Sampler			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Fader 1		Filter Freq		
+Map	Fader 2		Filter Res		
+Map	Fader 3		Amp Env Attack		
+Map	Fader 4		Amp Env Decay		
+Map	Fader 5		Amp Env Release		
+Map	Fader 6		Mod Env Decay
+Map	Fader 7		Master Volume			
+
+
+
+
+
+Scope	Propellerheads	Dr.REX Loop Player			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Fader 1		Filter Freq
+Map	Fader 2		Filter Res
+Map	Fader 3		Filter Env Amount
+Map	Fader 4		Filter Mode
+Map	Fader 5		Filter Env Attack
+Map	Fader 6		Filter Env Decay
+Map	Fader 7		Filter Env Sustain
+Map	Fader 8		Filter Env Release
+
+Map	Knob 1		LFO1 Rate	
+Map	Knob 2		LFO1 Amount
+Map	Knob 3		LFO1 Wave
+Map	Knob 4		LFO1 Dest	
+Map	Knob 5		Amp Env Attack			
+Map	Knob 6		Amp Env Decay		
+Map	Knob 7		Amp Env Sustain			
+Map	Knob 8		Amp Env Release			
+
+Map	Switch 1		Filter On/Off
+Map	Switch 2		LFO Sync Enable
+Map	Switch 4		Preview
+Map	Switch 5		Select Next Loop
+Map	Switch 6		Select Previous Loop
+//582
+Map	Fader 9		Filter Env Vel Amount
+Map	Fader 10		Filter Decay Vel Amount
+Map	Fader 11		Amp Vel Amount
+Map	Fader 12		Filter Freq Mod Wheel Amount
+Map	Fader 13		Filter Res Mod Wheel Amount
+Map	Fader 14		Filter Decay Mod Wheel Amount
+Map	Fader 15		Polyphony
+Map	Fader 16		Transpose
+
+Map	Knob 9		Osc Octave	
+Map	Knob 10		Osc Fine Tune
+Map	Knob 11		Osc Env Amount
+
+
+
+
+//599
+Scope	Propellerheads	Redrum Drum Computer			
+Define Group	Keyboard Shortcut Variations	Level Pan 1-8	Level Pan 9-10
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+
+Map	Pad D1		Bank A
+Map	Pad D2		Bank B
+Map	Pad D3		Bank C
+Map	Pad D4		Bank D
+
+Map	Pad D5		Pattern 5
+Map	Pad D6		Pattern 6
+Map	Pad D7		Pattern 7
+Map	Pad D8		Pattern 8
+
+Map	Pad D9		Pattern 1
+Map	Pad D10		Pattern 2
+Map	Pad D11		Pattern 3
+Map	Pad D12		Pattern 4
+
+
+Map	Fader 1		Drum 1 Level			Level Pan 1-8
+Map	Fader 2		Drum 2 Level			Level Pan 1-8
+Map	Fader 3		Drum 3 Level			Level Pan 1-8
+Map	Fader 4		Drum 4 Level			Level Pan 1-8
+Map	Fader 5		Drum 5 Level			Level Pan 1-8
+Map	Fader 6		Drum 6 Level			Level Pan 1-8
+Map	Fader 7		Drum 7 Level			Level Pan 1-8
+Map	Fader 8		Drum 8 Level			Level Pan 1-8
+
+Map	Knob 1		Drum 1 Pan			Level Pan 1-8
+Map	Knob 2		Drum 2 Pan			Level Pan 1-8
+Map	Knob 3		Drum 3 Pan			Level Pan 1-8
+Map	Knob 4		Drum 4 Pan			Level Pan 1-8
+Map	Knob 5		Drum 5 Pan			Level Pan 1-8
+Map	Knob 6		Drum 6 Pan			Level Pan 1-8
+Map	Knob 7		Drum 7 Pan			Level Pan 1-8
+Map	Knob 8		Drum 8 Pan			Level Pan 1-8
+
+Map	Fader 9		Drum 1 Pitch			Level Pan 1-8
+Map	Fader 10		Drum 2 Pitch			Level Pan 1-8
+Map	Fader 11		Drum 3 Pitch			Level Pan 1-8
+Map	Fader 12		Drum 4 Pitch			Level Pan 1-8
+Map	Fader 13		Drum 5 Pitch			Level Pan 1-8
+Map	Fader 14		Drum 6 Pitch			Level Pan 1-8
+Map	Fader 15		Drum 7 Pitch			Level Pan 1-8
+Map	Fader 16		Drum 8 Pitch			Level Pan 1-8
+//657
+Map	Knob 9		Drum 1 Length			Level Pan 1-8
+Map	Knob 10		Drum 2 Length			Level Pan 1-8
+Map	Knob 11		Drum 3 Length			Level Pan 1-8
+Map	Knob 12		Drum 4 Length			Level Pan 1-8
+Map	Knob 13		Drum 5 Length			Level Pan 1-8
+Map	Knob 14		Drum 6 Length			Level Pan 1-8
+Map	Knob 15		Drum 7 Length			Level Pan 1-8
+Map	Knob 16		Drum 8 Length			Level Pan 1-8
+
+Map	Fader 17		Drum 1 Vel to Level			Level Pan 1-8
+Map	Fader 18		Drum 2 Vel to Level			Level Pan 1-8
+Map	Fader 19		Drum 3 Vel to Level			Level Pan 1-8
+Map	Fader 20		Drum 4 Vel to Level			Level Pan 1-8
+Map	Fader 21		Drum 5 Vel to Levelh			Level Pan 1-8
+Map	Fader 22		Drum 6 Vel to Level			Level Pan 1-8
+Map	Fader 23		Drum 7 Vel to Level			Level Pan 1-8
+Map	Fader 24		Drum 8 Vel to Level			Level Pan 1-8
+//675
+Map	Knob 17		Drum 1 Send 1 Amount			Level Pan 1-8
+Map	Knob 18		Drum 2 Send 1 Amount			Level Pan 1-8
+Map	Knob 19		Drum 3 Send 1 Amount			Level Pan 1-8
+Map	Knob 20		Drum 4 Send 1 Amount			Level Pan 1-8
+Map	Knob 21		Drum 5 Send 1 Amount			Level Pan 1-8
+Map	Knob 22		Drum 6 Send 1 Amount			Level Pan 1-8
+Map	Knob 23		Drum 7 Send 1 Amount			Level Pan 1-8
+Map	Knob 24		Drum 8 Send 1 Amount			Level Pan 1-8
+
+Map	Fader 1		Drum 9 Level			Level Pan 9-10
+Map	Fader 2		Drum 10 Level			Level Pan 9-10
+
+Map	Knob 1		Drum 9 Pan			Level Pan 9-10
+Map	Knob 2		Drum 10 Pan			Level Pan 9-10
+
+Map	Fader 9		Drum 9 Pitch			Level Pan 9-10
+Map	Fader 10		Drum 10 Pitch			Level Pan 9-10
+
+Map	Knob 9		Drum 9 Length			Level Pan 9-10
+Map	Knob 10		Drum 10 Length			Level Pan 9-10
+
+Map	Fader 17		Drum 9 Vel to Level			Level Pan 9-10
+Map	Fader 18		Drum 10 Vel to Level			Level Pan 9-10
+
+Map	Knob 17		Drum 9 Send 1 Amount			Level Pan 9-10
+Map	Knob 18		Drum 10 Send 1 Amount			Level Pan 9-10
+
+
+
+
+//706
+Scope	Propellerheads	RV7000 Advanced Reverb			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Fader 1		Decay		
+Map	Fader 2		HF Damp		
+Map	Fader 3		Hi EQ		
+Map	Fader 4		Dry/Wet
+
+Map	Knob 1		Soft Knob 1
+Map	Knob 2		Soft Knob 2
+Map	Knob 3		Soft Knob 3
+Map	Knob 4		Soft Knob 4
+Map	Knob 5		Soft Knob 5
+Map	Knob 6		Soft Knob 6
+Map	Knob 7		Soft Knob 7
+Map	Knob 8		Soft Knob 8
+
+Map	Switch 1		EQ On/Off
+Map	Switch 2		Gate On/Off
+
+
+
+
+
+Scope	Propellerheads	Scream 4 Distortion			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Fader 1		Damage Control		
+Map	Fader 2		Damage Type		
+Map	Fader 3		Parameter 1		
+Map	Fader 4		Parameter 2		
+Map	Fader 5		Cut Lo	
+Map	Fader 6		Cut Mid		
+Map	Fader 7		Cut Hi	
+Map	Fader 8		Master Level		
+
+Map	Knob 1		Body Resonance			
+Map	Knob 2		Body Scale		
+Map	Knob 3		Body Auto		
+Map	Knob 4		Body Type		
+
+Map	Switch 1		Damage On/Off
+Map	Switch 2		Cut On/Off
+Map	Switch 3		Body On/Off
+
+
+
+
+//753
+Scope	Propellerheads	BV512 Digital Vocoder			
+Define Group	Keyboard Shortcut Variations	Band 1-24	Mod Level 1-24	Mod Ban 25-32
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Knob 1		Band Count
+Map	Knob 2		Shift
+Map	Knob 3		Attack
+Map	Knob 4		Decay
+Map	Knob 5		HF Emphasis
+Map	Knob 6		Dry/Wet
+
+Map	Switch 1		Vocoder/Equalizer
+Map	Switch 2		Hold
+
+Map	Fader 1		Band Level 1			Band 1-24
+Map	Fader 2		Band Level 2			Band 1-24
+Map	Fader 3		Band Level 3			Band 1-24
+Map	Fader 4		Band Level 4			Band 1-24
+Map	Fader 5		Band Level 5			Band 1-24
+Map	Fader 6		Band Level 6			Band 1-24
+Map	Fader 7		Band Level 7
+Map	Fader 8		Band Level 8
+
+Map	Fader 9		Band Level 9			Band 1-24
+Map	Fader 10		Band Level 10			Band 1-24
+Map	Fader 11		Band Level 11			Band 1-24
+Map	Fader 12		Band Level 12			Band 1-24
+Map	Fader 13		Band Level 13			Band 1-24
+Map	Fader 14		Band Level 14			Band 1-24
+Map	Fader 15		Band Level 15			Band 1-24
+Map	Fader 16		Band Level 16			Band 1-24
+
+Map	Fader 17		Band Level 17			Band 1-24
+Map	Fader 18		Band Level 18			Band 1-24
+Map	Fader 19		Band Level 19			Band 1-24
+Map	Fader 20		Band Level 20			Band 1-24
+Map	Fader 21		Band Level 21			Band 1-24
+Map	Fader 22		Band Level 22			Band 1-24
+Map	Fader 23		Band Level 23			Band 1-24
+Map	Fader 24		Band Level 24			Band 1-24
+
+
+Map	Fader 1		Mod Level 1			Mod Level 1-24
+Map	Fader 2		Mod Level 2			Mod Level 1-24
+Map	Fader 3		Mod Level 3			Mod Level 1-24
+Map	Fader 4		Mod Level 4			Mod Level 1-24
+Map	Fader 5		Mod Level 5			Mod Level 1-24
+Map	Fader 6		Mod Level 6			Mod Level 1-24
+Map	Fader 7		Mod Level 7			Mod Level 1-24
+Map	Fader 8		Mod Level 8			Mod Level 1-24
+//803
+Map	Fader 9		Mod Level 9			Mod Level 1-24
+Map	Fader 10		Mod Level 10			Mod Level 1-24
+Map	Fader 11		Mod Level 11			Mod Level 1-24
+Map	Fader 12		Mod Level 12			Mod Level 1-24
+Map	Fader 13		Mod Level 13			Mod Level 1-24
+Map	Fader 14		Mod Level 14			Mod Level 1-24
+Map	Fader 15		Mod Level 15			Mod Level 1-24
+Map	Fader 16		Mod Level 16			Mod Level 1-24
+
+Map	Fader 17		Mod Level 17			Mod Level 1-24
+Map	Fader 18		Mod Level 18			Mod Level 1-24
+Map	Fader 19		Mod Level 19			Mod Level 1-24
+Map	Fader 20		Mod Level 20			Mod Level 1-24
+Map	Fader 21		Mod Level 21			Mod Level 1-24
+Map	Fader 22		Mod Level 22			Mod Level 1-24
+Map	Fader 23		Mod Level 23			Mod Level 1-24
+Map	Fader 24		Mod Level 24			Mod Level 1-24
+
+Map	Fader 1		Band Level 25			Mod Ban 25-32
+Map	Fader 2		Band Level 26			Mod Ban 25-32
+Map	Fader 3		Band Level 27			Mod Ban 25-32
+Map	Fader 4		Band Level 28			Mod Ban 25-32
+Map	Fader 5		Band Level 29			Mod Ban 25-32
+Map	Fader 6		Band Level 30			Mod Ban 25-32
+Map	Fader 7		Band Level 31			Mod Ban 25-32
+Map	Fader 8		Band Level 32			Mod Ban 25-32
+
+Map	Fader 9		Mod Level 25			Mod Ban 25-32
+Map	Fader 10		Mod Level 26			Mod Ban 25-32
+Map	Fader 11		Mod Level 27			Mod Ban 25-32
+Map	Fader 12		Mod Level 28			Mod Ban 25-32
+Map	Fader 21		Mod Level 29			Mod Ban 25-32
+Map	Fader 22		Mod Level 30			Mod Ban 25-32
+Map	Fader 23		Mod Level 31			Mod Ban 25-32
+Map	Fader 24		Mod Level 32			Mod Ban 25-32
+
+
+
+
+
+Scope	Propellerheads	MClass Equalizer			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Fader 1		Low Shelf Gain			
+Map	Fader 2		Parametric 1 Gain			
+Map	Fader 3		Parametric 2 Gain		
+Map	Fader 4		Hi Shelf Gain			
+Map	Fader 5		Low Shelf Q			
+Map	Fader 6		Parametric 1 Q			
+Map	Fader 7		Parametric 2 Q			
+Map	Fader 8		Hi Shelf Q
+
+Map	Knob 1		Low Shelf Frequency			
+Map	Knob 2		Parametric 1 Frequency			
+Map	Knob 3		Parametric 2 Frequency			
+Map	Knob 4		Hi Shelf Frequency			
+
+Map	Switch 1		Low Cut Enable
+Map	Switch 2		Low Shelf Enable
+Map	Switch 3		Parametric 1 Enable
+Map	Switch 4		Parametric 2 Enable
+Map	Switch 5		Hi Shelf Enable
+
+
+
+
+//869
+Scope	Propellerheads	MClass Stereo Imager			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Fader 1		Low Width		
+Map	Fader 2		X-Over Frequency		
+Map	Fader 3		High Width		
+Map	Fader 4		Solo Mode			
+
+Map	Switch 1		Low Band Active
+Map	Switch 2		High Band Active
+Map	Switch 3		Separate Out Mode
+
+
+
+
+
+Scope	Propellerheads	MClass Compressor			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Fader 1		Input Gain		
+Map	Fader 2		Threshold		
+Map	Fader 3		Ratio		
+Map	Fader 4		Attack		
+Map	Fader 5		Release		
+Map	Fader 6		Output Gain		
+		
+Map	Switch 1		Soft Knee
+Map	Switch 2		Sidechain Solo
+Map	Switch 3		Adapt
+Map	Switch 4		Sidechain Active
+
+
+//900
+
+
+Scope	Propellerheads	MClass Maximizer			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Fader 1		Input Gain		
+Map	Fader 2		Attack Speed		
+Map	Fader 3		Release Speed		
+Map	Fader 4		Output Gain		
+Map	Fader 5		Soft Clip Amount		
+
+Map	Switch 1		Limiter Enable		
+Map	Switch 2		Look Ahead Enable		
+Map	Switch 3		Soft Clip Enable		
+Map	Switch 4		Output Level Meter Mode	
+
+
+
+
+
+Scope	Propellerheads	RV-7 Digital Reverb			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Fader 1		Algorithm		
+Map	Fader 2		Size		
+Map	Fader 3		Decay		
+Map	Fader 4		Damping		
+Map	Fader 5		Dry/Wet		
+	
+
+
+
+
+Scope	Propellerheads	DDL-1 Digital Delay Line			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Fader 1		DelayTime (steps)		
+Map	Fader 2		DelayTime (ms)		
+Map	Fader 3		Feedback		
+Map	Fader 4		Pan		
+Map	Fader 5		Dry/Wet Balance		
+
+Map	Switch 1		Unit		
+Map	Switch 2		Step Length		
+		
+	
+		
+
+
+Scope	Propellerheads	D-11 Foldback Distortion			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Fader 1		Amount		
+Map	Fader 2		Foldback		
+
+
+
+
+
+Scope	Propellerheads	ECF-42 Envelope Controlled Filter			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Fader 1		Frequency		
+Map	Fader 2		Resonance		
+Map	Fader 3		Env Amount		
+Map	Fader 4		Velocity
+Map	Fader 5		Mode		
+	
+Map	Knob 1		Attack		
+Map	Knob 2		Decay	
+Map	Knob 3		Sustain		
+Map	Knob 4		Release	
+
+Map	Switch 1		Trigger
+
+
+
+
+
+Scope	Propellerheads	CF-101 Chorus/Flanger			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Fader 1		Delay		
+Map	Fader 2		Feedback		
+Map	Fader 3		Rate		
+Map	Fader 4		Modulation Amount		
+
+Map	Switch 1		LFO Sync Enable		
+Map	Switch 2		Send/Insert Mode		
+//984
+
+
+
+
+Scope	Propellerheads	PH-90 Phaser			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Fader 1		Frequency		
+Map	Fader 2		Split		
+Map	Fader 3		Width		
+Map	Fader 4		Rate		
+Map	Fader 5		Frequency Modulation		
+Map	Fader 6		Feedback		
+
+Map	Switch 1		LFO Sync Enable		
+	
+
+
+
+
+Scope	Propellerheads	UN-16 Unison			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Fader 1		Voice Count		
+Map	Fader 2		Detune		
+Map	Fader 3		Dry/Wet			
+
+
+
+
+
+Scope	Propellerheads	COMP-01 Compressor/Limiter			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Fader 1		Ratio		
+Map	Fader 2		Threshold		
+Map	Fader 3		Attack		
+Map	Fader 4		Release		
+Map	Fader 6		Gain		
+
+
+
+
+
+Scope	Propellerheads	PEQ-2 Two Band Parametric EQ			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Fader 1		Filter A Freq		
+Map	Fader 2		Filter A Q		
+Map	Fader 3		Filter A Gain		
+Map	Fader 4		Filter B Freq		
+Map	Fader 5		Filter B Q		
+Map	Fader 6		Filter B Gain		
+
+Map	Switch 1		Filter B On/Off		
+		
+
+
+Scope	Propellerheads	Matrix Pattern Sequencer			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	Fader 1		Pattern Select in Bank
+Map	Fader 2		Bank Select
+Map	Fader 3		Resolution
+
+Map	Pad D1		Bank A
+Map	Pad D2		Bank B
+Map	Pad D3		Bank C
+Map	Pad D4		Bank D
+
+Map	Pad D5		Pattern 5
+Map	Pad D6		Pattern 6
+Map	Pad D7		Pattern 7
+Map	Pad D8		Pattern 8
+
+Map	Pad D9		Pattern 1
+Map	Pad D10		Pattern 2
+Map	Pad D11		Pattern 3
+Map	Pad D12		Pattern 4
+
+Map	Switch 1		Run
+Map	Switch 2		Pattern Enable
+
+
+Scope	Propellerheads	RPG-8 Monophonic Arpeggiator			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	Switch 1		Hold
+Map	Switch 2		Arpeggiator Enable
+Map	Switch 3		Single Note Repeat
+Map	Switch 4		Shuffle
+Map	Switch 5		Pattern Enable
+Map	Switch 6		Sync
+
+Map	Pad D1		Pattern Step 1
+Map	Pad D2		Pattern Step 2
+Map	Pad D3		Pattern Step 3
+Map	Pad D4		Pattern Step 4
+Map	Pad D5		Pattern Step 5
+Map	Pad D6		Pattern Step 6
+Map	Pad D7		Pattern Step 7
+Map	Pad D8		Pattern Step 8
+Map	Pad D9		Pattern Step 9
+Map	Pad D10		Pattern Step 10
+Map	Pad D11		Pattern Step 11
+Map	Pad D12		Pattern Step 12
+Map	Pad D13		Pattern Step 13
+Map	Pad D14		Pattern Step 14
+Map	Pad D15		Pattern Step 15
+Map	Pad D16		Pattern Step 16
+
+
+
+Map	Fader 1		Velocity/Manual
+Map	Fader 2		Mode
+Map	Fader 3		Octave
+Map	Fader 4		Insert
+Map	Fader 5		Rate
+Map	Fader 6		Gate Length
+
+
+

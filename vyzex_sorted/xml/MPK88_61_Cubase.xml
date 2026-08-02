@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<remotedescription version="1.1">
+<ctrltable name="Standard MIDI">
+<ctrl><name>K1</name><stat>176</stat><chan>0</chan><addr>10</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>K2</name><stat>176</stat><chan>1</chan><addr>10</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>K3</name><stat>176</stat><chan>2</chan><addr>10</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>K4</name><stat>176</stat><chan>3</chan><addr>10</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>K5</name><stat>176</stat><chan>4</chan><addr>10</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>K6</name><stat>176</stat><chan>5</chan><addr>10</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>K7</name><stat>176</stat><chan>6</chan><addr>10</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>K8</name><stat>176</stat><chan>7</chan><addr>10</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>K9</name><stat>176</stat><chan>8</chan><addr>10</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>K10</name><stat>176</stat><chan>9</chan><addr>10</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>K11</name><stat>176</stat><chan>10</chan><addr>10</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>K12</name><stat>176</stat><chan>11</chan><addr>10</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>K13</name><stat>176</stat><chan>12</chan><addr>10</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>K14</name><stat>176</stat><chan>13</chan><addr>10</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>K15</name><stat>176</stat><chan>14</chan><addr>10</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>K16</name><stat>176</stat><chan>15</chan><addr>10</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>K17</name><stat>176</stat><chan>0</chan><addr>12</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>K18</name><stat>176</stat><chan>1</chan><addr>12</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>K19</name><stat>176</stat><chan>2</chan><addr>12</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>K20</name><stat>176</stat><chan>3</chan><addr>12</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>K21</name><stat>176</stat><chan>4</chan><addr>12</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>K22</name><stat>176</stat><chan>5</chan><addr>12</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>K23</name><stat>176</stat><chan>6</chan><addr>12</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>K24</name><stat>176</stat><chan>7</chan><addr>12</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>F1</name><stat>176</stat><chan>0</chan><addr>7</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>F2</name><stat>176</stat><chan>1</chan><addr>7</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>F3</name><stat>176</stat><chan>2</chan><addr>7</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>F4</name><stat>176</stat><chan>3</chan><addr>7</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>F5</name><stat>176</stat><chan>4</chan><addr>7</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>F6</name><stat>176</stat><chan>5</chan><addr>7</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>F7</name><stat>176</stat><chan>6</chan><addr>7</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>F8</name><stat>176</stat><chan>7</chan><addr>7</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>F9</name><stat>176</stat><chan>8</chan><addr>7</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>F10</name><stat>176</stat><chan>9</chan><addr>7</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>F11</name><stat>176</stat><chan>10</chan><addr>7</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>F12</name><stat>176</stat><chan>11</chan><addr>7</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>F13</name><stat>176</stat><chan>12</chan><addr>7</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>F14</name><stat>176</stat><chan>13</chan><addr>7</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>F15</name><stat>176</stat><chan>14</chan><addr>7</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>F16</name><stat>176</stat><chan>15</chan><addr>7</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>F17</name><stat>176</stat><chan>0</chan><addr>8</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>F18</name><stat>176</stat><chan>1</chan><addr>8</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>F19</name><stat>176</stat><chan>2</chan><addr>8</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>F20</name><stat>176</stat><chan>3</chan><addr>8</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>F21</name><stat>176</stat><chan>4</chan><addr>8</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>F22</name><stat>176</stat><chan>5</chan><addr>8</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>F23</name><stat>176</stat><chan>6</chan><addr>8</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>F24</name><stat>176</stat><chan>7</chan><addr>8</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>S1</name><stat>176</stat><chan>0</chan><addr>64</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>S2</name><stat>176</stat><chan>1</chan><addr>64</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>S3</name><stat>176</stat><chan>2</chan><addr>64</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>S4</name><stat>176</stat><chan>3</chan><addr>64</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>S5</name><stat>176</stat><chan>4</chan><addr>64</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>S6</name><stat>176</stat><chan>5</chan><addr>64</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>S7</name><stat>176</stat><chan>6</chan><addr>64</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>S8</name><stat>176</stat><chan>7</chan><addr>64</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>S9</name><stat>176</stat><chan>8</chan><addr>64</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>S10</name><stat>176</stat><chan>9</chan><addr>64</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>S11</name><stat>176</stat><chan>10</chan><addr>64</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>S12</name><stat>176</stat><chan>11</chan><addr>64</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>S13</name><stat>176</stat><chan>12</chan><addr>64</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>S14</name><stat>176</stat><chan>13</chan><addr>64</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>S15</name><stat>176</stat><chan>14</chan><addr>64</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>S16</name><stat>176</stat><chan>15</chan><addr>64</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>S17</name><stat>176</stat><chan>0</chan><addr>65</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>S18</name><stat>176</stat><chan>1</chan><addr>65</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>S19</name><stat>176</stat><chan>2</chan><addr>65</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>S20</name><stat>176</stat><chan>3</chan><addr>65</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>S21</name><stat>176</stat><chan>4</chan><addr>65</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>S22</name><stat>176</stat><chan>5</chan><addr>65</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>S23</name><stat>176</stat><chan>6</chan><addr>65</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>S24</name><stat>176</stat><chan>7</chan><addr>65</addr><max>127</max><flags>1</flags></ctrl>
+</ctrltable>
+<bank name="MPK MIXER">
+<entry ctrl="K1">
+<value><device>Mixer</device><chan>0</chan><name>panner:panX</name><flags>0</flags></value>
+</entry>
+<entry ctrl="K2">
+<value><device>Mixer</device><chan>1</chan><name>panner:panX</name><flags>0</flags></value>
+</entry>
+<entry ctrl="K3">
+<value><device>Mixer</device><chan>2</chan><name>panner:panX</name><flags>0</flags></value>
+</entry>
+<entry ctrl="K4">
+<value><device>Mixer</device><chan>3</chan><name>panner:panX</name><flags>0</flags></value>
+</entry>
+<entry ctrl="K5">
+<value><device>Mixer</device><chan>4</chan><name>panner:panX</name><flags>0</flags></value>
+</entry>
+<entry ctrl="K6">
+<value><device>Mixer</device><chan>5</chan><name>panner:panX</name><flags>0</flags></value>
+</entry>
+<entry ctrl="K7">
+<value><device>Mixer</device><chan>6</chan><name>panner:panX</name><flags>0</flags></value>
+</entry>
+<entry ctrl="K8">
+<value><device>Mixer</device><chan>7</chan><name>panner:panX</name><flags>0</flags></value>
+</entry>
+<entry ctrl="K9">
+<value><device>Mixer</device><chan>8</chan><name>panner:panX</name><flags>0</flags></value>
+</entry>
+<entry ctrl="K10">
+<value><device>Mixer</device><chan>9</chan><name>panner:panX</name><flags>0</flags></value>
+</entry>
+<entry ctrl="K11">
+<value><device>Mixer</device><chan>10</chan><name>panner:panX</name><flags>0</flags></value>
+</entry>
+<entry ctrl="K12">
+<value><device>Mixer</device><chan>11</chan><name>panner:panX</name><flags>0</flags></value>
+</entry>
+<entry ctrl="K13">
+<value><device>Mixer</device><chan>12</chan><name>panner:panX</name><flags>0</flags></value>
+</entry>
+<entry ctrl="K14">
+<value><device>Mixer</device><chan>13</chan><name>panner:panX</name><flags>0</flags></value>
+</entry>
+<entry ctrl="K15">
+<value><device>Mixer</device><chan>14</chan><name>panner:panX</name><flags>0</flags></value>
+</entry>
+<entry ctrl="K16">
+<value><device>Mixer</device><chan>15</chan><name>panner:panX</name><flags>0</flags></value>
+</entry>
+<entry ctrl="K17">
+<value><device>Mixer</device><chan>16</chan><name>panner:panX</name><flags>0</flags></value>
+</entry>
+<entry ctrl="K18">
+<value><device>Mixer</device><chan>17</chan><name>panner:panX</name><flags>0</flags></value>
+</entry>
+<entry ctrl="K19">
+<value><device>Mixer</device><chan>18</chan><name>panner:panX</name><flags>0</flags></value>
+</entry>
+<entry ctrl="K20">
+<value><device>Mixer</device><chan>19</chan><name>panner:panX</name><flags>0</flags></value>
+</entry>
+<entry ctrl="K21">
+<value><device>Mixer</device><chan>20</chan><name>panner:panX</name><flags>0</flags></value>
+</entry>
+<entry ctrl="K22">
+<value><device>Mixer</device><chan>21</chan><name>panner:panX</name><flags>0</flags></value>
+</entry>
+<entry ctrl="K23">
+<value><device>Mixer</device><chan>22</chan><name>panner:panX</name><flags>0</flags></value>
+</entry>
+<entry ctrl="K24">
+<value><device>Mixer</device><chan>23</chan><name>panner:panX</name><flags>0</flags></value>
+</entry>
+<entry ctrl="F1">
+<value><device>Mixer</device><chan>0</chan><name>volume</name><flags>0</flags></value>
+</entry>
+<entry ctrl="F2">
+<value><device>Mixer</device><chan>1</chan><name>volume</name><flags>0</flags></value>
+</entry>
+<entry ctrl="F3">
+<value><device>Mixer</device><chan>2</chan><name>volume</name><flags>0</flags></value>
+</entry>
+<entry ctrl="F4">
+<value><device>Mixer</device><chan>3</chan><name>volume</name><flags>0</flags></value>
+</entry>
+<entry ctrl="F5">
+<value><device>Mixer</device><chan>4</chan><name>volume</name><flags>0</flags></value>
+</entry>
+<entry ctrl="F6">
+<value><device>Mixer</device><chan>5</chan><name>volume</name><flags>0</flags></value>
+</entry>
+<entry ctrl="F7">
+<value><device>Mixer</device><chan>6</chan><name>volume</name><flags>0</flags></value>
+</entry>
+<entry ctrl="F8">
+<value><device>Mixer</device><chan>7</chan><name>volume</name><flags>0</flags></value>
+</entry>
+<entry ctrl="F9">
+<value><device>Mixer</device><chan>8</chan><name>volume</name><flags>0</flags></value>
+</entry>
+<entry ctrl="F10">
+<value><device>Mixer</device><chan>9</chan><name>volume</name><flags>0</flags></value>
+</entry>
+<entry ctrl="F11">
+<value><device>Mixer</device><chan>10</chan><name>volume</name><flags>0</flags></value>
+</entry>
+<entry ctrl="F12">
+<value><device>Mixer</device><chan>11</chan><name>volume</name><flags>0</flags></value>
+</entry>
+<entry ctrl="F13">
+<value><device>Mixer</device><chan>12</chan><name>volume</name><flags>0</flags></value>
+</entry>
+<entry ctrl="F14">
+<value><device>Mixer</device><chan>13</chan><name>volume</name><flags>0</flags></value>
+</entry>
+<entry ctrl="F15">
+<value><device>Mixer</device><chan>14</chan><name>volume</name><flags>0</flags></value>
+</entry>
+<entry ctrl="F16">
+<value><device>Mixer</device><chan>15</chan><name>volume</name><flags>0</flags></value>
+</entry>
+<entry ctrl="F17">
+<value><device>Mixer</device><chan>16</chan><name>volume</name><flags>0</flags></value>
+</entry>
+<entry ctrl="F18">
+<value><device>Mixer</device><chan>17</chan><name>volume</name><flags>0</flags></value>
+</entry>
+<entry ctrl="F19">
+<value><device>Mixer</device><chan>18</chan><name>volume</name><flags>0</flags></value>
+</entry>
+<entry ctrl="F20">
+<value><device>Mixer</device><chan>19</chan><name>volume</name><flags>0</flags></value>
+</entry>
+<entry ctrl="F21">
+<value><device>Mixer</device><chan>20</chan><name>volume</name><flags>0</flags></value>
+</entry>
+<entry ctrl="F22">
+<value><device>Mixer</device><chan>21</chan><name>volume</name><flags>0</flags></value>
+</entry>
+<entry ctrl="F23">
+<value><device>Mixer</device><chan>22</chan><name>volume</name><flags>0</flags></value>
+</entry>
+<entry ctrl="F24">
+<value><device>Mixer</device><chan>23</chan><name>volume</name><flags>0</flags></value>
+</entry>
+<entry ctrl="S1">
+<value><device>Mixer</device><chan>0</chan><name>mute</name><flags>0</flags></value>
+</entry>
+<entry ctrl="S2">
+<value><device>Mixer</device><chan>1</chan><name>mute</name><flags>0</flags></value>
+</entry>
+<entry ctrl="S3">
+<value><device>Mixer</device><chan>2</chan><name>mute</name><flags>0</flags></value>
+</entry>
+<entry ctrl="S4">
+<value><device>Mixer</device><chan>3</chan><name>mute</name><flags>0</flags></value>
+</entry>
+<entry ctrl="S5">
+<value><device>Mixer</device><chan>4</chan><name>mute</name><flags>0</flags></value>
+</entry>
+<entry ctrl="S6">
+<value><device>Mixer</device><chan>5</chan><name>mute</name><flags>0</flags></value>
+</entry>
+<entry ctrl="S7">
+<value><device>Mixer</device><chan>6</chan><name>mute</name><flags>0</flags></value>
+</entry>
+<entry ctrl="S8">
+<value><device>Mixer</device><chan>7</chan><name>mute</name><flags>0</flags></value>
+</entry>
+<entry ctrl="S9">
+<value><device>Mixer</device><chan>8</chan><name>mute</name><flags>0</flags></value>
+</entry>
+<entry ctrl="S10">
+<value><device>Mixer</device><chan>9</chan><name>mute</name><flags>0</flags></value>
+</entry>
+<entry ctrl="S11">
+<value><device>Mixer</device><chan>10</chan><name>mute</name><flags>0</flags></value>
+</entry>
+<entry ctrl="S12">
+<value><device>Mixer</device><chan>11</chan><name>mute</name><flags>0</flags></value>
+</entry>
+<entry ctrl="S13">
+<value><device>Mixer</device><chan>12</chan><name>mute</name><flags>0</flags></value>
+</entry>
+<entry ctrl="S14">
+<value><device>Mixer</device><chan>13</chan><name>mute</name><flags>0</flags></value>
+</entry>
+<entry ctrl="S15">
+<value><device>Mixer</device><chan>14</chan><name>mute</name><flags>0</flags></value>
+</entry>
+<entry ctrl="S16">
+<value><device>Mixer</device><chan>15</chan><name>mute</name><flags>0</flags></value>
+</entry>
+<entry ctrl="S17">
+<value><device>Mixer</device><chan>16</chan><name>mute</name><flags>0</flags></value>
+</entry>
+<entry ctrl="S18">
+<value><device>Mixer</device><chan>17</chan><name>mute</name><flags>0</flags></value>
+</entry>
+<entry ctrl="S19">
+<value><device>Mixer</device><chan>18</chan><name>mute</name><flags>0</flags></value>
+</entry>
+<entry ctrl="S20">
+<value><device>Mixer</device><chan>19</chan><name>mute</name><flags>0</flags></value>
+</entry>
+<entry ctrl="S21">
+<value><device>Mixer</device><chan>20</chan><name>mute</name><flags>0</flags></value>
+</entry>
+<entry ctrl="S22">
+<value><device>Mixer</device><chan>21</chan><name>mute</name><flags>0</flags></value>
+</entry>
+<entry ctrl="S23">
+<value><device>Mixer</device><chan>22</chan><name>mute</name><flags>0</flags></value>
+</entry>
+<entry ctrl="S24">
+<value><device>Mixer</device><chan>23</chan><name>mute</name><flags>0</flags></value>
+</entry>
+</bank>
+<bank name="EMBRACER">
+<entry ctrl="K1">
+<value><device>Embracer</device><chan>-1</chan><tag>4207</tag><flags>0</flags></value>
+</entry>
+<entry ctrl="K2">
+<value><device>Embracer</device><chan>-1</chan><tag>4209</tag><flags>0</flags></value>
+</entry>
+<entry ctrl="K3">
+<value><device>Embracer</device><chan>-1</chan><tag>4208</tag><flags>0</flags></value>
+</entry>
+<entry ctrl="K4">
+<value><device>Embracer</device><chan>-1</chan><tag>4216</tag><flags>0</flags></value>
+</entry>
+<entry ctrl="K5">
+<value><device>Embracer</device><chan>-1</chan><tag>4218</tag><flags>0</flags></value>
+</entry>
+<entry ctrl="K6">
+<value><device>Embracer</device><chan>-1</chan><tag>4225</tag><flags>0</flags></value>
+</entry>
+<entry ctrl="K7">
+<value><device>Embracer</device><chan>-1</chan><tag>4226</tag><flags>0</flags></value>
+</entry>
+<entry ctrl="K8">
+<value><device>Embracer</device><chan>-1</chan><tag>4217</tag><flags>0</flags></value>
+</entry>
+<entry ctrl="K9">
+<value><device>Embracer</device><chan>-1</chan><tag>4210</tag><flags>0</flags></value>
+</entry>
+<entry ctrl="K10">
+<value><device>Embracer</device><chan>-1</chan><tag>4211</tag><flags>0</flags></value>
+</entry>
+<entry ctrl="K11">
+<value><device>Embracer</device><chan>-1</chan><tag>4213</tag><flags>0</flags></value>
+</entry>
+<entry ctrl="K12">
+<value><device>Embracer</device><chan>-1</chan><tag>4215</tag><flags>0</flags></value>
+</entry>
+<entry ctrl="K13">
+<value><device>Embracer</device><chan>-1</chan><tag>4219</tag><flags>0</flags></value>
+</entry>
+<entry ctrl="K14">
+<value><device>Embracer</device><chan>-1</chan><tag>4220</tag><flags>0</flags></value>
+</entry>
+<entry ctrl="K15">
+<value><device>Embracer</device><chan>-1</chan><tag>4222</tag><flags>0</flags></value>
+</entry>
+<entry ctrl="K16">
+<value><device>Embracer</device><chan>-1</chan><tag>4224</tag><flags>0</flags></value>
+</entry>
+<entry ctrl="F1">
+<value><device>Embracer</device><chan>-1</chan><tag>4214</tag><flags>0</flags></value>
+</entry>
+<entry ctrl="F2">
+<value><device>Embracer</device><chan>-1</chan><tag>4212</tag><flags>0</flags></value>
+</entry>
+<entry ctrl="F3">
+<value><device>Embracer</device><chan>-1</chan><tag>4223</tag><flags>0</flags></value>
+</entry>
+<entry ctrl="F4">
+<value><device>Embracer</device><chan>-1</chan><tag>4221</tag><flags>0</flags></value>
+</entry>
+<entry ctrl="F5">
+<value><device>Embracer</device><chan>-1</chan><tag>4204</tag><flags>0</flags></value>
+</entry>
+<entry ctrl="F6">
+<value><device>Embracer</device><chan>-1</chan><tag>4205</tag><flags>0</flags></value>
+</entry>
+<entry ctrl="F7">
+<value><device>Embracer</device><chan>-1</chan><tag>4206</tag><flags>0</flags></value>
+</entry>
+<entry ctrl="F8">
+<value><device>Embracer</device><chan>-1</chan><tag>4201</tag><flags>0</flags></value>
+</entry>
+</bank>
+<bank name="MONOLOGUE">
+<entry ctrl="K1">
+<value><device>Monologue</device><chan>-1</chan><tag>4225</tag><flags>0</flags></value>
+</entry>
+<entry ctrl="K2">
+<value><device>Monologue</device><chan>-1</chan><tag>4226</tag><flags>0</flags></value>
+</entry>
+<entry ctrl="K3">
+<value><device>Monologue</device><chan>-1</chan><tag>4229</tag><flags>0</flags></value>
+</entry>
+<entry ctrl="K4">
+<value><device>Monologue</device><chan>-1</chan><tag>4250</tag><flags>0</flags></value>
+</entry>
+<entry ctrl="K5">
+<value><device>Monologue</device><chan>-1</chan><tag>4209</tag><flags>0</flags></value>
+</entry>
+<entry ctrl="K6">
+<value><device>Monologue</device><chan>-1</chan><tag>4214</tag><flags>0</flags></value>
+</entry>
+<entry ctrl="K7">
+<value><device>Monologue</device><chan>-1</chan><tag>4217</tag><flags>0</flags></value>
+</entry>
+<entry ctrl="K8">
+<value><device>Monologue</device><chan>-1</chan><tag>4218</tag><flags>0</flags></value>
+</entry>
+<entry ctrl="F1">
+<value><device>Monologue</device><chan>-1</chan><tag>4238</tag><flags>0</flags></value>
+</entry>
+<entry ctrl="F2">
+<value><device>Monologue</device><chan>-1</chan><tag>4239</tag><flags>0</flags></value>
+</entry>
+<entry ctrl="F3">
+<value><device>Monologue</device><chan>-1</chan><tag>4240</tag><flags>0</flags></value>
+</entry>
+<entry ctrl="F4">
+<value><device>Monologue</device><chan>-1</chan><tag>4241</tag><flags>0</flags></value>
+</entry>
+<entry ctrl="F5">
+<value><device>Monologue</device><chan>-1</chan><tag>4244</tag><flags>0</flags></value>
+</entry>
+<entry ctrl="F6">
+<value><device>Monologue</device><chan>-1</chan><tag>4245</tag><flags>0</flags></value>
+</entry>
+<entry ctrl="F7">
+<value><device>Monologue</device><chan>-1</chan><tag>4246</tag><flags>0</flags></value>
+</entry>
+<entry ctrl="F8">
+<value><device>Monologue</device><chan>-1</chan><tag>4247</tag><flags>0</flags></value>
+</entry>
+</bank>
+<bank name="MYSTIC">
+<entry ctrl="K1">
+<value><device>Mystic</device><chan>-1</chan><tag>4223</tag><flags>0</flags></value>
+</entry>
+<entry ctrl="K2">
+<value><device>Mystic</device><chan>-1</chan><tag>4224</tag><flags>0</flags></value>
+</entry>
+<entry ctrl="K3">
+<value><device>Mystic</device><chan>-1</chan><tag>4225</tag><flags>0</flags></value>
+</entry>
+<entry ctrl="K4">
+<value><device>Mystic</device><chan>-1</chan><tag>4226</tag><flags>0</flags></value>
+</entry>
+<entry ctrl="K5">
+<value><device>Mystic</device><chan>-1</chan><tag>4227</tag><flags>0</flags></value>
+</entry>
+<entry ctrl="K6">
+<value><device>Mystic</device><chan>-1</chan><tag>4228</tag><flags>0</flags></value>
+</entry>
+<entry ctrl="K7">
+<value><device>Mystic</device><chan>-1</chan><tag>4229</tag><flags>0</flags></value>
+</entry>
+<entry ctrl="K8">
+<value><device>Mystic</device><chan>-1</chan><tag>4230</tag><flags>0</flags></value>
+</entry>
+</bank>
+<bank name="PROLOGUE">
+<entry ctrl="K1">
+<value><device>Prologue</device><chan>-1</chan><tag>4223</tag><flags>0</flags></value>
+</entry>
+<entry ctrl="K2">
+<value><device>Prologue</device><chan>-1</chan><tag>4224</tag><flags>0</flags></value>
+</entry>
+<entry ctrl="K3">
+<value><device>Prologue</device><chan>-1</chan><tag>4225</tag><flags>0</flags></value>
+</entry>
+<entry ctrl="K4">
+<value><device>Prologue</device><chan>-1</chan><tag>4226</tag><flags>0</flags></value>
+</entry>
+<entry ctrl="K5">
+<value><device>Prologue</device><chan>-1</chan><tag>4227</tag><flags>0</flags></value>
+</entry>
+<entry ctrl="K6">
+<value><device>Prologue</device><chan>-1</chan><tag>4228</tag><flags>0</flags></value>
+</entry>
+<entry ctrl="K7">
+<value><device>Prologue</device><chan>-1</chan><tag>4229</tag><flags>0</flags></value>
+</entry>
+<entry ctrl="K8">
+<value><device>Prologue</device><chan>-1</chan><tag>4230</tag><flags>0</flags></value>
+</entry>
+<entry ctrl="K9">
+</entry>
+</bank>
+<bank name="SPECTOR">
+<entry ctrl="K1">
+<value><device>Spector</device><chan>-1</chan><tag>4223</tag><flags>0</flags></value>
+</entry>
+<entry ctrl="K2">
+<value><device>Spector</device><chan>-1</chan><tag>4224</tag><flags>0</flags></value>
+</entry>
+<entry ctrl="K3">
+<value><device>Spector</device><chan>-1</chan><tag>4225</tag><flags>0</flags></value>
+</entry>
+<entry ctrl="K4">
+<value><device>Spector</device><chan>-1</chan><tag>4226</tag><flags>0</flags></value>
+</entry>
+<entry ctrl="K5">
+<value><device>Spector</device><chan>-1</chan><tag>4227</tag><flags>0</flags></value>
+</entry>
+<entry ctrl="K6">
+<value><device>Spector</device><chan>-1</chan><tag>4228</tag><flags>0</flags></value>
+</entry>
+<entry ctrl="K7">
+<value><device>Spector</device><chan>-1</chan><tag>4229</tag><flags>0</flags></value>
+</entry>
+<entry ctrl="K8">
+<value><device>Spector</device><chan>-1</chan><tag>4230</tag><flags>0</flags></value>
+</entry>
+</bank>
+<bank name="HALION ONE">
+<entry ctrl="K1">
+<value><device>HALionOne</device><chan>-1</chan><tag>4201</tag><flags>0</flags></value>
+</entry>
+<entry ctrl="K2">
+<value><device>HALionOne</device><chan>-1</chan><tag>4202</tag><flags>0</flags></value>
+</entry>
+<entry ctrl="K3">
+<value><device>HALionOne</device><chan>-1</chan><tag>4203</tag><flags>0</flags></value>
+</entry>
+<entry ctrl="K4">
+<value><device>HALionOne</device><chan>-1</chan><tag>4204</tag><flags>0</flags></value>
+</entry>
+<entry ctrl="K5">
+<value><device>HALionOne</device><chan>-1</chan><tag>4205</tag><flags>0</flags></value>
+</entry>
+<entry ctrl="K6">
+<value><device>HALionOne</device><chan>-1</chan><tag>4206</tag><flags>0</flags></value>
+</entry>
+<entry ctrl="K7">
+<value><device>HALionOne</device><chan>-1</chan><tag>4207</tag><flags>0</flags></value>
+</entry>
+<entry ctrl="K8">
+<value><device>HALionOne</device><chan>-1</chan><tag>4208</tag><flags>0</flags></value>
+</entry>
+</bank>
+</remotedescription>

@@ -1,0 +1,7 @@
+{
+  "topic": "Split keybed feature",
+  "status": "confirmed to exist and run on this unit per direct user statement",
+  "manual_evidence": "Vyzex Users Guide Manual: MISC block screenshot captioned MPK88 WITH SPLIT ENABLED -- feature is documented, screenshot context is MPK88 but code is shared firmware family",
+  "firmware_search_result": "SetSplit string at 0x800c9d4 has ZERO direct references (ldr[pc,#imm] or adr) from any of the 806 mapped functions -- likely reached via computed/indexed table lookup or a register-indirect call path not resolvable by static recursive-descent analysis",
+  "conclusion": "not located in this pass -- genuinely unresolved, not guessed at"
+}

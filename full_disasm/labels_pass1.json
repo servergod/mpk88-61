@@ -1,0 +1,289 @@
+{
+ "0x800496a": {
+  "old_label": "FUN_0800496a",
+  "new_label": "bulk_param_initializer",
+  "confidence": "confirmed",
+  "evidence": "sets/gets 13 distinct param IDs in one function -- factory-defaults/bulk-config loader, not specific to any single pool despite touching some individually-known IDs",
+  "pool": "param_storage"
+ },
+ "0x8004a58": {
+  "old_label": "FUN_08004a58",
+  "new_label": "flash_eeprom_emulation_helper",
+  "confidence": "confirmed",
+  "evidence": "accesses FLASH_IF registers -- part of the virtual-EEPROM parameter storage system (matches real-hardware-confirmed factory reset behavior)",
+  "pool": "param_storage"
+ },
+ "0x8004c10": {
+  "old_label": "FUN_08004c10",
+  "new_label": "periph_clock_pin_init",
+  "confidence": "confirmed",
+  "evidence": "configures RCC/AFIO/GPIO + USART1 baud + SPI1 CR1 together -- system peripheral init, not per-byte data transfer (no DR register access seen)",
+  "pool": "system_init"
+ },
+ "0x8004e94": {
+  "old_label": "FUN_08004e94",
+  "new_label": "gpiod_output_clear",
+  "confidence": "confirmed",
+  "evidence": "writes GPIOD.BRR (bit-reset reg) -- simple digital output line, not the keybed matrix (different port/pattern)",
+  "pool": "gpio_output"
+ },
+ "0x8004e9c": {
+  "old_label": "FUN_08004e9c",
+  "new_label": "gpiod_output_clear",
+  "confidence": "confirmed",
+  "evidence": "writes GPIOD.BRR (bit-reset reg) -- simple digital output line, not the keybed matrix (different port/pattern)",
+  "pool": "gpio_output"
+ },
+ "0x8004ec2": {
+  "old_label": "FUN_08004ec2",
+  "new_label": "gpiod_output_clear",
+  "confidence": "confirmed",
+  "evidence": "writes GPIOD.BRR (bit-reset reg) -- simple digital output line, not the keybed matrix (different port/pattern)",
+  "pool": "gpio_output"
+ },
+ "0x8005ab0": {
+  "old_label": "FUN_08005ab0",
+  "new_label": "bulk_param_initializer",
+  "confidence": "confirmed",
+  "evidence": "sets/gets 48 distinct param IDs in one function -- factory-defaults/bulk-config loader, not specific to any single pool despite touching some individually-known IDs",
+  "pool": "param_storage"
+ },
+ "0x8007fe0": {
+  "old_label": "menu_switch_write_param21_site",
+  "new_label": "ui_screen_state_user",
+  "confidence": "confirmed",
+  "evidence": "touches param 21, hand-confirmed meaning: current UI menu-screen ID (already traced tonight)",
+  "pool": "ui_menu"
+ },
+ "0x80082ea": {
+  "old_label": "FUN_080082ea",
+  "new_label": "transport_mmc_string_lookup",
+  "confidence": "confirmed",
+  "evidence": "references transport/MMC label string(s) ['mmc_record_string'] -- confirms transport button handling, independently corroborates the CTRL 115-119 CC mapping",
+  "pool": "transport"
+ },
+ "0x80083b6": {
+  "old_label": "FUN_080083b6",
+  "new_label": "transport_mmc_string_lookup",
+  "confidence": "confirmed",
+  "evidence": "references transport/MMC label string(s) ['mmc_play_string'] -- confirms transport button handling, independently corroborates the CTRL 115-119 CC mapping",
+  "pool": "transport"
+ },
+ "0x800847c": {
+  "old_label": "FUN_0800847c",
+  "new_label": "transport_mmc_string_lookup",
+  "confidence": "confirmed",
+  "evidence": "references transport/MMC label string(s) ['mmc_stop_string'] -- confirms transport button handling, independently corroborates the CTRL 115-119 CC mapping",
+  "pool": "transport"
+ },
+ "0x8008966": {
+  "old_label": "FUN_08008966",
+  "new_label": "transport_mmc_string_lookup",
+  "confidence": "confirmed",
+  "evidence": "references transport/MMC label string(s) ['mmc_forward_string'] -- confirms transport button handling, independently corroborates the CTRL 115-119 CC mapping",
+  "pool": "transport"
+ },
+ "0x8008a0a": {
+  "old_label": "FUN_08008a0a",
+  "new_label": "transport_mmc_string_lookup",
+  "confidence": "confirmed",
+  "evidence": "references transport/MMC label string(s) ['mmc_back_string'] -- confirms transport button handling, independently corroborates the CTRL 115-119 CC mapping",
+  "pool": "transport"
+ },
+ "0x8008c4c": {
+  "old_label": "FUN_08008c4c",
+  "new_label": "keyscan_gate1_mode_toggle_user",
+  "confidence": "confirmed",
+  "evidence": "touches param 62, hand-confirmed meaning: key-scan gate 1 condition (already traced tonight, tested on real hardware)",
+  "pool": "keybed_gate"
+ },
+ "0x8008cbc": {
+  "old_label": "FUN_08008cbc",
+  "new_label": "keyscan_gate1_mode_toggle_user",
+  "confidence": "confirmed",
+  "evidence": "touches param 62, hand-confirmed meaning: key-scan gate 1 condition (already traced tonight, tested on real hardware)",
+  "pool": "keybed_gate"
+ },
+ "0x80091e8": {
+  "old_label": "FUN_080091e8",
+  "new_label": "bulk_param_initializer",
+  "confidence": "confirmed",
+  "evidence": "sets/gets 8 distinct param IDs in one function -- factory-defaults/bulk-config loader, not specific to any single pool despite touching some individually-known IDs",
+  "pool": "param_storage"
+ },
+ "0x80093b4": {
+  "old_label": "FUN_080093b4",
+  "new_label": "bulk_param_initializer",
+  "confidence": "confirmed",
+  "evidence": "sets/gets 19 distinct param IDs in one function -- factory-defaults/bulk-config loader, not specific to any single pool despite touching some individually-known IDs",
+  "pool": "param_storage"
+ },
+ "0x800cafe": {
+  "old_label": "FUN_0800cafe",
+  "new_label": "velocity_curve_name_lookup",
+  "confidence": "confirmed",
+  "evidence": "references velocity-curve name string(s) ['curve_name_linear'] -- UI display code for the curve selector, matches the 5-entry curve table at 0x8011334",
+  "pool": "velocity"
+ },
+ "0x800cb70": {
+  "old_label": "FUN_0800cb70",
+  "new_label": "velocity_curve_name_lookup",
+  "confidence": "confirmed",
+  "evidence": "references velocity-curve name string(s) ['curve_name_linear'] -- UI display code for the curve selector, matches the 5-entry curve table at 0x8011334",
+  "pool": "velocity"
+ },
+ "0x800eee8": {
+  "old_label": "FUN_0800eee8",
+  "new_label": "bulk_param_initializer",
+  "confidence": "confirmed",
+  "evidence": "sets/gets 55 distinct param IDs in one function -- factory-defaults/bulk-config loader, not specific to any single pool despite touching some individually-known IDs",
+  "pool": "param_storage"
+ },
+ "0x8010978": {
+  "old_label": "FUN_08010978",
+  "new_label": "keybed_matrix_helper",
+  "confidence": "inferred",
+  "evidence": "shares exact peripheral signature (GPIOC.CRL config + AFIO EXTI mux) with confirmed matrix-scan functions matrix_drive_line_select/matrix_row_change_handler/matrix_per_row_scan/matrix_scan_orchestrator -- same subsystem, specific role within it not individually confirmed",
+  "pool": "keybed_matrix"
+ },
+ "0x80109a6": {
+  "old_label": "FUN_080109a6",
+  "new_label": "keybed_matrix_helper",
+  "confidence": "inferred",
+  "evidence": "shares exact peripheral signature (GPIOC.CRL config + AFIO EXTI mux) with confirmed matrix-scan functions matrix_drive_line_select/matrix_row_change_handler/matrix_per_row_scan/matrix_scan_orchestrator -- same subsystem, specific role within it not individually confirmed",
+  "pool": "keybed_matrix"
+ },
+ "0x80109ba": {
+  "old_label": "FUN_080109ba",
+  "new_label": "keybed_matrix_helper",
+  "confidence": "inferred",
+  "evidence": "shares exact peripheral signature (GPIOC.CRL config + AFIO EXTI mux) with confirmed matrix-scan functions matrix_drive_line_select/matrix_row_change_handler/matrix_per_row_scan/matrix_scan_orchestrator -- same subsystem, specific role within it not individually confirmed",
+  "pool": "keybed_matrix"
+ },
+ "0x8010d04": {
+  "old_label": "FUN_08010d04",
+  "new_label": "keybed_matrix_helper",
+  "confidence": "inferred",
+  "evidence": "shares exact peripheral signature (GPIOC.CRL config + AFIO EXTI mux) with confirmed matrix-scan functions matrix_drive_line_select/matrix_row_change_handler/matrix_per_row_scan/matrix_scan_orchestrator -- same subsystem, specific role within it not individually confirmed",
+  "pool": "keybed_matrix"
+ },
+ "0x8010d1a": {
+  "old_label": "FUN_08010d1a",
+  "new_label": "keybed_matrix_helper",
+  "confidence": "inferred",
+  "evidence": "shares exact peripheral signature (GPIOC.CRL config + AFIO EXTI mux) with confirmed matrix-scan functions matrix_drive_line_select/matrix_row_change_handler/matrix_per_row_scan/matrix_scan_orchestrator -- same subsystem, specific role within it not individually confirmed",
+  "pool": "keybed_matrix"
+ },
+ "0x8010d78": {
+  "old_label": "FUN_08010d78",
+  "new_label": "keybed_matrix_helper",
+  "confidence": "inferred",
+  "evidence": "shares exact peripheral signature (GPIOC.CRL config + AFIO EXTI mux) with confirmed matrix-scan functions matrix_drive_line_select/matrix_row_change_handler/matrix_per_row_scan/matrix_scan_orchestrator -- same subsystem, specific role within it not individually confirmed",
+  "pool": "keybed_matrix"
+ },
+ "0x80110f6": {
+  "old_label": "FUN_080110f6",
+  "new_label": "keybed_matrix_helper",
+  "confidence": "inferred",
+  "evidence": "shares exact peripheral signature (GPIOC.CRL config + AFIO EXTI mux) with confirmed matrix-scan functions matrix_drive_line_select/matrix_row_change_handler/matrix_per_row_scan/matrix_scan_orchestrator -- same subsystem, specific role within it not individually confirmed",
+  "pool": "keybed_matrix"
+ },
+ "0x8011222": {
+  "old_label": "FUN_08011222",
+  "new_label": "keybed_matrix_helper",
+  "confidence": "inferred",
+  "evidence": "shares exact peripheral signature (GPIOC.CRL config + AFIO EXTI mux) with confirmed matrix-scan functions matrix_drive_line_select/matrix_row_change_handler/matrix_per_row_scan/matrix_scan_orchestrator -- same subsystem, specific role within it not individually confirmed",
+  "pool": "keybed_matrix"
+ },
+ "0x8014b00": {
+  "old_label": "FUN_08014b00",
+  "new_label": "keybed_matrix_helper",
+  "confidence": "inferred",
+  "evidence": "shares exact peripheral signature (GPIOC.CRL config + AFIO EXTI mux) with confirmed matrix-scan functions matrix_drive_line_select/matrix_row_change_handler/matrix_per_row_scan/matrix_scan_orchestrator -- same subsystem, specific role within it not individually confirmed",
+  "pool": "keybed_matrix"
+ },
+ "0x8014b7a": {
+  "old_label": "FUN_08014b7a",
+  "new_label": "keybed_matrix_helper",
+  "confidence": "inferred",
+  "evidence": "shares exact peripheral signature (GPIOC.CRL config + AFIO EXTI mux) with confirmed matrix-scan functions matrix_drive_line_select/matrix_row_change_handler/matrix_per_row_scan/matrix_scan_orchestrator -- same subsystem, specific role within it not individually confirmed",
+  "pool": "keybed_matrix"
+ },
+ "0x8014bda": {
+  "old_label": "FUN_08014bda",
+  "new_label": "keybed_matrix_helper",
+  "confidence": "inferred",
+  "evidence": "shares exact peripheral signature (GPIOC.CRL config + AFIO EXTI mux) with confirmed matrix-scan functions matrix_drive_line_select/matrix_row_change_handler/matrix_per_row_scan/matrix_scan_orchestrator -- same subsystem, specific role within it not individually confirmed",
+  "pool": "keybed_matrix"
+ },
+ "0x8014d14": {
+  "old_label": "FUN_08014d14",
+  "new_label": "keybed_matrix_helper",
+  "confidence": "inferred",
+  "evidence": "shares exact peripheral signature (GPIOC.CRL config + AFIO EXTI mux) with confirmed matrix-scan functions matrix_drive_line_select/matrix_row_change_handler/matrix_per_row_scan/matrix_scan_orchestrator -- same subsystem, specific role within it not individually confirmed",
+  "pool": "keybed_matrix"
+ },
+ "0x8014d64": {
+  "old_label": "FUN_08014d64",
+  "new_label": "keybed_matrix_helper",
+  "confidence": "inferred",
+  "evidence": "shares exact peripheral signature (GPIOC.CRL config + AFIO EXTI mux) with confirmed matrix-scan functions matrix_drive_line_select/matrix_row_change_handler/matrix_per_row_scan/matrix_scan_orchestrator -- same subsystem, specific role within it not individually confirmed",
+  "pool": "keybed_matrix"
+ },
+ "0x8017c18": {
+  "old_label": "FUN_08017c18",
+  "new_label": "periph_clock_pin_init",
+  "confidence": "confirmed",
+  "evidence": "configures RCC/AFIO/GPIO + USART1 baud + SPI1 CR1 together -- system peripheral init, not per-byte data transfer (no DR register access seen)",
+  "pool": "system_init"
+ },
+ "0x8017d8a": {
+  "old_label": "FUN_08017d8a",
+  "new_label": "periph_clock_pin_init",
+  "confidence": "confirmed",
+  "evidence": "configures RCC/AFIO/GPIO + USART1 baud + SPI1 CR1 together -- system peripheral init, not per-byte data transfer (no DR register access seen)",
+  "pool": "system_init"
+ },
+ "0x8018164": {
+  "old_label": "FUN_08018164",
+  "new_label": "flash_eeprom_emulation_helper",
+  "confidence": "confirmed",
+  "evidence": "accesses FLASH_IF registers -- part of the virtual-EEPROM parameter storage system (matches real-hardware-confirmed factory reset behavior)",
+  "pool": "param_storage"
+ },
+ "0x8018170": {
+  "old_label": "FUN_08018170",
+  "new_label": "flash_eeprom_emulation_helper",
+  "confidence": "confirmed",
+  "evidence": "accesses FLASH_IF registers -- part of the virtual-EEPROM parameter storage system (matches real-hardware-confirmed factory reset behavior)",
+  "pool": "param_storage"
+ },
+ "0x80181b0": {
+  "old_label": "FUN_080181b0",
+  "new_label": "flash_eeprom_emulation_helper",
+  "confidence": "confirmed",
+  "evidence": "accesses FLASH_IF registers -- part of the virtual-EEPROM parameter storage system (matches real-hardware-confirmed factory reset behavior)",
+  "pool": "param_storage"
+ },
+ "0x80181d8": {
+  "old_label": "FUN_080181d8",
+  "new_label": "flash_eeprom_emulation_helper",
+  "confidence": "confirmed",
+  "evidence": "accesses FLASH_IF registers -- part of the virtual-EEPROM parameter storage system (matches real-hardware-confirmed factory reset behavior)",
+  "pool": "param_storage"
+ },
+ "0x80181e8": {
+  "old_label": "FUN_080181e8",
+  "new_label": "flash_eeprom_emulation_helper",
+  "confidence": "confirmed",
+  "evidence": "accesses FLASH_IF registers -- part of the virtual-EEPROM parameter storage system (matches real-hardware-confirmed factory reset behavior)",
+  "pool": "param_storage"
+ },
+ "0x8018220": {
+  "old_label": "FUN_08018220",
+  "new_label": "flash_eeprom_emulation_helper",
+  "confidence": "confirmed",
+  "evidence": "accesses FLASH_IF registers -- part of the virtual-EEPROM parameter storage system (matches real-hardware-confirmed factory reset behavior)",
+  "pool": "param_storage"
+ }
+}

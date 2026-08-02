@@ -1,0 +1,259 @@
+# BFD MIDI CC to Synth Parameter map file
+# <MIDI CC> <Synth Param>
+
+# Bank Select -> < none >
+0 -1
+# Modulation wheel (coarse) -> < none >
+1 -1
+# Breath controller (coarse) -> < none >
+2 -1
+# Controller 3 -> < Phase Flip Snare Bot >
+3 148
+# Foot pedal (coarse) -> < Hihat Pedal >
+4 163
+# Portamento time (coarse) -> < none >
+5 -1
+# Data entry (coarse) -> < Phase Flip Kick In >
+6 149
+# Volume (coarse) -> < Master Level >
+7 144
+# Balance (coarse) -> < none >
+8 -1
+# Controller 9 -> < Master Dynamics >
+9 156
+# Pan position (coarse) -> < none >
+10 -1
+# Expression (coarse) -> < none >
+11 -1
+# Effect control 1 (coarse) -> < none >
+12 -1
+# Effect control 2 (coarse) -> < none >
+13 -1
+# Controller 14 -> < 1/2 Time A >
+14 164
+# Controller 15 -> < 1/2 Time B >
+15 165
+# Gen. purpose slider 1 -> < Direct Master Level >
+16 126
+# Gen. purpose slider 2 -> < Overhead  Level >
+17 135
+# Gen. purpose slider 3 -> < Room  Level >
+18 136
+# Gen. purpose slider 4 -> < PZM  Level >
+19 137
+# Controller 20 -> < Direct Master Mute >
+20 128
+# Controller 21 -> < Overhead  Mute >
+21 132
+# Controller 22 -> < Room  Mute >
+22 133
+# Controller 23 -> < PZM  Mute >
+23 134
+# Controller 24 -> < Direct Master Solo >
+24 127
+# Controller 25 -> < Overhead  Solo >
+25 129
+# Controller 26 -> < Room  Solo >
+26 130
+# Controller 27 -> < PZM  Solo >
+27 131
+# Controller 28 -> < Overhead  Distance >
+28 138
+# Controller 29 -> < Room  Distance >
+29 139
+# Controller 30 -> < PZM  Distance >
+30 140
+# Controller 31 -> < Overhead  Width >
+31 141
+# Bank select (fine) -> < Room  Width >
+32 142
+# Modulation wheel (fine) -> < PZM  Width >
+33 143
+# Breath controller (fine) -> < Master Pan Spread >
+34 145
+# Controller 35 -> < Snare Bot/Top mix >
+35 146
+# Foot pedal (fine) -> < Snare2 Bot/Top mix >
+36 166
+# Portamento time (fine) -> < none >
+37 -1
+# Data entry (fine) -> < none >
+38 -1
+# Volume (fine) -> < none >
+39 -1
+# Balance (fine) -> < none >
+40 -1
+# Controller 41 -> < Kick In/Out mix >
+41 147
+# Pan position (fine) -> < Kick2 In/Out mix >
+42 167
+# Expression (fine) -> < none >
+43 -1
+# Effect control 1 (fine) -> < Timing Deviation >
+44 150
+# Effect control 2 (fine) -> < Timing Distribution >
+45 151
+# Controller 46 -> < Velocity Deviation >
+46 152
+# Controller 47 -> < Velocity Distribution >
+47 153
+# Controller 48 -> < Swing >
+48 154
+# Controller 49 -> < Quantization >
+49 155
+# Controller 50 -> < Kick1 Trim >
+50 36
+# Controller 51 -> < Kick1 Tune >
+51 54
+# Controller 52 -> < Kick1 Mute >
+52 18
+# Controller 53 -> < Kick1 Direct Trim >
+53 90
+# Controller 54 -> < Kick1 Direct Pan >
+54 108
+# Controller 55 -> < Snare1 Trim >
+55 37
+# Controller 56 -> < Snare1 Tune >
+56 55
+# Controller 57 -> < Snare1 Mute >
+57 19
+# Controller 58 -> < Snare1 Direct Trim >
+58 91
+# Controller 59 -> < Snare1 Direct Pan >
+59 109
+# Controller 60 -> < Hihat Trim >
+60 38
+# Controller 61 -> < Hihat Tune >
+61 56
+# Controller 62 -> < Hihat Mute >
+62 20
+# Controller 63 -> < Hihat Direct Trim >
+63 92
+# Hold pedal (on/off) -> < none >
+64 -1
+# Portamento (on/off) -> < none >
+65 -1
+# Sustenuto pedal (on/off) -> < none >
+66 -1
+# Soft pedal (on/off) -> < none >
+67 -1
+# Legato pedal (on/off) -> < none >
+68 -1
+# Hold 2 pedal (on/off) -> < none >
+69 -1
+# Sound variation -> < Hihat Direct Pan >
+70 110
+# Sound timbre -> < Tom F Trim >
+71 39
+# Sound release time -> < Tom F Tune >
+72 57
+# Sound attack time -> < Tom F Mute >
+73 21
+# Filter cutoff -> < Tom F Direct Trim >
+74 93
+# Sound control 6 -> < Tom F Direct Pan >
+75 111
+# Sound control 7 -> < Tom M Trim >
+76 40
+# Sound control 8 -> < Tom M Tune >
+77 58
+# Sound control 9 -> < Tom M Mute >
+78 22
+# Sound control 10 -> < Tom M Direct Trim >
+79 94
+# Gen. purpose button 1 (on/off) -> < Tom M Direct Pan >
+80 112
+# Gen. purpose button 2 (on/off) -> < Tom H Trim >
+81 41
+# Gen. purpose button 3 (on/off) -> < Tom H Tune >
+82 59
+# Gen. purpose button 4 (on/off) -> < Tom H Mute >
+83 23
+# Controller 84 -> < Tom H Direct Trim >
+84 95
+# Controller 85 -> < Tom H Direct Pan >
+85 113
+# Controller 86 -> < Cym1 Trim >
+86 42
+# Controller 87 -> < Cym1 Tune >
+87 60
+# Controller 88 -> < Cym1 Mute >
+88 24
+# Controller 89 -> < Cym1 Direct Trim >
+89 96
+# Controller 90 -> < Cym1 Direct Pan >
+90 114
+# Effects level -> < Cym2 Trim >
+91 43
+# Tremulo level -> < Cym2 Tune >
+92 61
+# Chorus level -> < Cym2 Mute >
+93 25
+# Celeste level -> < Cym2 Direct Trim >
+94 97
+# Phaser level -> < Cym2 Direct Pan >
+95 115
+# Data button increment -> < Cym3 Trim >
+96 44
+# Data button decrement -> < Cym3 Tune >
+97 62
+# Non-reg. parameter (fine) -> < Cym3 Dynamics >
+98 80
+# Non-reg. parameter (coarse) -> < Cym3 Direct Trim >
+99 98
+# Reg. parameter (fine) -> < Cym3 Direct Pan >
+100 116
+# Reg. parameter (coarse) -> < none >
+101 -1
+# Controller 102 -> < Kick1 Solo >
+102 0
+# Controller 103 -> < Snare1 Solo >
+103 1
+# Controller 104 -> < Hihat Solo >
+104 2
+# Controller 105 -> < Tom F Solo >
+105 3
+# Controller 106 -> < Tom M Solo >
+106 4
+# Controller 107 -> < Tom H Solo >
+107 5
+# Controller 108 -> < Cym1 Solo >
+108 6
+# Controller 109 -> < Cym2 Solo >
+109 7
+# Controller 110 -> < none >
+110 -1
+# Controller 111 -> < none >
+111 -1
+# Controller 112 -> < none >
+112 -1
+# Controller 113 -> < none >
+113 -1
+# Controller 114 -> < none >
+114 -1
+# Controller 115 -> < none >
+115 -1
+# Controller 116 -> < none >
+116 -1
+# Controller 117 -> < none >
+117 -1
+# Controller 118 -> < none >
+118 -1
+# Controller 119 -> < none >
+119 -1
+# All sound off -> < none >
+120 -1
+# All controllers off -> < none >
+121 -1
+# Local keyboard (on/off) -> < none >
+122 -1
+# All notes off -> < none >
+123 -1
+# Omni mode off -> < none >
+124 -1
+# Omni mode On -> < none >
+125 -1
+# Mono operation -> < none >
+126 -1
+# Poly operation -> < none >
+127 -1
